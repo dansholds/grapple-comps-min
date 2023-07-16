@@ -13,24 +13,20 @@ location: Southampton
 ## Sign-Up
 https://smoothcomp.com/en/event/11853/register
 ## Description
+
 <ul>
-  <li>Date and Time: The competition will run between 9am and 5pm, with weigh-ins starting at 8:30am.</li>
-  <li>Categories: There will be Gi and NoGi categories available for all ages.</li>
-  <li>Divisions: Both competitions are open to Child, Junior, and Adult/Masters/Seniors divisions.</li>
-  <li>Rules: The event will follow the standard IBJJF rules.</li>
-  <li>Competitor Grouping: Competitors in all divisions will be grouped based on experience levels as follows:
-    <ul>
-      <li>Novice (Up to 6 Months)</li>
-      <li>Beginners (6 Months - 2 Years)</li>
-      <li>Intermediate (2 Years - 4 Years)</li>
-      <li>Advanced (4+ Years)</li>
-    </ul>
-  </li>
-  <li>Competitor Limit: The initial cap for this event is set at 50 competitors.</li>
-  <li>Cancellation Deadline: The final cancellation deadline is 14th July 2023, to ensure maximum fight opportunities for all participants. No late fee will be charged. All eligible refunds will be issued directly through SMOOTHCOMP, so there's no need to contact the organizers.</li>
-  <li>Group Publication: Groups will be published before the day of the event.</li>
-  <li>Inter-Clubs and Growth: This event aims to provide a safe environment for gaining experience. The grouping of participants will depend on the registrations received, with efforts made to place individuals in groups that foster growth as BJJ practitioners.</li>
-  <li>Costs: The entry fee is £15.00 for 1 category or £25.00 for both Gi and NoGi. Parents and coaches enjoy free entry.</li>
+  <li>Neon Martial Arts & Fitness presents its second BJJ Interclub</li>
+  <li>Date: 22nd July 2023</li>
+  <li>Time: 9am to 5pm (Weigh-ins at 8.30am)</li>
+  <li>Gi and NoGi categories for all ages</li>
+  <li>Open to Child, Junior, and Adult/Masters/Seniors divisions</li>
+  <li>Contested under standard IBJJF rules</li>
+  <li>Competitors grouped by Novice, Beginners, Intermediate, and Advanced</li>
+  <li>Capped initially at 50 competitors</li>
+  <li>Final cancellation by 14th July 2023 with no late fee</li>
+  <li>Groups will be published before the day</li>
+  <li>Cost: £15 for 1 category, £25 for Gi and NoGi</li>
+  <li>Parents/Coaches: Free entry</li>
 </ul>
 
 ## Location
