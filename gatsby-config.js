@@ -2,27 +2,22 @@ module.exports = {
   siteMetadata: {
     title: `🤼`,
     author: {
-      name: `Yinka Adedire`,
-      summary: `Self-taught front-end web dev. JAMStack.`,
+      name: `Dan Holdsworth`,
+      summary: `Engineer.`,
     },
     openGraphImage: `open-graph-image.png`,
-    description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
-    siteUrl: `https://gatsbyglass.netlify.app`,
+    description: `Connecting Grapplers To Their Next Challenge.`,
+    siteUrl: `https://grapplecomps.com`,
     social: {
-      twitter: `yinkakun`,
     },
     socialLinks: [
       {
         name: "github",
-        url: "https://github.com",
-      },
-      {
-        name: "twitter",
-        url: "https://twitter.com",
+        url: "https://github.com/dansholds",
       },
       {
         name: "instagram",
-        url: "https://instagram.com",
+        url: "https://instagram.com/grapplingdev",
       },
     ],
   },
