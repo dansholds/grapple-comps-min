@@ -9,13 +9,13 @@ const TagsTemplate = ({ pageContext, data }) => {
   const { tag } = pageContext;
   const { totalCount } = data.allMarkdownRemark;
   const posts = data.allMarkdownRemark.nodes;
-  const title = `Posts tagged ${tag}`;
+  const title = `Comps tagged ${tag}`;
 
   return (
     <Layout title={title}>
       <TagsTemplateWrapper>
         <Title>
-          {totalCount} posts tagged "{tag}"
+          {totalCount} comps tagged "{tag}"
         </Title>
         <Link
           css={`

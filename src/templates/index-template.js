@@ -30,7 +30,7 @@ const HomePage = ({ data }) => {
         `}
         to="/blog"
       >
-        View All posts
+        View All Comps
       </StyledLink>
     </Layout>
   );
