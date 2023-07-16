@@ -4,8 +4,8 @@ import { Link } from "gatsby";
 import Tags from "./tags";
 
 const PostList = ({ posts }) => {
-  const PostList = posts.map(({ frontmatter, fields, excerpt, timeToRead }) => {
-    const { title, tags, date, description } = frontmatter;
+  const PostList = posts.map(({ frontmatter, fields, excerpt }) => {
+    const { title, tags, date, description, price, location } = frontmatter;
     const { slug } = fields;
 
     return (
@@ -15,7 +15,8 @@ const PostList = ({ posts }) => {
         title={title}
         date={date}
         slug={slug}
-        timeToRead={timeToRead}
+        price={price}
+        location={location}
         description={description}
         excerpt={excerpt}
       />
@@ -30,7 +31,8 @@ export default PostList;
 const PostListItem = ({
   title,
   date,
-  timeToRead,
+  price,
+  location,
   tags,
   excerpt,
   description,
@@ -50,8 +52,8 @@ const PostListItem = ({
       />
       <PostListMeta>
         <span>{date}</span>
-
-        <span>{timeToRead} mins</span>
+        <span>{location}</span>
+        <span>{price}</span>
       </PostListMeta>
     </StyledPostListItem>
   );

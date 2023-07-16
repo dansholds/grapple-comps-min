@@ -5,5 +5,7 @@ tags:
   - adcc
   - gi
 social_image: /media/rocket.jpg
-description: Join us for this random comp and stuff.
+description: This is a long description that goes on and on and on and on and on.
+price: £30
+location: London
 ---

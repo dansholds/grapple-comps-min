@@ -78,12 +78,13 @@ export const pageQuery = graphql`
           slug
         }
         excerpt
-        timeToRead
         frontmatter {
           date(formatString: "MMMM DD, YYYY")
           description
           title
           tags
+          price
+          location
         }
       }
     }

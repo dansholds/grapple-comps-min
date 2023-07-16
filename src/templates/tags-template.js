@@ -74,8 +74,9 @@ export const pageQuery = graphql`
           description
           tags
           title
+          price
+          location
         }
-        timeToRead
         excerpt
       }
     }
