@@ -8,8 +8,8 @@ const Footer = () => {
     <StyledFooter>
       <FooterWrapper>
         <SocialLinks />
-
         <FooterAttribution>
+        ☕ Buy us a <a href="https://buymeacoffee.com/grapplecomps">coffee</a> to show support
         </FooterAttribution>
       </FooterWrapper>
     </StyledFooter>
@@ -24,7 +24,7 @@ const StyledFooter = styled.footer`
 `;
 
 const FooterAttribution = styled.p`
-  font-size: var(--size-300);
+  font-size: var(--size-350);
 
   & a {
     color: inherit;
