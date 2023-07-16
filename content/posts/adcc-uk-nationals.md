@@ -2,6 +2,7 @@
 title: ADCC UK National Championship
 date: 2023-08-12
 tags:
+  - August
   - ADCC
   - no-gi
 description: ADCC UK National Championships 2023 
