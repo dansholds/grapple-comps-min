@@ -3,6 +3,6 @@ title: 'Contact Me'
 template: 'contact-template'
 ---
 
-# Get in Touch.
+# Running a comp?
 
-If you've got an inquiry for a job or project,drop me a line at hello@hello.com or fill the form right here.
+Fill in the form right here and after it's reviewed (to make sure it's nothing something crazy 🫣) it will be added to the site.

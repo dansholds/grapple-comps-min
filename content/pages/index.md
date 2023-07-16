@@ -1,8 +1,8 @@
 ---
 template: "index-template"
-title: "Gatsby Starter Glass"
+title: "Grapple Comps"
 ---
 
-# Hello World
+# Grapple Comps
 
-A minimal & beautiful gatsby personal blog starter with nice glassmorphism UI.
+Connecting Grapplers To Their Next Challenge.
