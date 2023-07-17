@@ -52,6 +52,7 @@ const ContactForm = () => {
               id="name"
               name="name"
               type="text"
+              placeholder="Your Name"
               {...register("name", { required: "Name is required" })}
             />
             <div css={{ height: "1rem" }}>
@@ -62,11 +63,12 @@ const ContactForm = () => {
           </FormGroup>
 
           <FormGroup>
-            <label htmlFor="email">Email</label>
+            <label htmlFor="email">Contact Email</label>
             <input
               id="email"
               name="email"
               type="text"
+              placeholder="Valid email incase we need it!"
               {...register("email", {
                 required: "Email is required.",
                 pattern: {
@@ -83,11 +85,12 @@ const ContactForm = () => {
           </FormGroup>
 
           <FormGroup>
-            <label htmlFor="message">Your message</label>
+            <label htmlFor="message">Comp Details</label>
             <textarea
               id="message"
               name="message"
               rows="4"
+              placeholder="Please provide Comp name, location, ruleset & price at a minimum!"
               {...register("message", { required: "Message is required" })}
             />
             <div css={{ height: "1rem" }}>
