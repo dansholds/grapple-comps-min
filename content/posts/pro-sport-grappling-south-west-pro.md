@@ -3,7 +3,7 @@ title: Pro Sport Grappling - South West Pro
 date: 2023-09-10
 tags:
     - september
-    - ibjjf
+    - IBJJF
     - gi 
     - nogi 
     - kid
