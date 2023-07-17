@@ -2,7 +2,7 @@
 title: Surrey Open BJJ 2023
 date: 2023-07-30
 tags:
-  - July
+  - july
   - IBJJF
   - no-gi
   - gi

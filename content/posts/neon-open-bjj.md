@@ -2,10 +2,11 @@
 title: Neon Open BJJ Gi & NoGi Championship
 date: 2023-07-22
 tags:
-  - July
+  - july
   - IBJJF
   - no-gi
   - gi
+  - kid
 description: Neon Martial Arts & Fitness presents its second BJJ Interclub!
 price: £15-£25
 location: Southampton

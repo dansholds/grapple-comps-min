@@ -2,9 +2,10 @@
 title: ADCC UK National Championship
 date: 2023-08-12
 tags:
-  - August
+  - august
   - ADCC
   - no-gi
+  - kid
 description: ADCC UK National Championships 2023 
 price: £65-£85
 location: London

@@ -2,10 +2,11 @@
 title: Grappling Industries London
 date: 2023-08-19
 tags:
-  - August
+  - august
   - IBJJF
   - gi
   - no-gi
+  - kid
 description: The Worlds Most Exciting Gi and NoGi BJJ Tournaments!
 price: £20-£70
 location: London

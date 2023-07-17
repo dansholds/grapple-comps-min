@@ -2,9 +2,10 @@
 title: Kids Summer Comp 2023
 date: 2023-08-05
 tags:
-  - August
+  - august
   - IBJJF
   - gi
+  - kid
 description: Flashback Editions is a Gi competition. Medals awarded are from our previous events, ie flashback to previous years.
 price: £30
 location: Bournemouth

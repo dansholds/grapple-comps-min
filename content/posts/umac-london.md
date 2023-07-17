@@ -2,9 +2,10 @@
 title: UMAC London BJJ Championships Excel
 date: 2023-08-13
 tags:
-  - August
+  - august
   - IBJJF
   - gi
+  - kid
 description: Welcome To The Ultimate Martial Arts Competition In London
 price: £20-£45
 location: London

@@ -2,10 +2,11 @@
 title: Grappling Industries Birmingham
 date: 2023-07-29
 tags:
-  - July
+  - july
   - IBJJF
   - no-gi
   - gi
+  - kid
 description: BBJ & NoGi Round Robin Tournament!
 price: £20-90
 location: Birmingham

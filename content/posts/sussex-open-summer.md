@@ -2,10 +2,11 @@
 title: Sussex Open - Summer Edition
 date: 2023-08-12
 tags:
-  - August
+  - august
   - IBJJF
   - no-gi
   - gi
+  - kid
 description: Welcome to the Sussex Open - Summer Edition - Brazilian Jiu Jitsu Tournament - Adults and Masters Gi and No Gi and Kids Gi divisions
 price: £20-£55
 location: Brighton
