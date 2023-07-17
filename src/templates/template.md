@@ -10,7 +10,6 @@ tags:
 description:
 price:
 location:
-register: {register}
 ---
 ## Sign Up
 

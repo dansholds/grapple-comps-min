@@ -16,16 +16,10 @@ def extract_data(url):
     title = soup.select_one('.cover-heading h1').get_text()
     date = soup.select_one('.item.date.event.hidden-xs strong').get_text()
 
-    # Extract the href link from the button
-    navbar_header = soup.select_one('.navbar-header')  # Select the div with class "navbar-header"
-    button = navbar_header.select_one('.btn.btn-secondary.navbar-btn.text-xs-center')  # Select the button with the specified class
-    register = button['href'] if button else ''
-
     # Return the extracted data as a dictionary
     return {
         'title': title,
         'date': date,
-        'register': register,
     }
 
 # Function to generate the file using the extracted data and template
