@@ -22,7 +22,7 @@ When you chose a comp and go through to the dedicated page, you will see more in
 
 ### Future features;
 <ul>
-<li>Filter by multiple tags</li>li>
+<li>Filter by multiple tags</li>
 <li>Google Maps integration</li>
 <li>Submit a comp</li>
 <li>Submit a seminar/event (paid)</li>
