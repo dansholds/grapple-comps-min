@@ -5,6 +5,7 @@ tags:
   - august
   - IBJJF
   - no-gi
+  - gi
   - kid
 description: Welcome To The Ultimate Martial Arts Competition!
 price: £25-£60
