@@ -6,7 +6,7 @@ tags:
   - IBJJF
   - no-gi
   - kid
-description: Welcome To The Ultimate Martial Arts Competition In London
+description: Welcome To The Ultimate Martial Arts Competition!
 price: £25-£60
 location: Durham
 ---
