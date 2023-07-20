@@ -1,9 +1,9 @@
 {
   "name": "gatsby-starter-glass",
   "private": true,
-  "description": "A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.",
+  "description": "Grapple Comps - Find your next jiu jitsu competition.",
   "version": "1.0.0",
-  "author": "Yinka Adedire <yinkakun@gmail.com>",
+  "author": "Dan Holdsworth",
   "dependencies": {
     "babel-plugin-styled-components": "^2.0.7",
     "gatsby": "^4.24.3",
@@ -40,15 +40,17 @@
   "devDependencies": {
     "prettier": "2.7.1"
   },
-  "homepage": "https://github.com/yinkakun/gatsby-starter-glass#readme",
+  "homepage": "https://grapplecomps.com",
   "keywords": [
-    "gatsby",
-    "netlify cms"
+    "grapple",
+    "jiu jitsu",
+    "bjj",
+    "competition"
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yinkakun/gatsby-starter-glass.git"
+    "url": "git+https://github.com/dansholds/grapple-comps-min.git"
   },
   "scripts": {
     "build": "gatsby build",
