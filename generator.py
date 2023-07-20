@@ -15,11 +15,15 @@ def extract_data(url):
     # Extract the desired data using appropriate selectors
     title = soup.select_one('.cover-heading h1').get_text()
     date = soup.select_one('.item.date.event.hidden-xs strong').get_text()
+    
+    # Take the URL and add /register to the end
+    register = url + '/register'
 
     # Return the extracted data as a dictionary
     return {
         'title': title,
         'date': date,
+        'register': register,
     }
 
 # Function to generate the file using the extracted data and template

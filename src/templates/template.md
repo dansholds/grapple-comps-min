@@ -10,9 +10,10 @@ tags:
 description:
 price:
 location:
+register: {register}
 ---
 ## Sign Up
 
-## Description
-
 ## Location
+
+## Description
