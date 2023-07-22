@@ -36,8 +36,13 @@ const ContactForm = () => {
     action: "/thanks",
     honeypotName: "bot-field",
   });
-  const onSubmit = (data) => {
-    netlify.handleSubmit(null, data);
+
+  const onSubmit = async (data) => {
+    try {
+      await netlify.handleSubmit(null, data);
+    } catch (error) {
+      console.error("Form submission error:", error);
+    }
   };
 
   return (
