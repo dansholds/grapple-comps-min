@@ -11,8 +11,8 @@ description: Neon Martial Arts & Fitness presents its second BJJ Interclub!
 price: £15-£25
 location: Southampton
 ---
-## Sign-Up
-https://smoothcomp.com/en/event/11853/register
+## Results
+https://smoothcomp.com/en/event/11853/results
 ## Description
 
 <ul>
