@@ -1,5 +1,5 @@
 ---
-title: AGP 5: Dundee BJJ Gi & No-Gi Tournament
+title: AGP 5 - Dundee BJJ Gi & No-Gi Tournament
 date: 2023-09-30
 tags:
     - September
