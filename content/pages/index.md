@@ -5,4 +5,4 @@ title: "Grapple Comps"
 
 # Grapple Comps
 
-Connecting Grapplers To Their Next Challenge.
+Find Your Next Jiu Jitsu Challenge.
