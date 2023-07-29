@@ -3,7 +3,7 @@ import Layout from "../components/layout";
 import { graphql } from "gatsby";
 import { useForm } from "react-hook-form";
 import {
-  useNetlifyForm,
+  NetlifyForm,
   NetlifyFormProvider,
   NetlifyFormComponent,
   Honeypot,
@@ -31,7 +31,7 @@ const ContactForm = () => {
     handleSubmit,
     formState: { errors },
   } = useForm();
-  const netlify = useNetlifyForm({
+  const netlify = NetlifyForm({
     name: "Contact",
     action: "/thanks",
     honeypotName: "bot-field",
