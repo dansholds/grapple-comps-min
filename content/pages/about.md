@@ -6,7 +6,7 @@ profile_image: /media/profile-image.jpg
 
 # Hi, Welcome To Grapple Comps!
 <br></br>
-We want the process of finding your next competition easy (and look good too 💅).
+We want the process of finding your next competition to be easy. (and look good too 💅)
 <br></br>
 ## How To Use
 <br></br>
