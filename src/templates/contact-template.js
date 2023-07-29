@@ -1,11 +1,8 @@
 import React from "react";
-import Layout from "../components/layout";
 import { graphql } from "gatsby";
-import { useForm } from "react-hook-form";
+import Layout from "../components/layout";
 import {
   NetlifyForm,
-  NetlifyFormProvider,
-  NetlifyFormComponent,
   Honeypot,
 } from "react-netlify-forms";
 import styled from "styled-components";
@@ -25,105 +22,36 @@ const ContactTemplate = ({ data }) => {
 
 export default ContactTemplate;
 
-const ContactForm = () => {
-  const {
-    register,
-    handleSubmit,
-    formState: { errors },
-  } = useForm();
-  const netlify = NetlifyForm({
-    name: "Contact",
-    action: "/thanks",
-    honeypotName: "bot-field",
-  });
-
-  const onSubmit = async (data) => {
-    try {
-      await netlify.handleSubmit(null, data);
-    } catch (error) {
-      console.error("Form submission error:", error);
-    }
-  };
-
-  return (
-    <FormWrapper>
-      <NetlifyFormProvider {...netlify}>
-        <NetlifyFormComponent onSubmit={handleSubmit(onSubmit)}>
-          <Honeypot />
-
-          <FormGroup>
-            <label htmlFor="name">Name</label>
-            <input
-              id="name"
-              name="name"
-              type="text"
-              placeholder="Your Name"
-              {...register("name", { required: "Name is required" })}
-            />
-            <div css={{ height: "1rem" }}>
-              {errors.name && (
-                <FormErrorMessage>{errors.name.message}</FormErrorMessage>
-              )}
-            </div>
-          </FormGroup>
-
-          <FormGroup>
-            <label htmlFor="email">Contact Email</label>
-            <input
-              id="email"
-              name="email"
-              type="text"
-              placeholder="Valid email incase we need it!"
-              {...register("email", {
-                required: "Email is required.",
-                pattern: {
-                  message: "Email is not valid.",
-                  value: /^[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$/,
-                },
-              })}
-            />
-            <div css={{ height: "1rem" }}>
-              {errors.email && (
-                <FormErrorMessage>{errors.email.message}</FormErrorMessage>
-              )}
-            </div>
-          </FormGroup>
-
-          <FormGroup>
-            <label htmlFor="message">Comp Details</label>
-            <textarea
-              id="message"
-              name="message"
-              rows="4"
-              placeholder="Please provide Comp name, location, ruleset & price at a minimum!"
-              {...register("message", { required: "Message is required" })}
-            />
-            <div css={{ height: "1rem" }}>
-              {errors.message && (
-                <FormErrorMessage>{errors.message.message}</FormErrorMessage>
-              )}
-            </div>
-          </FormGroup>
-
-          <FormFeedbackWrapper>
-            {netlify.success && (
-              <FormSuccessFeedback>
-                Message sent successfully
-              </FormSuccessFeedback>
-            )}
-            {netlify.error && (
-              <FormErrorFeedback>
-                Something went wrong, please try again.
-              </FormErrorFeedback>
-            )}
-          </FormFeedbackWrapper>
-
-          <FormButton type="submit">Send Message</FormButton>
-        </NetlifyFormComponent>
-      </NetlifyFormProvider>
-    </FormWrapper>
-  );
-};
+const ContactForm = () => (
+  <NetlifyForm name='Contact' action='/thanks' honeypotName='bot-field'>
+    {({ handleChange, success, error }) => (
+      <>
+        <Honeypot /> 
+        {success && <p>Thanks for contacting us!</p>}
+        {error && (
+          <p>Sorry, we could not reach our servers. Please try again later.</p>
+        )}
+        <div>
+          <label htmlFor='name'>Name:</label>
+          <input type='text' name='name' id='name' onChange={handleChange} />
+        </div>
+        <div>
+          <label htmlFor='message'>Message:</label>
+          <textarea
+            type='text'
+            name='message'
+            id='message'
+            rows='4'
+            onChange={handleChange}
+          />
+        </div>
+        <div>
+          <button type='submit'>Submit</button>
+        </div>
+      </>
+    )}
+  </NetlifyForm>
+)
 
 const ContactWrapper = styled.div`
   display: flex;
