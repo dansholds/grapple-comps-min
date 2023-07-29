@@ -11,8 +11,8 @@ description: BBJ & NoGi Round Robin Tournament!
 price: £20-90
 location: Birmingham
 ---
-## Sign-Up
-https://grapplingindustries.smoothcomp.com/en/event/8903/register
+## Results
+https://grapplingindustries.smoothcomp.com/en/event/8903/results
 
 ## Description
 <ul>

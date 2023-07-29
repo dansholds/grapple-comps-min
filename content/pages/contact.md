@@ -5,4 +5,13 @@ template: 'contact-template'
 
 # Running a comp?
 
-Fill in the form right here and after it's reviewed (to make sure it's not something crazy 🫣) it will be added to the site within 24 hours.
+📧 Email grapplecomps@gmail.com with:
+
+- Competition Name
+- Competition Description
+- Location
+- Ruleset
+- Date
+- Prices
+
+We will review the competition within 24 hours then notify you when it's live on the site! 🤙

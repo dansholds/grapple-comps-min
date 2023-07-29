@@ -16,11 +16,11 @@ const HEADER_NAV_ITEM = [
     url: "/about",
     isExternal: false,
   },
-  // {
-  //   label: "Add",
-  //   url: "/contact",
-  //   isExternal: false,
-  // },
+  {
+    label: "Add",
+    url: "/contact",
+    isExternal: false,
+  },
 ];
 
 const Header = () => {
