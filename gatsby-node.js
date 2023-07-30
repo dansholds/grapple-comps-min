@@ -42,7 +42,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   if (result.errors) {
     reporter.panicOnBuild(
-      `There was an error loading your blog posts`,
+      `There was an error loading comps`,
       result.errors
     );
     return;
@@ -51,7 +51,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const tags = result.data.tagsGroup.group;
   const allMarkdownNodes = result.data.allMarkdownRemark.nodes;
 
-  const blogMarkdownNodes = allMarkdownNodes.filter(
+  const compMarkdownNodes = allMarkdownNodes.filter(
     (node) => node.fields.contentType === `posts`
   );
 
@@ -59,17 +59,17 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     (node) => node.fields.contentType === `pages`
   );
 
-  if (blogMarkdownNodes.length > 0) {
-    blogMarkdownNodes.forEach((node, index) => {
+  if (compMarkdownNodes.length > 0) {
+    compMarkdownNodes.forEach((node, index) => {
       let prevSlug = null;
       let nextSlug = null;
 
       if (index > 0) {
-        prevSlug = blogMarkdownNodes[index - 1].fields.slug;
+        prevSlug = compMarkdownNodes[index - 1].fields.slug;
       }
 
-      if (index < blogMarkdownNodes.length - 1) {
-        nextSlug = blogMarkdownNodes[index + 1].fields.slug;
+      if (index < compMarkdownNodes.length - 1) {
+        nextSlug = compMarkdownNodes[index + 1].fields.slug;
       }
 
       createPage({
@@ -132,7 +132,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       createNodeField({
         name: `slug`,
         node,
-        value: `/blog${relativeFilePath}`,
+        value: `/comps${relativeFilePath}`,
       });
     }
 
