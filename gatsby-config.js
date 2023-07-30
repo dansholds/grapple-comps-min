@@ -6,7 +6,7 @@ module.exports = {
       summary: `Engineer.`,
     },
     openGraphImage: `open-graph-image.png`,
-    description: `Connecting Grapplers To Their Next Challenge.`,
+    description: `Connecting Grapplers To Their Next Jiu Jitsu Challenge.`,
     siteUrl: `https://grapplecomps.com`,
     social: {
     },
