@@ -5,4 +5,4 @@ title: "Grapple Comps"
 
 # Grapple Comps
 
-Find Your Next Jiu Jitsu Challenge.
+Find Your Next (UK) Jiu Jitsu Challenge.
