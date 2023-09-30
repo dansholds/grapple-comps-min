@@ -2,7 +2,7 @@
 title: NO GI BRISTOL OPEN 2023
 date: 2023-10-29
 tags:
-    - octoiber
+    - october
     - IBJJF
     - nogi 
     - kid
