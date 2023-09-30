@@ -3,7 +3,7 @@ title: ROLL MODELS 21 Gi and No-Gi
 date: 2023-10-15
 tags:
     - october
-    - ruleset
+    - IBJJF
     - gi 
     - nogi 
 description: White/Blue belt competition with gi and no-gi divisions
