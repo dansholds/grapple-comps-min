@@ -13,10 +13,10 @@ def extract_data(url):
     soup = BeautifulSoup(response.text, 'html.parser')
 
     # Extract the desired data using appropriate selectors
-    title_element = soup.select_one('.cover-heading h1')
+    title_element = soup.find('h2', class_='margin-xs-0 flex-grow-1')
     title = title_element.get_text() if title_element else "Placeholder Title"
     
-    date_element = soup.select_one('.item.date.event.hidden-xs strong')
+    date_element = soup.find('strong', class_='info')
     date = date_element.get_text() if date_element else "Placeholder Date"
 
     # Take the URL and add /register to the end
