@@ -1,13 +1,13 @@
 ---
 title: SOLID GROUND - ALL IRELAND YOUTH CHAMPIONSHIP 2
-date: 2023-03-03
+date: 2024-03-03
 tags:
     - March
     - IBJJF
     - gi 
     - nogi 
     - kid
-description:
+description: Welcome to the Solid Ground All Ireland Youth Championship
 price: £35
 location: Belfast
 ---
