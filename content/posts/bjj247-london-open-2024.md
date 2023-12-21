@@ -12,7 +12,7 @@ price: £60
 location: London
 ---
 ## Sign Up
-https://bjj247.smoothcomp.com/en/event/13524/register
+https://bjj247.smoothcomp.com/en/event/13524
 
 ## Location
 <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2488.110020741713!2d-0.0751216233851789!3d51.41940557179349!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTHCsDI1JzA5LjkiTiAwwrAwNCcyMS4yIlc!5e0!3m2!1sen!2suk!4v1703104378602!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

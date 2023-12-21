@@ -12,7 +12,7 @@ price: £60
 location: Middlesborough
 ---
 ## Sign Up
-https://empiregrappling.smoothcomp.com/en/event/14011/register
+https://empiregrappling.smoothcomp.com/en/event/14011
 
 ## Location
 <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2314.407085021774!2d-1.2123466231943492!3d54.5439489726608!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTTCsDMyJzM4LjIiTiAxwrAxMiczNS4yIlc!5e0!3m2!1sen!2suk!4v1703105424715!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

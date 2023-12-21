@@ -12,7 +12,7 @@ price: £70
 location: London
 ---
 ## Sign Up
-https://grapplingindustries.smoothcomp.com/en/event/13372/register
+https://grapplingindustries.smoothcomp.com/en/event/13372
 
 ## Location
 <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2483.309345197427!2d0.06616477662008921!3d51.50754047181336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTHCsDMwJzI3LjIiTiAwwrAwNCcwNy41IkU!5e0!3m2!1sen!2suk!4v1703105329463!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
