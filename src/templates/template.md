@@ -10,8 +10,6 @@ tags:
 description: {description}
 price: {price}
 location: {location}
-register: {register}
-body: {body}
 ---
 ## Sign Up
 

@@ -5,79 +5,107 @@ import re
 from datetime import datetime
 from dateutil import parser
 
-# Function to extract data from the webpage
 def extract_data(url):
-    # Send a GET request to the webpage
-    response = requests.get(url)
-    response.raise_for_status()  # Check for any errors
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
 
-    # Create a BeautifulSoup object to parse the HTML content
-    soup = BeautifulSoup(response.text, 'html.parser')
+        soup = BeautifulSoup(response.text, 'html.parser')
 
-    # Extract the desired data using appropriate selectors
-    title_element = soup.find('h2', class_='margin-xs-0 flex-grow-1')
-    title = title_element.get_text() if title_element else "Placeholder Title"
-    
-    date_element = soup.find('strong', class_='info')
-    date = date_element.get_text() if date_element else "Placeholder Date"
+        # Get Title
+        title_element = soup.find('h2', class_='margin-xs-0 flex-grow-1')
+        title = title_element.get_text(strip=True) if title_element else "Placeholder Title"
+        
+        #Get Date
+        date_element = soup.find('strong', class_='info')
+        date = date_element.get_text() if date_element else "Placeholder Date"
 
-    # Take the URL and add /register to the end
-    register = url + '/register'
+        #Get Description
+        info_margin_elements = soup.find_all(class_="information margin-bottom-xs-64")
+        body = [element.text.strip() for element in info_margin_elements]
+        markdown = ""
+        for item in body:
+            markdown += "- " + item.strip() + "\n\n"
 
-    info_margin_elements = soup.find_all(class_="information margin-bottom-xs-64")
-    body = [element.text.strip() for element in info_margin_elements]
+        #Format Date
+        date = parser.parse(date)
+        formatted_date = date.strftime("%Y-%m-%d")
 
-    date = parser.parse(date)
-    formatted_date = date.strftime("%Y-%m-%d")
+        #Get Location & Cost
+        list_item_texts = soup.find_all(class_="sc-list-item-text")
+        location = [item.text.strip() for item in list_item_texts]
 
-    list_item_texts = soup.find_all(class_="sc-list-item-text")
-    location = [item.text.strip() for item in list_item_texts]
+        #Extract Location
+        place = [item.split('\n\n', 1)[1].split()[0] for item in location if '\n\n' in item]
+        place = place[0]
 
-    place = [item.split('\n\n', 1)[1].split()[0] for item in location if '\n\n' in item]
-    place = place[0]
+        #Get highest price
+        text = " ".join(location)
+        numbers = re.findall(r"(\d+)\s+GBP", text)
+        numbers = [int(num) for num in numbers]
+        price = max(numbers)
+        price = "£" + str(price)
 
-    text = " ".join(location)
-    numbers = re.findall(r"(\d+)\s+GBP", text)
-    numbers = [int(num) for num in numbers]
-    price = max(numbers)
+        # Get Description
+        pattern = r'<p class="desc preamble">(.*?)</p>'
+        matches = re.findall(pattern, response.text, re.DOTALL)
+        cleaned_text = [re.sub(r'<.*?>', '', match) for match in matches]
+        description = cleaned_text[0].split('.')[0].strip()
 
-    pattern = r'<p class="desc preamble">(.*?)</p>'
-    matches = re.findall(pattern, response.text, re.DOTALL)
-    cleaned_text = [re.sub(r'<.*?>', '', match) for match in matches]
-    description = cleaned_text[0].split('.')[0]
+        # Find the Google Maps link
+        google_maps_link = soup.find("a", href=lambda href: href and "maps.google.com" in href)
 
-    # Return the extracted data as a dictionary
-    return {
-        'title': title,
-        'date': formatted_date,
-        'description': description,
-        'price': price,
-        'location': place,
-        'register': register,
-        'body': body,
-    }
+        # Extract the href attribute value
+        if google_maps_link:
+            google_maps_link = google_maps_link["href"]
+            lat_lng = google_maps_link.split('=')[1]
+            embed_link = f'<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12345.6789!2d{lat_lng.split(",")[1]}!3d{lat_lng.split(",")[0]}!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z{lat_lng.split(",")[0]}!5e0!3m2!1sen!2sus!4v1234567890" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>'
 
-# Function to generate the file using the extracted data and template
+        return {
+            'title': title,
+            'date': formatted_date,
+            'description': description,
+            'price': price,
+            'google': embed_link,
+            'location': place,
+            'register': url,
+            'body': markdown,
+        }
+
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching data from {url}: {e}")
+        sys.exit(1)
+
+#Create Post
 def generate_file(data, template_file, output_dir):
-    with open(template_file, 'r') as file:
-        template = file.read()
+    try:
+        with open(template_file, 'r') as file:
+            template = file.read()
 
-    # Replace placeholders in the template with the extracted data
-    output = template.format(**data)
+        output = template.format(**data)
 
-    # Format the title for the output file name
-    formatted_title = re.sub(r'\W+', '-', data['title'].lower().strip())
+        location_section = "## Location\n" + data['google']
+        output = output.replace("## Location", location_section)
 
-    # Construct the output file name
-    output_file = f"{output_dir}/{formatted_title}.md"
+        register_section = "## Sign Up\n" + data['register']
+        output = output.replace("## Sign Up", register_section)
 
-    # Write the generated output to the file
-    with open(output_file, 'w') as file:
-        file.write(output)
+        body_section = "## Description\n" + data['body']
+        output = output.replace("## Description", body_section)
 
-    print(f"Output file created: {output_file}")
+        formatted_title = re.sub(r'\W+', '-', data['title'].lower().strip())
+        output_file = f"{output_dir}/{id}-{formatted_title}.md"
 
-# Example usage
+        with open(output_file, 'w') as file:
+            file.write(output)
+
+        print(f"Output file created: {output_file}")
+
+    except Exception as e:
+        print(f"Error generating file: {e}")
+        sys.exit(1)
+
+#Catch no URL error
 if len(sys.argv) < 2:
     print("Please provide the URL as a command-line argument.")
     sys.exit(1)
@@ -85,9 +113,8 @@ if len(sys.argv) < 2:
 url = sys.argv[1]
 template_file = 'src/templates/template.md'
 output_dir = 'content/posts'
+digits = re.findall(r'\d+', url)
+id = digits[-1]
 
-# Extract data from the webpage
 data = extract_data(url)
-
-# Generate the file using the extracted data and template
 generate_file(data, template_file, output_dir)
