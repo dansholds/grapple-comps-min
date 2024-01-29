@@ -2,6 +2,8 @@ import sys
 import requests
 from bs4 import BeautifulSoup
 import re
+from datetime import datetime
+from dateutil import parser
 
 # Function to extract data from the webpage
 def extract_data(url):
@@ -22,11 +24,37 @@ def extract_data(url):
     # Take the URL and add /register to the end
     register = url + '/register'
 
+    info_margin_elements = soup.find_all(class_="information margin-bottom-xs-64")
+    body = [element.text.strip() for element in info_margin_elements]
+
+    date = parser.parse(date)
+    formatted_date = date.strftime("%Y-%m-%d")
+
+    list_item_texts = soup.find_all(class_="sc-list-item-text")
+    location = [item.text.strip() for item in list_item_texts]
+
+    place = [item.split('\n\n', 1)[1].split()[0] for item in location if '\n\n' in item]
+    place = place[0]
+
+    text = " ".join(location)
+    numbers = re.findall(r"(\d+)\s+GBP", text)
+    numbers = [int(num) for num in numbers]
+    price = max(numbers)
+
+    pattern = r'<p class="desc preamble">(.*?)</p>'
+    matches = re.findall(pattern, response.text, re.DOTALL)
+    cleaned_text = [re.sub(r'<.*?>', '', match) for match in matches]
+    description = cleaned_text[0].split('.')[0]
+
     # Return the extracted data as a dictionary
     return {
         'title': title,
-        'date': date,
+        'date': formatted_date,
+        'description': description,
+        'price': price,
+        'location': place,
         'register': register,
+        'body': body,
     }
 
 # Function to generate the file using the extracted data and template

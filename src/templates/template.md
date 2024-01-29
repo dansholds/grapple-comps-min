@@ -7,10 +7,11 @@ tags:
     - gi 
     - nogi 
     - kid
-description:
-price:
-location:
+description: {description}
+price: {price}
+location: {location}
 register: {register}
+body: {body}
 ---
 ## Sign Up
 
