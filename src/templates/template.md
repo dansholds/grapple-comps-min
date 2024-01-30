@@ -2,7 +2,7 @@
 title: {title}
 date: {date}
 tags:
-    - month
+    - {month}
     - ruleset
     - gi 
     - nogi 

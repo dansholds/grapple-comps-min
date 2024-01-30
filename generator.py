@@ -12,25 +12,6 @@ def extract_data(url):
 
         soup = BeautifulSoup(response.text, 'html.parser')
 
-        # Get Title
-        title_element = soup.find('h2', class_='margin-xs-0 flex-grow-1')
-        title = title_element.get_text(strip=True) if title_element else "Placeholder Title"
-        
-        #Get Date
-        date_element = soup.find('strong', class_='info')
-        date = date_element.get_text() if date_element else "Placeholder Date"
-
-        #Get Description
-        info_margin_elements = soup.find_all(class_="information margin-bottom-xs-64")
-        body = [element.text.strip() for element in info_margin_elements]
-        markdown = ""
-        for item in body:
-            markdown += "- " + item.strip() + "\n\n"
-
-        #Format Date
-        date = parser.parse(date)
-        formatted_date = date.strftime("%Y-%m-%d")
-
         #Get Location & Cost
         list_item_texts = soup.find_all(class_="sc-list-item-text")
         location = [item.text.strip() for item in list_item_texts]
@@ -39,12 +20,38 @@ def extract_data(url):
         place = [item.split('\n\n', 1)[1].split()[0] for item in location if '\n\n' in item]
         place = place[0]
 
-        #Get highest price
+        # Get highest price
         text = " ".join(location)
         numbers = re.findall(r"(\d+)\s+GBP", text)
         numbers = [int(num) for num in numbers]
-        price = max(numbers)
-        price = "£" + str(price)
+
+        # Check if the list is not empty before calculating the maximum
+        if numbers:
+            price = max(numbers)
+            price = "£" + str(price)
+        else:
+            print(f"No price found for {url}. Skipping...")
+            return None
+
+        # Get Title
+        title_element = soup.find('h2', class_='margin-xs-0 flex-grow-1')
+        title = title_element.get_text(strip=True) if title_element else "Placeholder Title"
+        
+        #Get Date
+        date_element = soup.find('strong', class_='info')
+        date = date_element.get_text() if date_element else "Placeholder Date"
+        month = date.split(' ')[1].strip()
+
+        #Format Date
+        date = parser.parse(date)
+        formatted_date = date.strftime("%Y-%m-%d")
+
+        #Get Description
+        info_margin_elements = soup.find_all(class_="information margin-bottom-xs-64")
+        body = [element.text.strip() for element in info_margin_elements]
+        markdown = ""
+        for item in body:
+            markdown += "- " + item.strip() + "\n\n"
 
         # Get Description
         pattern = r'<p class="desc preamble">(.*?)</p>'
@@ -70,15 +77,21 @@ def extract_data(url):
             'location': place,
             'register': url,
             'body': markdown,
+            'month': month,
         }
 
     except requests.exceptions.RequestException as e:
         print(f"Error fetching data from {url}: {e}")
-        sys.exit(1)
+        return None
 
-#Create Post
-def generate_file(data, template_file, output_dir):
+# Create Post
+def generate_file(data, template_file, output_dir, id):
     try:
+        # Check if data is None (indicating an error during extraction)
+        if data is None:
+            print("Skipping file generation due to extraction error.")
+            return
+
         with open(template_file, 'r') as file:
             template = file.read()
 
@@ -103,18 +116,23 @@ def generate_file(data, template_file, output_dir):
 
     except Exception as e:
         print(f"Error generating file: {e}")
-        sys.exit(1)
 
-#Catch no URL error
+# Catch no URL error
 if len(sys.argv) < 2:
-    print("Please provide the URL as a command-line argument.")
+    print("Please provide the text file containing URLs as a command-line argument.")
     sys.exit(1)
 
-url = sys.argv[1]
+# Read URLs from the text file
+file_path = sys.argv[1]
+with open(file_path, 'r') as url_file:
+    urls = url_file.read().splitlines()
+
 template_file = 'src/templates/template.md'
 output_dir = 'content/posts'
-digits = re.findall(r'\d+', url)
-id = digits[-1]
 
-data = extract_data(url)
-generate_file(data, template_file, output_dir)
+for url in urls:
+    digits = re.findall(r'\d+', url)
+    id = digits[-1]
+
+    data = extract_data(url)
+    generate_file(data, template_file, output_dir, id)
