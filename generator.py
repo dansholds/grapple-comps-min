@@ -50,13 +50,18 @@ def extract_data(url):
         # Extract Description
         info_margin_elements = soup.find_all(class_="information margin-bottom-xs-64")
         body = [element.text.strip() for element in info_margin_elements]
-        markdown = "\n\n".join(f"- {item}" for item in body)
+        markdown = "\n\n".join(f"{item}" for item in body)
 
         # Extract Description using regex
         pattern = r'<p class="desc preamble">(.*?)</p>'
         matches = re.findall(pattern, response.text, re.DOTALL)
         cleaned_text = [re.sub(r'<.*?>', '', match) for match in matches]
-        description = cleaned_text[0].split('.')[0].strip()
+
+        # Check if cleaned_text is not empty before accessing its elements
+        if cleaned_text:
+            description = cleaned_text[0].split('.')[0].strip()
+        else:
+            description = title
 
         # Find the Google Maps link
         google_maps_link = soup.find("a", href=lambda href: href and "maps.google.com" in href)
