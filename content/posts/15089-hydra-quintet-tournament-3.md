@@ -1,5 +1,5 @@
 ---
-title: Hydra: Quintet Tournament 3
+title: Hydra Quintet Tournament 3
 date: 2024-03-23
 tags:
     - Mar
