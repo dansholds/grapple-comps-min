@@ -2,7 +2,7 @@
 title: https://allstarsbjj.co.uk/MANCHESTER-PRO
 date: 
 tags:
-    - 
+    - Apr
     - gi 
     - nogi 
 description: https://allstarsbjj.co.uk/MANCHESTER-PRO
