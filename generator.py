@@ -4,8 +4,10 @@ from bs4 import BeautifulSoup
 import re
 from datetime import datetime
 from dateutil import parser
+import os
 
-def extract_data(url):
+#Extract Data From Smoothcomps events
+def extract_smoothcomp_data(url):
     try:
         # Fetch HTML content from the URL
         response = requests.get(url)
@@ -44,8 +46,12 @@ def extract_data(url):
         month = date.split(' ')[1].strip()
 
         # Format Date
-        date = parser.parse(date)
-        formatted_date = date.strftime("%Y-%m-%d")
+        try:
+            date = parser.parse(date)
+            formatted_date = date.strftime("%Y-%m-%d")
+        except parser.ParserError as e:
+            print(f"Skipping URL {url} due to date parsing error: {e}")
+            return None
 
         # Extract Description
         info_margin_elements = soup.find_all(class_="information margin-bottom-xs-64")
@@ -89,6 +95,47 @@ def extract_data(url):
         print(f"Error fetching data from {url}: {e}")
         return None
 
+#Extract Data From All Stars Events
+def extract_allstars_data(url):
+    try:
+        # Fetch HTML content from the URL
+        response = requests.get(url)
+        response.raise_for_status()
+
+        # Parse HTML content with BeautifulSoup
+        soup = BeautifulSoup(response.text, 'html.parser')
+
+        # Extract Description
+        info_margin_elements = soup.find_all(class_="styles_contentContainer__lrPIa textnormal styles_text__3jGMu")
+        body = [element.text.strip() for element in info_margin_elements]
+        markdown = "\n\n".join(f"{item}" for item in body)
+
+        title = url
+        description = title
+        price = "£35"
+        date = ""
+        google = ""
+        month = ""
+        place = ""
+
+        return {
+            'title': title,
+            'description': description,
+            'price': price,
+            'register': url,
+            'body': markdown,
+            'google': google,
+            'date': date,
+            'location': place,
+            'register': url,
+            'body': markdown,
+            'month': month,
+        }
+
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching data from {url}: {e}")
+        return None
+
 def generate_file(data, template_file, output_dir, id):
     try:
         # Check if data is None (indicating an error during extraction)
@@ -108,6 +155,11 @@ def generate_file(data, template_file, output_dir, id):
         # Format the title for the output file
         formatted_title = re.sub(r'\W+', '-', data['title'].lower().strip())
         output_file = f"{output_dir}/{id}-{formatted_title}.md"
+
+        # Check if the file already exists
+        if os.path.exists(output_file):
+            print(f"Output file already exists: {output_file}. Skipping...")
+            return
 
         # Write the output to a file
         with open(output_file, 'w') as file:
@@ -132,10 +184,15 @@ template_file = 'src/templates/template.md'
 output_dir = 'content/posts'
 
 # Process each URL
-for url in urls:
-    digits = re.findall(r'\d+', url)
-    id = digits[-1]
+if sys.argv[2] == "smooth":
+    for url in urls:
+        digits = re.findall(r'\d+', url)
+        id = digits[-1]
 
-    # Extract data and generate a file for each URL
-    data = extract_data(url)
-    generate_file(data, template_file, output_dir, id)
+        data = extract_smoothcomp_data(url)
+        generate_file(data, template_file, output_dir, id)
+else:
+    for url in urls:
+        id = ""
+        data = extract_allstars_data(url)
+        generate_file(data, template_file, output_dir, id)

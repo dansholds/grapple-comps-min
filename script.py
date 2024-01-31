@@ -1,9 +1,11 @@
-import httplib2
-from bs4 import BeautifulSoup, SoupStrainer
+import requests
+from bs4 import BeautifulSoup
 
-http = httplib2.Http()
-status, response = http.request('https://smoothcomp.com/en/events/upcoming')
+url = "https://smoothcomp.com/en/events/upcoming"
+response = requests.get(url)
+soup = BeautifulSoup(response.text, "html.parser")
 
-for link in BeautifulSoup(response, parse_only=SoupStrainer('a')):
-    if link.has_attr('href'):
-        print(link['href'])
+event_cards = soup.find_all("div", class_="event-title margin-bottom-xs-8")
+hrefs = [card.a["href"] for card in event_cards]
+
+print(hrefs)
