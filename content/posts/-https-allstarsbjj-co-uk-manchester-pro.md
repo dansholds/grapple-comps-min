@@ -1,11 +1,11 @@
 ---
-title: https://allstarsbjj.co.uk/MANCHESTER-PRO
-date: 
+title: All Stars Manchester Pro
+date: 2024-04-28
 tags:
     - Apr
     - gi 
     - nogi 
-description: https://allstarsbjj.co.uk/MANCHESTER-PRO
+description: All Stars Manchester Pro
 price: £35
 location: Manchester
 ---
