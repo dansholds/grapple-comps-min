@@ -1,6 +1,6 @@
 import inquirer
 import subprocess
-
+#list to be presented when starting script
 questions = [
     inquirer.List('script',
                   message="Which script would you like to run?",
