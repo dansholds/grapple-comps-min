@@ -27,13 +27,13 @@ def extract_smoothcomp_data(url):
         # Extract the highest price in GBP or USD
         text = " ".join(location)
         numbers_gbp = re.findall(r"(\d+)\s+GBP", text)
-        numbers_usd = re.findall(r"(\d+)\s+USD", text)
+        #numbers_usd = re.findall(r"(\d+)\s+USD", text)
 
         # Check if either GBP or USD numbers are present
         if numbers_gbp:
             numbers = f"£{max(numbers_gbp)}"
-        elif numbers_usd:
-            numbers = f"${max(numbers_usd)}"
+        #elif numbers_usd:
+            #numbers = f"${max(numbers_usd)}"
         else:
             print(f"No price found for {url}. Skipping...")
             return None
@@ -42,8 +42,8 @@ def extract_smoothcomp_data(url):
         # Check if the list is not empty before calculating the maximum
         if numbers_gbp:
             price = "£" + str(max(numbers))
-        elif numbers_usd:
-            price = "$" + str(max(numbers))
+        #elif numbers_usd:
+            #price = "$" + str(max(numbers))
         else:
             print(f"No price found for {url}. Skipping...")
             return None
