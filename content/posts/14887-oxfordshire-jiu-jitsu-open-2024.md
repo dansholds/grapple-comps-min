@@ -5,8 +5,7 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: We are back &amp; offering;
-FREE ENTRY for Male Brown &amp; Black belts
+description: We are back & offering FREE ENTRY for Male Brown & Black belts
 price: £45
 location: Oxford
 ---
