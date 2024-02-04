@@ -6,15 +6,9 @@ tags:
     - gi 
     - nogi 
 description: ChickJitsu Exclusive 8
-Doors open 5pm
-Matches start at 6pm
-$300+ prize 130lb &amp; under Absolute
-$300+ prize 130lb &amp; over Absolute
-10 Superfights
 price: $75
 location: |
   nags head
-  
   United States
 ---
 ## Sign Up
