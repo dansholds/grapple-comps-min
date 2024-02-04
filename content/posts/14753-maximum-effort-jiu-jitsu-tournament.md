@@ -6,7 +6,6 @@ tags:
     - gi 
     - nogi 
 description: Welcome to the Maximum Effort Jiu Jitsu Tournament, hosted by Creonte Jiu Jitsu!
-Prepare for an electrifying display of skill, dedication, and sportsmanship as fighters from near and far gather to showcase their mastery on the mat
 price: $100
 location: |
   Central AZ
