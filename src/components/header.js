@@ -7,9 +7,14 @@ import { useStaticQuery, graphql } from "gatsby";
 
 const HEADER_NAV_ITEM = [
   {
-    label: "Comps",
+    label: "UK",
     url: "/comps",
     isExternal: false,
+  },
+  {
+    label: "US",
+    url: "https://us.grapplecomps.com/comps",
+    isExternal: true,
   },
   {
     label: "About",
