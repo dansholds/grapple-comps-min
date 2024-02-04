@@ -8,6 +8,11 @@ import { useStaticQuery, graphql } from "gatsby";
 const HEADER_NAV_ITEM = [
   {
     label: "UK",
+    url: "https://grapplecomps.com",
+    isExternal: true,
+  },
+  {
+    label: "US",
     url: "/comps",
     isExternal: false,
   },
