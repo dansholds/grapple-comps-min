@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: A Brazilian Jiu Jitsu Gi &amp; No-Gi Tournament in the Pacific Northwest &amp; More
 price: $95
-location: Salem,
+location: |
+  Salem
 ---
 ## Sign Up
 https://rollalot.smoothcomp.com/en/event/15788
@@ -19,19 +20,19 @@ https://rollalot.smoothcomp.com/en/event/15788
 WELCOME TO THE ROLL A LOT BJJ GI & NO GI JIU JITSU TOURNAMENT 
 
 
-ROLL A LOT Tournament 3 (SALEM) : SATURDAY, JUNE 22, 2024
+ROLL A LOT Tournament 3 (SALEM) - SATURDAY, JUNE 22, 2024
 
 
 Location - Salem Armory Auditorium 2310 17th Street Northeast, Salem, OR, 97301  
 
 
-Doors Open @ 7:30am | Event Starts @ 9am
+Doors Open @ 7-30am | Event Starts @ 9am
 
 
 Open Registration Pricing - $95.00 for single division - $130.00 for Gi/No-Gi Combo -  $15.00 Open Weight division add-on option available. (Not available to White Belt Grapplers).
 
 
-We will offer a full refund to athletes until close of registration on March 9, 2024 at 11:59pm PST.
+We will offer a full refund to athletes until close of registration on June 14, 2024 at 11-59pm PST.
 
 
 THIS TOURNAMENT IS PRE-REGISTRATION ONLY THERE WILL BE NO LATE REGISTRATIONS ALLOWED 
@@ -78,7 +79,7 @@ UNIFORM- Rollalot will follow IBJJF standards in terms of Gi Sizing regulations,
 *MALE COMPETITORS WILL NOY BE ALLOWED TO WEAR A RASHGUARD UNDER GI TOP*
 
 
-RULES: IBJJF RULESET - You may access and download the IBJJF rulebook here  https://ibjjf.com/books-videos - Scoring will follow IBJJF standards, Scoring 4 points for mount/back control, 3 points for guard pass, 2 points for takedown/sweep/knee on belly.  It will be the competitor's responsibility to study IBJJF allowed and disallowed techniques and be prepared on the day of the tournament.
+RULES- IBJJF RULESET - You may access and download the IBJJF rulebook here  https-//ibjjf.com/books-videos - Scoring will follow IBJJF standards, Scoring 4 points for mount/back control, 3 points for guard pass, 2 points for takedown/sweep/knee on belly.  It will be the competitor's responsibility to study IBJJF allowed and disallowed techniques and be prepared on the day of the tournament.
 
 
 This will be a single elimination event with consolation matches. We will do or best to ensure every competitor will get at least two 2 fights. 
@@ -110,7 +111,7 @@ Expert - Green and Junior Blue Belts. 
 
 
 
-The following are the weight divisions for all GI and No GI competitors:
+The following are the weight divisions for all GI and No GI competitors-
 
 
 MEN GI 

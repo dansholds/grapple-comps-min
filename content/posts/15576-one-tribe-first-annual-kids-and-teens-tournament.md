@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: One Tribe First Annual Kids and Teens Tournament
 price: $60
-location: Madison,
+location: |
+  Madison
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/15576
@@ -22,7 +23,7 @@ Sub-only, Round Robin Madison Bracketing with groups of 5 to guarantee up to 4 m
 Absolute Divisions will be a standard single elimination bracket. A minimum of 4 registered competitors are needed for absolute division to compete. Refunds will be provided back to competitors if 4 competitors are not met. Winners will receive $100 if they win their division. 
 
 
-Address: 97 Hughes Rd, Madison, AL 35758
+Address- 97 Hughes Rd, Madison, AL 35758
 
 
 _____________________________________________________
@@ -31,10 +32,10 @@ _____________________________________________________
 Weigh-ins 
 
 
-Location: One Tribe Combat Training Collective
+Location- One Tribe Combat Training Collective
 
 
-Saturday, April 27th: Weigh-ins, 8 - 9 am 
+Saturday, April 27th- Weigh-ins, 8 - 9 am 
 
 
 Failing to weigh in will result in a forfeiture of matches. Refunds will not be issued to those missing weigh ins. 
@@ -49,10 +50,10 @@ Event schedule
 Saturday, April 27th
 
 
-Match Start: 10 am
+Match Start- 10 am
 
 
-Match flow: No Gi -> Absolute No Gi -> Gi -> Absolute Gi
+Match flow- No Gi -> Absolute No Gi -> Gi -> Absolute Gi
 
 
 All No Gi matches will complete before Gi matches begin.

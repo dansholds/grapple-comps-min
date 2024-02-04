@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Welcome to the 2024 season of CompNet! Gracie Barra&#039;s competitors from around the globe will showcase their Jiu-Jitsu expertise and live unforgettable moments in over a hundred tournaments this season
 price: $109
-location: Buda,
+location: |
+  Buda
 ---
 ## Sign Up
 https://compnet.smoothcomp.com/en/event/15085
@@ -25,13 +26,13 @@ Hello, GB Competitor! It's CompNet Austin Winter time! Competing requires courag
 Interested in collaborating with us and contributing to developing a fantastic tournament experience for participants, coaches, and families? Click here to submit your tournament staff application.
 
 
-Date: Sunday, February, 18th, 2024
+Date- Sunday, February, 18th, 2024
 
 
-The gates open at 8:00 am, and the tournament begins at 9:00 am. A detailed event schedule will be released a few days prior to the tournament.
+The gates open at 8-00 am, and the tournament begins at 9-00 am. A detailed event schedule will be released a few days prior to the tournament.
 
 
-Venue: Jack C. Hays High School
+Venue- Jack C. Hays High School
 
 
 4800 Jack C Hays Trail, Buda, TX 78610
@@ -50,14 +51,14 @@ Regular Registration $99.00 (USD) until SUNDAY, JANUARY 28TH, 2024.
 Late Registration $109.00 (USD) until SUNDAY, FEBRUARY 11TH, 2024.
 
 
-Spectator Fee: $10.00 (USD) online - UNTIL SUNDAY, FEBRUARY 11TH and at the door on event day for $15. Registrations for athletes under 16 years old include one complimentary spectator ticket.
+Spectator Fee- $10.00 (USD) online - UNTIL SUNDAY, FEBRUARY 11TH and at the door on event day for $15. Registrations for athletes under 16 years old include one complimentary spectator ticket.
 
 
 
 IMPORTANT DATES
 
 
-Here are some important dates to help you prepare for competition:
+Here are some important dates to help you prepare for competition-
 
 
 
@@ -74,18 +75,18 @@ The tournament bracket and official schedule will be published on THURSDAY, FEBR
 Resources
 
 
-Here are a few resources to help you prepare for Competition day:
+Here are a few resources to help you prepare for Competition day-
 
 
 
-CN Six Weeks Training Plan: Design your 6-week training plan, available for all participants at institute.graciebarra.com to help athletes prepare for the competition.
+CN Six Weeks Training Plan- Design your 6-week training plan, available for all participants at institute.graciebarra.com to help athletes prepare for the competition.
 
 
 
 More Information
 
 
-For more information about the event, click on the links below:
+For more information about the event, click on the links below-
 
 
 

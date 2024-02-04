@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: 1st Annual Brazilian Jiu Jitsu Fundraiser event
 price: $50
-location: Mesa,
+location: |
+  Mesa
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/14719
@@ -19,16 +20,16 @@ https://smoothcomp.com/en/event/14719
 We will be hosting a kids tournament followed by a battle of the branches veterans tournament.  Space is limited so we will be capping the kids tournament at 120 participants and for the veterans we will be capping it at 16.  Kids will sing up through smooth comp while veterans will sign up here
 
 
-Veteran Registration link:
+Veteran Registration link-
 
 
-https://app.smartsheet.com/b/form/02285e162df24a57b8199604132bdc81To learn more about Veterans Breakthrough visit To learn more visit: https://www.veteransbreakthrough.org/warriors-journey-bjj
+https-//app.smartsheet.com/b/form/02285e162df24a57b8199604132bdc81To learn more about Veterans Breakthrough visit To learn more visit- https-//www.veteransbreakthrough.org/warriors-journey-bjj
 
 
 Who we are...
 
 
-Veterans Breakthrough is a 501(c)(3) nonprofit charity organization founded in 2020 that unites the Brazilian Jiu-Jitsu community with a honorable cause:  Empowering veterans in their journey's post service;  we do this through our various programs we have to offer.
+Veterans Breakthrough is a 501(c)(3) nonprofit charity organization founded in 2020 that unites the Brazilian Jiu-Jitsu community with a honorable cause-  Empowering veterans in their journey's post service;  we do this through our various programs we have to offer.
 
 
 For this 1st annual event we will be hosting a kids only tournament open to all.  Followed by a battle of the branches where a select few veterans from each branch will come together to compete and raise funds for our cause.  
@@ -49,28 +50,28 @@ The Healing Power of Brazilian Jiu-Jitsu
 Physical Benefits
 
 
-Jiu-Jitsu is more than a martial art; it's a discipline that focuses on leverage and technique rather than size or strength. This makes it an ideal choice for individuals with varying physical abilities. Through consistent practice, veterans experience:
+Jiu-Jitsu is more than a martial art; it's a discipline that focuses on leverage and technique rather than size or strength. This makes it an ideal choice for individuals with varying physical abilities. Through consistent practice, veterans experience-
 
 
 
-Improved Fitness: BJJ training promotes cardiovascular health, strength, flexibility, and endurance. It aids in weight management and boosts overall physical wellness.
+Improved Fitness- BJJ training promotes cardiovascular health, strength, flexibility, and endurance. It aids in weight management and boosts overall physical wellness.
 
 
-Pain Management: For veterans dealing with physical injuries or chronic pain, the controlled and gradual movements in BJJ help manage discomfort and enhance mobility. 
+Pain Management- For veterans dealing with physical injuries or chronic pain, the controlled and gradual movements in BJJ help manage discomfort and enhance mobility. 
 
 
 
 Mental Health Support
 
 
-Beyond the physical aspects, Jiu-Jitsu profoundly impacts mental health:
+Beyond the physical aspects, Jiu-Jitsu profoundly impacts mental health-
 
 
 
-Stress Reduction: Engaging in BJJ offers an outlet for stress relief. The focus required during training helps veterans divert their attention from intrusive thoughts or stressors, promoting mental relaxation.
+Stress Reduction- Engaging in BJJ offers an outlet for stress relief. The focus required during training helps veterans divert their attention from intrusive thoughts or stressors, promoting mental relaxation.
 
 
-Building Resilience: BJJ instills resilience by challenging individuals in a controlled environment. The process of learning, failing, and persisting fosters mental fortitude—a crucial skill in overcoming life's hurdles.
+Building Resilience- BJJ instills resilience by challenging individuals in a controlled environment. The process of learning, failing, and persisting fosters mental fortitude—a crucial skill in overcoming life's hurdles.
 
 
 

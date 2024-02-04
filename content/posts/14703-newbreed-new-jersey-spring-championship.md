@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Rahway Recreation Center - 275 E Milton Ave, Rahway, NJ
 price: $150
-location: Rahway,
+location: |
+  Rahway
 ---
 ## Sign Up
 https://newbreedbjj.smoothcomp.com/en/event/14703

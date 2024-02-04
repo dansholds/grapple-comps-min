@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: 2024 South Texas Nationals
 price: $50
-location: Edinburg,
+location: |
+  Edinburg
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/15111
@@ -73,19 +74,19 @@ LATE REGISTRATION ENDS -> WEDNESDAY, FEB 21st
 FREE T-SHIRT W/TWO DIVISIONS NOW THRU FEBRUARY 15th
 
 
-WEIGH-INS:
+WEIGH-INS-
 
 
 No Early or Satellite Weigh-ins on Friday. All competitors must weigh-in on Saturday morning at the tournament site. There is a two pound weight allowance. You must make weight or be subject to disqualification. Weigh-ins are done without the Gi.
 
 
-DOORS OPEN @ 9:00 AM SATURDAY FEBRUARY 24th
+DOORS OPEN @ 9-00 AM SATURDAY FEBRUARY 24th
 
 
-Youth weigh-ins @ 9:00  am
+Youth weigh-ins @ 9-00  am
 
 
-Adult weigh-ins @ 10:30 am
+Adult weigh-ins @ 10-30 am
 
 
 .
@@ -121,7 +122,7 @@ IBJJF Rules will be strictly enforced. We do not allow any coach's challenges af
 .
 
 
-DIVISIONS, RULES, AND GUIDELINES:  HTTPS://IBJJF.COM/
+DIVISIONS, RULES, AND GUIDELINES-  HTTPS-//IBJJF.COM/
 
 
 .

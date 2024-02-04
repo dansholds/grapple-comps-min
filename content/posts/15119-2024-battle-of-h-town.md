@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: 2024 Battle of H-Town
 price: $40
-location: Houston,
+location: |
+  Houston
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/15119
@@ -73,19 +74,19 @@ LATE REGISTRATION ENDS -> TUESDAY, FEB 21st
 FREE T-SHIRT W/TWO DIVISIONS NOW THRU FEBRUARY 15th
 
 
-WEIGH-INS:
+WEIGH-INS-
 
 
 No Early or Satellite Weigh-ins on Friday. All competitors must weigh-in on Saturday morning at the tournament site. There is a two pound weight allowance. You must make weight or be subject to disqualification. Weigh-ins are done without the Gi.
 
 
-DOORS OPEN @ 8:00 AM SATURDAY, MARCH 30TH
+DOORS OPEN @ 8-00 AM SATURDAY, MARCH 30TH
 
 
-Youth weigh-ins @ 8:00  am
+Youth weigh-ins @ 8-00  am
 
 
-Adult weigh-ins @ 10:00 am
+Adult weigh-ins @ 10-00 am
 
 
 .
@@ -121,4 +122,4 @@ IBJJF Rules will be strictly enforced. We do not allow any coach's challenges af
 .
 
 
-DIVISIONS, RULES, AND GUIDELINES:  HTTPS://IBJJF.COM/
+DIVISIONS, RULES, AND GUIDELINES-  HTTPS-//IBJJF.COM/

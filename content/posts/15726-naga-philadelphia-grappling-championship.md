@@ -7,7 +7,10 @@ tags:
     - nogi 
 description: SATURDAY, September 28, 2024
 price: $130
-location: Hatfield
+location: |
+  Hatfield
+  
+  United States
 ---
 ## Sign Up
 https://naga.smoothcomp.com/en/event/15726
@@ -25,7 +28,7 @@ NAGA welcomes all grappling styles. Our tournaments have both no-gi and gi divis
 REGISTER NOW - $10 OFF COUPON
 
 
-NAGA is offering $10 off to all competitors who register by midnight on AUGUST 28th, 2024. At checkout, enter 2024PHILLY in the coupon code field, and $10 will be discounted from your overall fee. Please Note: Only one coupon code can be used at checkout per competitor per tournament.   
+NAGA is offering $10 off to all competitors who register by midnight on AUGUST 28th, 2024. At checkout, enter 2024PHILLY in the coupon code field, and $10 will be discounted from your overall fee. Please Note- Only one coupon code can be used at checkout per competitor per tournament.   
 
 
 GET YOUR GRAPPLING GEAR AT THE EVENT

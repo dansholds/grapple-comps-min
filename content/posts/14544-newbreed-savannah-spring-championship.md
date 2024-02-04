@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Hardeeville Recreation Center - 285 John Smith Road Hardeeville, SC
 price: $65
-location: Hardeeville,
+location: |
+  Hardeeville
 ---
 ## Sign Up
 https://newbreedbjj.smoothcomp.com/en/event/14544

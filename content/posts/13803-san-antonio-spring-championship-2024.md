@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Battleground presents the San Antonio Fall Championship Saturday October 7th
 price: $80
-location: United
+location: |
+  United States
 ---
 ## Sign Up
 https://battleground.smoothcomp.com/en/event/13803

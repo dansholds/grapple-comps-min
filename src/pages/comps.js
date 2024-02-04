@@ -10,7 +10,7 @@ const Blog = ({ data }) => {
   return (
     <Layout title="Blog">
       <HeaderWrapper>
-        <h1>Comps - UK 🇬🇧</h1>
+        <h1>Comps - US 🇺🇸</h1>
 
         <Link
           css={`

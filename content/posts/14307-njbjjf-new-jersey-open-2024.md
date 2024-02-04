@@ -7,7 +7,10 @@ tags:
     - nogi 
 description: NJBJJF NEW JERSEY OPEN 2024
 price: $75
-location: Manalapan
+location: |
+  Manalapan Township
+  
+  United States
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/14307
@@ -25,10 +28,10 @@ This Federation was established to bring the best competition in Brazilian Jiu J
 The rules used in this event follow the traditional rules utilized by the IBJJF, with the greatest objective being to preserve the integrity of the competitors and to give our spectators a true show of the sport.
 
 
-BEST OVERALL TEAM and AWARD: Team standings, points, and medal counts are live updated to and readily available on the results tab of the event page. We will have a TV at the medal podium displaying the live team standings as they transpire throughout the event! The winning 1st, 2nd and 3rd place teams will receive a Team Trophy and Team Champions Banner!
+BEST OVERALL TEAM and AWARD- Team standings, points, and medal counts are live updated to and readily available on the results tab of the event page. We will have a TV at the medal podium displaying the live team standings as they transpire throughout the event! The winning 1st, 2nd and 3rd place teams will receive a Team Trophy and Team Champions Banner!
 
 
-BROWN and BLACK BELTS: As an appreciation for their time invested and commitment to our sport as a martial artist, we give free registration to Brazilian Jiu-Jitsu brown and black belts. Email us with which event you are applying for, and your credentials at [email protected]
+BROWN and BLACK BELTS- As an appreciation for their time invested and commitment to our sport as a martial artist, we give free registration to Brazilian Jiu-Jitsu brown and black belts. Email us with which event you are applying for, and your credentials at [email protected]
 
 
 REGISTRATION
@@ -100,13 +103,13 @@ DIVISION CHANGES
 -You can make changes to your registration until midnight the Wednesday before the event.
 
 
-CHANGING DIVISIONS: Log into your account to make changes to your registration. After this change deadline, the registration will become locked in, and there will no further changes allowed. Competitors who are alone in their division should choose to either self-move themselves up a division or cancel their registration for a full coupon credit. If you have trouble changing your division, please check out: https://support.smoothcomp.com/article/89-how-to-change-weightclass-or-cancel
+CHANGING DIVISIONS- Log into your account to make changes to your registration. After this change deadline, the registration will become locked in, and there will no further changes allowed. Competitors who are alone in their division should choose to either self-move themselves up a division or cancel their registration for a full coupon credit. If you have trouble changing your division, please check out- https-//support.smoothcomp.com/article/89-how-to-change-weightclass-or-cancel
 
 
--If the final registration deadline passes and you do not like where you are bracketed, you can cancel your registration before 11:59 pm on the Friday prior to the event and receive a credit for a future event. ANY VOUCHER REQUESTS RECEIVED AFTER 11:59 PM ON THE FRIDAY OF THE TOURNAMENT WILL BE DISCARDED.
+-If the final registration deadline passes and you do not like where you are bracketed, you can cancel your registration before 11-59 pm on the Friday prior to the event and receive a credit for a future event. ANY VOUCHER REQUESTS RECEIVED AFTER 11-59 PM ON THE FRIDAY OF THE TOURNAMENT WILL BE DISCARDED.
 
 
--DIVISION MERGERS: After change deadline, competitors who do not have anyone in their division group may be merged with another division. All athletes who remain solo in their divisions once brackets are released means had no default merges available to them, and therefore there are no matches available for that competitor. They will receive a full coupon credit for entry to any future event of ours.
+-DIVISION MERGERS- After change deadline, competitors who do not have anyone in their division group may be merged with another division. All athletes who remain solo in their divisions once brackets are released means had no default merges available to them, and therefore there are no matches available for that competitor. They will receive a full coupon credit for entry to any future event of ours.
 
 
 REFUND/VOUCHER POLICY
@@ -121,13 +124,13 @@ VOUCHERS
 -VOUCHERS WILL ONLY BE ISSUED THE DAY OF EVENT FOR COMPETITORS WHOSE OPPONENT IS A NO SHOWS. NO EXCEPTIONS
 
 
--Vouchers for future tournaments can be requested for any reason until 11:59 PM the Friday before the event.
+-Vouchers for future tournaments can be requested for any reason until 11-59 PM the Friday before the event.
 
 
 -Voucher requests must be made by email ([email protected]).
 
 
--Any voucher requests received after 11:59 PM on the Friday of the tournament will not be accepted.
+-Any voucher requests received after 11-59 PM on the Friday of the tournament will not be accepted.
 
 
 -Vouchers are good for one year from the tournament date.
@@ -151,10 +154,10 @@ WEIGH-INS
 IF YOU DO NOT MAKE WEIGHT
 
 
--For competitors 16 years of age and older: you WILL be disqualified and NO refund or voucher will be given.
+-For competitors 16 years of age and older- you WILL be disqualified and NO refund or voucher will be given.
 
 
--For competitors 15 years of age and under: we will do our best to accommodate you and move you into a new bracket. THIS IS NOT GUARANTEED. If there are no available fights, we will provide a voucher for future use but NO refunds will be given.
+-For competitors 15 years of age and under- we will do our best to accommodate you and move you into a new bracket. THIS IS NOT GUARANTEED. If there are no available fights, we will provide a voucher for future use but NO refunds will be given.
 
 
 COMPETITOR INFORMATION
@@ -169,7 +172,7 @@ COMPETITOR INFORMATION
 RULES, WEIGHT DIVISIONS & FAQ’S
 
 
---To view our rules and to weight divisions, please visit the following link: https://www.njbjjf.com/rules
+--To view our rules and to weight divisions, please visit the following link- https-//www.njbjjf.com/rules
 
 
 -Please review this page and if you do not find an answer to your questions, send an email to [email protected].

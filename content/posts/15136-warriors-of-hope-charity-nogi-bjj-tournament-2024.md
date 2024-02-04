@@ -7,7 +7,10 @@ tags:
     - nogi 
 description: 100% OF YOUR DONATIONS GO TO HELPING LOCALS FIGHT CANCER!
 price: $60
-location: HOUMA
+location: |
+  HOUMA
+  
+  United States
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/15136
@@ -19,4 +22,4 @@ https://smoothcomp.com/en/event/15136
 Warriors of Hope, Inc. was founded by Teri Breaux in honor of her son, Brock Larisey. Brock was diagnosed with stage 4 cancer May 2018, at the the of 21. After multiple surgeries, rounds of radiation, immunotherapy and chemotherapy, he lost his battle to cancer in August 2020. Having experienced firsthand the hardships the patient and family members go through, Teri saw an opportunity to aid others in similar situations
 
 
-Warriors of hope, Inc was organized exclusively for charitable purposes. It was founded to issue funding to patients and their families that are diagnosed with cancer. Our mission is to provide financial assistance to help relieve the burdens associated with medical expenses such as: insurance deductibles, out-of-pocket percentages, transportation services, lodging, patient sitters and counseling due to emotional distress.
+Warriors of hope, Inc was organized exclusively for charitable purposes. It was founded to issue funding to patients and their families that are diagnosed with cancer. Our mission is to provide financial assistance to help relieve the burdens associated with medical expenses such as- insurance deductibles, out-of-pocket percentages, transportation services, lodging, patient sitters and counseling due to emotional distress.

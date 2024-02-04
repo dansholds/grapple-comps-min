@@ -7,7 +7,10 @@ tags:
     - nogi 
 description: SATURDAY, June 8, 2024
 price: $110
-location: Lubbock
+location: |
+  Lubbock
+  
+  United States
 ---
 ## Sign Up
 https://naga.smoothcomp.com/en/event/15586
@@ -25,7 +28,7 @@ NAGA welcomes all grappling styles. Our tournaments have both no-gi and gi divis
 REGISTER NOW - $10 OFF COUPON
 
 
-NAGA is offering $10 off to all competitors who register by midnight on MAY 8th, 2024. At checkout, enter LUBBOCK2024 in the coupon code field, and $10 will be discounted from your overall fee. Please Note: Only one coupon code can be used at checkout per competitor per tournament.   
+NAGA is offering $10 off to all competitors who register by midnight on MAY 8th, 2024. At checkout, enter LUBBOCK2024 in the coupon code field, and $10 will be discounted from your overall fee. Please Note- Only one coupon code can be used at checkout per competitor per tournament.   
 
 
 GET YOUR GRAPPLING GEAR AT THE EVENT

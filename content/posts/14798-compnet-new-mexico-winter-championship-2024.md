@@ -6,8 +6,9 @@ tags:
     - gi 
     - nogi 
 description: Welcome to the 2024 season of CompNet! Gracie Barra&#039;s competitors from around the globe will showcase their Jiu-Jitsu expertise and live unforgettable moments in over a hundred tournaments this season
-price: $99
-location: Albuquerque,
+price: $109
+location: |
+  Albuquerque
 ---
 ## Sign Up
 https://compnet.smoothcomp.com/en/event/14798
@@ -25,13 +26,13 @@ Hello, GB Competitor! The CompNet New Mexico 2024 season is now open! Competing 
 Interested in collaborating with us and contributing to developing a fantastic tournament experience for participants, coaches, and families? Click here to submit your tournament staff application.
 
 
-Date: Saturday, February 10, 2024
+Date- Saturday, February 10, 2024
 
 
-The gates open at 8:00 am, and the tournament begins at 9:00 am. An event schedule will be released the day before the event.
+The gates open at 8-00 am, and the tournament begins at 9-00 am. An event schedule will be released the day before the event.
 
 
-Venue: Manuel Lujan B
+Venue- Manuel Lujan B
 
 
 300 San Pedro Dr NE, Albuquerque, NM 87108
@@ -50,14 +51,14 @@ Regular Registration $99.00 (USD) until SATURDAY, JANUARY 27, 2024.
 Late Registration $109.00 (USD) until SATURDAY, FEBRUARY 3, 2024.
 
 
-Spectator Fee: $10.00 (USD) at the door & $8 ahead of time. Registrations for athletes under 16 years old include one complimentary spectator ticket.
+Spectator Fee- $10.00 (USD) at the door & $8 ahead of time. Registrations for athletes under 16 years old include one complimentary spectator ticket.
 
 
 
 IMPORTANT DATES
 
 
-Here are some important dates to help you prepare for competition:
+Here are some important dates to help you prepare for competition-
 
 
 
@@ -74,7 +75,7 @@ The tournament bracket and official schedule will be published no later than FRI
 Seminars, Workshops, and resources
 
 
-Here are a few resources to help you prepare for Competition:
+Here are a few resources to help you prepare for Competition-
 
 
 
@@ -84,14 +85,14 @@ CN Parents and Coaches Clinic  - DATE and TIME TDB
 CN Rules and Strategy Seminar - DATE and TIME TDB
 
 
-CN Six Weeks Training Plan: Design your 6-week training plan, available for all participants at institute.graciebarra.com to help athletes prepare for the competition.
+CN Six Weeks Training Plan- Design your 6-week training plan, available for all participants at institute.graciebarra.com to help athletes prepare for the competition.
 
 
 
 More Information
 
 
-For more information about the event, click on the links below:
+For more information about the event, click on the links below-
 
 
 

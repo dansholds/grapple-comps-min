@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: RGV Spring Open 2024
 price: $40
-location: Edinburg,
+location: |
+  Edinburg
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/15141
@@ -16,13 +17,13 @@ https://smoothcomp.com/en/event/15141
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12345.6789!2d-98.1622116!3d26.2855509!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z26.2855509!5e0!3m2!1sen!2sus!4v1234567890" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ## Description
-Event Location:
+Event Location-
 
 
 Edinburg DHR Health Sports & Wellness Center315 E Palm DrEdinburg, Tx 78539
 
 
-RGV Spring Open 2024 Update:
+RGV Spring Open 2024 Update-
 
 
 -Tournament starts at 10am with Kids and Teens. Adult male and female divisions will start at approximately 1pm. Please check your start time for your first match.

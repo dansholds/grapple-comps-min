@@ -8,7 +8,10 @@ tags:
 description: High Level Competition at the Lowest Cost Possible!
 Professional Photography, Matches Streamed to Youtube
 price: $0
-location: Latham
+location: |
+  Latham
+  
+  United States
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/15691

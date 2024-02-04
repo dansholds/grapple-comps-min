@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Christopher Columbus High School - 3000 SW 87th Ave, Miami, FL
 price: $65
-location: Miami,
+location: |
+  Miami
 ---
 ## Sign Up
 https://newbreedbjj.smoothcomp.com/en/event/15360

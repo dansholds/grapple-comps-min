@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Battleground presents the Austin Fall Championship Saturday October 12
 price: $90
-location: United
+location: |
+  United States
 ---
 ## Sign Up
 https://battleground.smoothcomp.com/en/event/13820

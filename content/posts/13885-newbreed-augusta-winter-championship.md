@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Columbia County Exhibition Center - 212 Partnership Dr, Grovetown, GA
 price: $150
-location: Augusta,
+location: |
+  Augusta
 ---
 ## Sign Up
 https://newbreedbjj.smoothcomp.com/en/event/13885

@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: The Zone - 10371 Stella Link Rd, Houston, TX
 price: $150
-location: Houston,
+location: |
+  Houston
 ---
 ## Sign Up
 https://newbreedbjj.smoothcomp.com/en/event/14649

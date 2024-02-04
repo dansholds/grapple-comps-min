@@ -1,13 +1,14 @@
 ---
-title: Chickjitsu: Girls Who Wrestle
+title: Chickjitsu- Girls Who Wrestle
 date: 2024-07-27
 tags:
     - Jul
     - gi 
     - nogi 
-description: Chickjitsu: Girls Who Wrestle
+description: Chickjitsu- Girls Who Wrestle
 price: $75
-location: Tampa,
+location: |
+  Tampa
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/15739
@@ -16,25 +17,25 @@ https://smoothcomp.com/en/event/15739
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12345.6789!2d-82.4822870!3d28.0043955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z28.0043955!5e0!3m2!1sen!2sus!4v1234567890" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ## Description
-WRESTLING RULES PENDING:
+WRESTLING RULES PENDING-
 
 
-JIUJITSU RULES:
+JIUJITSU RULES-
 
 
-AGE MINIMUM:
+AGE MINIMUM-
 
 
 17years and up
 
 
-TIME LIMIT:
+TIME LIMIT-
 
 
 Absolute - 5min
 
 
-POINTS:
+POINTS-
 
 
 Takedowns - 2 points
@@ -58,7 +59,7 @@ Mount - 4 points
 +Each position needs to be held for as many seconds as points are awarded. ie. Hooks and harness have to be established for 4 seconds before points are awarded. ie. Person has to stay down for two seconds for 2 takedown points can be awarded.
 
 
-RULES:
+RULES-
 
 
 •No throwing an opponent off the mat or spiking on the head.
@@ -97,7 +98,7 @@ Overtime rule
 In the event of a tie, the referee will call for a 2 minute overtime, first to score a point wins. Opponents start in a mutual standing collar tie up.  No sitting without contact. If after the overtime match starts, there is immediate disengagement, an advantage point will be given to the person who DID NOT disengage. If still no one scores, the referee will decide the winner based on sub attempts and/or takedown/pass attempts.
 
 
-SPECIAL RULES:
+SPECIAL RULES-
 
 
 •Adult Absolute - Slamming is only allowed to get out of a submission. All submissions are legal.

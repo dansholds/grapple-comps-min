@@ -5,9 +5,10 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: PAN AMERICAN: JUNE 22, 2024
+description: PAN AMERICAN JUNE 22, 2024
 price: $99
-location: Cooksville,
+location: |
+  Cooksville
 ---
 ## Sign Up
 https://pbjjf.smoothcomp.com/en/event/13868
@@ -16,16 +17,16 @@ https://pbjjf.smoothcomp.com/en/event/13868
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12345.6789!2d-77.0498992!3d39.0587528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z39.0587528!5e0!3m2!1sen!2sus!4v1234567890" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ## Description
-Location: Gary J. Arthur Community Center - 2400 MD-97, Cooksville, MD 21723
+Location- Gary J. Arthur Community Center - 2400 MD-97, Cooksville, MD 21723
 
 
-Doors open at 8:00amEvent starts at 9:00am
+Doors open at 8-00amEvent starts at 9-00am
 
 
-FORMAT: Professional Brazilian Jiu Jitsu Federation 
+FORMAT- Professional Brazilian Jiu Jitsu Federation 
 
 
-DOUBLE ELIMINATION FORMAT:
+DOUBLE ELIMINATION FORMAT-
 
 
 The basic concept of double elimination is similar to single elimination, in which there are rounds, and the winners advance to the brackets. The difference is that when the athlete loses a fight, he goes to another bracket which he will have the opportunity to keep competing for the 3rd place.
@@ -82,10 +83,10 @@ CREDITS
 -You need to contact the office by email  before the registration deadline to receive or use your credit.
 
 
-IF YOU ARE INTERESTED IN BECOMING A STAFF MEMBER WITH PBJJF DURING THE EVENTS, PLEASE COMPLETE THE APPLICATION FORM. CLICK ON THE LINK BELOW:
+IF YOU ARE INTERESTED IN BECOMING A STAFF MEMBER WITH PBJJF DURING THE EVENTS, PLEASE COMPLETE THE APPLICATION FORM. CLICK ON THE LINK BELOW-
 
 
-https://forms.gle/mgaRYYD57HuDHJDh7
+https-//forms.gle/mgaRYYD57HuDHJDh7
 
 
 AGE DIVISION YOUTH  / YEAR OF BIRTH 

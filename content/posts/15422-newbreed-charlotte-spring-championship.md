@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Cabarrus Events Center - 4751 NC-49, Concord, NC
 price: $150
-location: Concord,
+location: |
+  Concord
 ---
 ## Sign Up
 https://newbreedbjj.smoothcomp.com/en/event/15422

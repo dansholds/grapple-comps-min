@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Winter Impact Bjj GI 2024
 price: $99
-location: Salt
+location: |
+  Salt Lake City
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/14742
@@ -40,13 +41,13 @@ KIDS START FIGHT 9AM
 FRIDAY 6PM WE HAVE THE FULLS CHEDULE AT SMOOTHCOMP
 
 
-Where: SUMMIT ACADEMY K-6  
+Where- SUMMIT ACADEMY K-6  
 
 
 Brazilian Jiu-Jitsu Gi Only
 
 
-Where: Summit Academy -k6
+Where- Summit Academy -k6
 
 
 1940 W 14400 S -
@@ -60,7 +61,7 @@ account and a fighter profile for each person competing.
 Registration ends on February 8th at 3pm.
 
 
-Prices:
+Prices-
 
 
 By January 9th - 1 DIVISION =$77 / 2 DIVISION =$89
@@ -73,7 +74,7 @@ Spectator Fees
 We ARE allowing Spectators for this tournament.
 
 
-Online: 1 Spectator Ticket =13 USD
+Online- 1 Spectator Ticket =13 USD
 
 
 2 Spectator
@@ -87,7 +88,7 @@ Tickets= 37 USD
 4 Spectator
 Tickets =45 USD
 SPECTATORS AT EVENT=$15
-Coaches:
+Coaches-
 Two Coaches per academy may enter for FREE. 
 
 
@@ -98,7 +99,7 @@ coaches must pay the =$15 Spectator Fee.
 2 MATCHES GUARANTEED - IBJJF RULES
 
 
-FIGHT TIME:
+FIGHT TIME-
 
 
 KIDS - 3 MINUTES / ADULTS - 5 MINUTES
@@ -117,17 +118,17 @@ white belt. In the USA, to have competed at a college level or higher. In other
 countries, to have competed in events of national scope.
 
 
-DIVISIONS:
+DIVISIONS-
 
 
-BOYS GI BELTS:
+BOYS GI BELTS-
 
 
 WHITE UNTIL GREY BLACK
 YELLOW WHITE AND OVER
 
 
-AGE & WEIGHT CLASSES: 
+AGE & WEIGHT CLASSES- 
 
 
 KIDS 4/5 years -46
@@ -154,7 +155,7 @@ KIDS 14/15 years
 --> -116 lbs, -130 lbs, +130 lbs
 
 
-GIRLS GI BELTS:
+GIRLS GI BELTS-
 
 
 WHITE UNTIL GREY BLACK
@@ -162,7 +163,7 @@ YELLOW WHITE AND OVER
 
 
 AGE & WEIGHT
-CLASSES:
+CLASSES-
 
 
 KIDS 4/5 years -46
@@ -190,7 +191,7 @@ KIDS 14/15 years
 
 
 JUVENILE MALE GI
-BELTS:
+BELTS-
 
 
 WHITE
@@ -198,7 +199,7 @@ BLUE
 
 
 AGE & WEIGHT
-CLASSES:
+CLASSES-
 
 
 JUV 16/17 YEARS
@@ -206,7 +207,7 @@ JUV 16/17 YEARS
 
 
 JUVENILE FEMALE GI
-BELTS:
+BELTS-
 
 
 WHITE
@@ -214,14 +215,14 @@ BLUE
 
 
 AGE & WEIGHT
-CLASSES:
+CLASSES-
 
 
 JUV 16/17 YEARS
 --> -140 lbs, +140 lbs
 
 
-FEMALE GI BELTS:
+FEMALE GI BELTS-
 
 
 WHITE
@@ -236,20 +237,20 @@ PURPLE
 BROWN & BLACK
 
 
-AGE & WEIGHT CLASSES:
+AGE & WEIGHT CLASSES-
 
 
 ADULT à
 -128 lbs, -146 lbs, -160 lbs, +160 lbs,  
 
 
-MALE GI BELTS: 
+MALE GI BELTS- 
 
 
 White to Black
 
 
-AGE & WEIGHT CLASSES:
+AGE & WEIGHT CLASSES-
 
 
 ADULT (UNDER 30 Yrs) à

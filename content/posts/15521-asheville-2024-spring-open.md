@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Southeastern Grappling Association returns to Asheville, NC on April 13th, 2024 for The Asheville Spring Open!
 price: $85
-location: Asheville,
+location: |
+  Asheville
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/15521
@@ -19,16 +20,16 @@ https://smoothcomp.com/en/event/15521
 Our return visit to Warren Wilson College for the Asheville Spring Open, April 13th 2024 is upon us! This event is open to youth, teens and adults! Come join us for another action-packed year of competition!
 
 
-The Asheville Fall Open: November 11th, 2023
+The Asheville Fall Open- November 11th, 2023
 
 
-LOCATION: Warren Wilson College
+LOCATION- Warren Wilson College
 
 
 104 Northwest Ln, Swannanoa, NC 28778
 
 
-Doors Open @ 8:30am | Event Starts @ 9:30am
+Doors Open @ 8-30am | Event Starts @ 9-30am
 
 
 GI ABSOLUTE DIVISIONS for ALL ADULT belt levels
@@ -40,25 +41,25 @@ All absolute division winners earn FREE REGISTRATION to our next event.
 BLACK BELTS compete for FREE
 
 
-FORMAT: Southeastern Grappling Association follows a Single Elimination w/ a Fight for Bronze format. Divisions with only two competitors will follow a Best of Three format. Divisions with 3 competitors will follow a Round Robin format.
+FORMAT- Southeastern Grappling Association follows a Single Elimination w/ a Fight for Bronze format. Divisions with only two competitors will follow a Best of Three format. Divisions with 3 competitors will follow a Round Robin format.
 
 
-RULES: http://www.segabjj.com/rules
+RULES- http-//www.segabjj.com/rules
 
 
-DIVISIONS: http://www.segabjj.com/divisions
+DIVISIONS- http-//www.segabjj.com/divisions
 
 
 **THIS IS AN ONLINE/PRE-REGISTRATION ONLY EVENT**
 
 
-Early Bird Registration– (Register before February 16th at 11:59pm) $85 (Youth Divisions- $70)
+Early Bird Registration– (Register before February 16th at 11-59pm) $85 (Youth Divisions- $70)
 
 
-Normal Registration– (Register before March 22nd at 11:59pm) $95 (Youth Divisions- $85)
+Normal Registration– (Register before March 22nd at 11-59pm) $95 (Youth Divisions- $85)
 
 
-Late Registration- (Register before April 6th at 11:59pm) $110 (Youth Divisions- $100)
+Late Registration- (Register before April 6th at 11-59pm) $110 (Youth Divisions- $100)
 
 
 **Women's Divisions - $60 until Late Registration Period
@@ -70,7 +71,7 @@ Late Registration- (Register before April 6th at 11:59pm) $110 (Youth Divisions-
 **NEW** The No-Gi Absolute Division(s) will require a $10
 additional fee. The $10 fee goes directly to the 1st place winner’s
 payout. Southeastern Grappling Association will MATCH the pot for the 1st
-place winner’s payout. EXAMPLE: If there are 15 registered competitors
+place winner’s payout. EXAMPLE- If there are 15 registered competitors
 in the Absolute No-Gi Division, the payout will be $300 for the 1st
 place winner. (15 competitors X $10 = $150 + $150 match = $300)
 
@@ -84,19 +85,19 @@ Spectators - $10 if purchased online. (Discounts for multiple spectators)
 **CHANGES TO REGISTRATION MUST BE MADE BEFORE LATE REGISTRATION CLOSES**
 
 
-Help changing your registration/divisions can be found at: https://support.smoothcomp.com/article/89-how-to-change-weightclass-or-cancel
+Help changing your registration/divisions can be found at- https-//support.smoothcomp.com/article/89-how-to-change-weightclass-or-cancel
 
 
-COMBINING DIVISIONS: Depending on the event turnout, Southeastern Grappling Association reserves the right to reasonably combine divisions. In the event there is no suitable combination available for your division, you will be notified and your registration refunded.
+COMBINING DIVISIONS- Depending on the event turnout, Southeastern Grappling Association reserves the right to reasonably combine divisions. In the event there is no suitable combination available for your division, you will be notified and your registration refunded.
 
 
-REFUNDS: Refunds will be issued until the end of the Early Bird Registration deadline. Coupon/vouchers for future Southeastern Grappling Association events will be issued from Early Bird Registration deadline up to 24hrs before the event start time. No refunds or vouchers will be issued after 24hr deadline.
+REFUNDS- Refunds will be issued until the end of the Early Bird Registration deadline. Coupon/vouchers for future Southeastern Grappling Association events will be issued from Early Bird Registration deadline up to 24hrs before the event start time. No refunds or vouchers will be issued after 24hr deadline.
 
 
-BRACKETS and SCHEDULE: Brackets and division schedule will be posted before the event start date. The brackets and schedule can be checked on the event page through your web browser or mobile device. Southeastern Grappling Association provides a large screen TV displaying the current, in-progress and upcoming matches with estimated start times at each event. If a competitor is not present at their bracket’s assigned ring, a courtesy announcement will be made. If a competitor does not show up to their ring in a reasonable amount of time they will be disqualified from the bracket. The competitor is allowed to participate in any remaining brackets they are scheduled in for the remainder of the event. More information on Smoothcomp’s dynamic scheduling can be found at: https://support.smoothcomp.com/article/90-find-out-your-dynamic-starting-time
+BRACKETS and SCHEDULE- Brackets and division schedule will be posted before the event start date. The brackets and schedule can be checked on the event page through your web browser or mobile device. Southeastern Grappling Association provides a large screen TV displaying the current, in-progress and upcoming matches with estimated start times at each event. If a competitor is not present at their bracket’s assigned ring, a courtesy announcement will be made. If a competitor does not show up to their ring in a reasonable amount of time they will be disqualified from the bracket. The competitor is allowed to participate in any remaining brackets they are scheduled in for the remainder of the event. More information on Smoothcomp’s dynamic scheduling can be found at- https-//support.smoothcomp.com/article/90-find-out-your-dynamic-starting-time
 
 
-WEIGH-INS: Weigh-ins will be held the Friday before the
+WEIGH-INS- Weigh-ins will be held the Friday before the
 event at the venue from 4-6pm. Weigh-ins will also be held the day of the event
 up to one hour before your first scheduled match.
 
@@ -123,7 +124,7 @@ We offer a women’s division discount at all of our main events throughout the 
 **Depending on the event turnout, Southeastern Grappling Association reserves the right to reasonably combine divisions. In the event there is no suitable combination available for your division, you will be notified and your registration refunded.**
 
 
-This event follows the standard IBJJF scoring and point system. This is NOT a submission-only event. Points are as follows:
+This event follows the standard IBJJF scoring and point system. This is NOT a submission-only event. Points are as follows-
 
 
 Takedown= 2pts

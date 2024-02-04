@@ -5,9 +5,10 @@ tags:
     - Jul
     - gi 
     - nogi 
-description: PHILADELPHIA SUMMER INTERNATIONAL OPEN: JULY 27TH, 2024
+description: PHILADELPHIA SUMMER INTERNATIONAL OPEN JULY 27TH, 2024
 price: $99
-location: Philadelphia,
+location: |
+  Philadelphia
 ---
 ## Sign Up
 https://pbjjf.smoothcomp.com/en/event/12915
@@ -16,16 +17,16 @@ https://pbjjf.smoothcomp.com/en/event/12915
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12345.6789!2d-75.2113513!3d40.0138832!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z40.0138832!5e0!3m2!1sen!2sus!4v1234567890" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ## Description
-Location: 601 Righters Ferry Rd, Bala Cynwyd, PA 19004
+Location- 601 Righters Ferry Rd, Bala Cynwyd, PA 19004
 
 
-Doors open at 8:00amEvent starts at 9:00am
+Doors open at 8-00amEvent starts at 9-00am
 
 
-FORMAT: Professional Brazilian Jiu Jitsu Federation 
+FORMAT- Professional Brazilian Jiu Jitsu Federation 
 
 
-DOUBLE ELIMINATION FORMAT:
+DOUBLE ELIMINATION FORMAT-
 
 
 The basic concept of double elimination is similar to single elimination, in which there are rounds, and the winners advance to the brackets. The difference is that when the athlete loses a fight, he goes to another bracket which he will have the opportunity to keep competing for the 3rd place.
@@ -76,10 +77,10 @@ CREDITS
 -You need to contact the office by email  before the registration deadline to receive or use your credit.
 
 
-IF YOU ARE INTERESTED IN BECOMING A STAFF MEMBER WITH PBJJF DURING THE EVENTS, PLEASE COMPLETE THE APPLICATION FORM. CLICK ON THE LINK BELOW:
+IF YOU ARE INTERESTED IN BECOMING A STAFF MEMBER WITH PBJJF DURING THE EVENTS, PLEASE COMPLETE THE APPLICATION FORM. CLICK ON THE LINK BELOW-
 
 
-https://forms.gle/mgaRYYD57HuDHJDh7
+https-//forms.gle/mgaRYYD57HuDHJDh7
 
 
 AGE DIVISION YOUTH  / YEAR OF BIRTH 

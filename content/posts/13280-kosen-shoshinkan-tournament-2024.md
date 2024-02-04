@@ -7,7 +7,10 @@ tags:
     - nogi 
 description: Shoshinkan Martial Arts is welcoming Judo, BJJ and grappling techniques Athletes from all over the United States for its Annual Kosen Tournament
 price: $75
-location: Las
+location: |
+  Las Vegas
+  
+  United States
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/13280
@@ -30,27 +33,27 @@ EXCLUSIONS
 
 
 Juniors (5 to
-6 Years Old):       2 Minutes
+6 Years Old)-       2 Minutes
 
 
 • • No shime-waza (strangles) - under 7 Years Old
 
 
 Juniors (7
-to 12 Years Old):     3 Minutes
+to 12 Years Old)-     3 Minutes
 
 
 •   • No kansetsu-waza (arm locks) - under 13 Years Old
 
 
-Juvenile (13-16 Years Old):       3 Minutes
+Juvenile (13-16 Years Old)-       3 Minutes
 
 
-Senior Novice:                      4
+Senior Novice-                      4
 Minutes (17 Years & Up)
 
 
-Senior Brown/Black Belt        4 Minutes (17 Years & Up):
+Senior Brown/Black Belt        4 Minutes (17 Years & Up)-
 
 
 All Masters                           4 Minutes (30 years and older)
@@ -61,7 +64,7 @@ Novice may be grouped with Senior Novice due to the limited number of
 competitors
 
 
-AWARDS:
+AWARDS-
 
 
 GOLD, SILVER & BRONZE MEDALS    TEAM CHAMPIONSHIP TROPHY

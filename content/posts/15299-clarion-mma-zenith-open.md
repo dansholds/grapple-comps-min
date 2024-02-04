@@ -7,7 +7,10 @@ tags:
     - nogi 
 description: Short event introduction
 price: $25
-location: CLARION
+location: |
+  CLARION
+  
+  United States
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/15299
@@ -34,7 +37,7 @@ All are invited to come to compete in this no-gi & gi event.  This friendly com
 All competitors are guaranteed at least two matches or a full refund if we can not find you appropriate matches.
 
 
-AWARDS:
+AWARDS-
 
 
 GOLD, SILVER & BRONZE MEDALS    
@@ -64,7 +67,7 @@ Cash, Credit (Visa, MasterCard, and Discover), Debit, Stripe, Cashapp are accept
 CREDIT POLICY
 
 
-You can CANCEL and receive a full credit towards any future event for any reason. Competitors must cancel by 2:00 PM on Saturday before the event by logging into your account and canceling your registration yourself. This credit is valid up to 1 year from the date you cancel. Refunds are not given.
+You can CANCEL and receive a full credit towards any future event for any reason. Competitors must cancel by 2-00 PM on Saturday before the event by logging into your account and canceling your registration yourself. This credit is valid up to 1 year from the date you cancel. Refunds are not given.
 
 
 ASSISTANCE WITH REGISTRATION

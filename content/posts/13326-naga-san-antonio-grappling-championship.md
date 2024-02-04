@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: SATURDAY, February 17, 2024
 price: $110
-location: San
+location: |
+  San Antonio
 ---
 ## Sign Up
 https://naga.smoothcomp.com/en/event/13326

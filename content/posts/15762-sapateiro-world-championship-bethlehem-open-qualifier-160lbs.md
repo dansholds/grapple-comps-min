@@ -7,7 +7,10 @@ tags:
     - nogi 
 description: This is a open registration bracket for a spot in the 160lb Sapateiro World Championship
 price: $100
-location: Bethlehem
+location: |
+  Bethlehem
+  
+  United States
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/15762

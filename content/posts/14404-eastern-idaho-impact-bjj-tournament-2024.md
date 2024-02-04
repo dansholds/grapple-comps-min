@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: EASTERN IDAHO IMPACT BJJ TOURNAMENT – March 9st, 2024
 price: $77
-location: United
+location: |
+  United States
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/14404
@@ -22,7 +23,7 @@ WHITE TO BLACK BELTS – KIDS AND ADULTS
 Brazilian Jiu-Jitsu Gi & NoGi
 
 
-Where: BLACKFOOT HIGH SCHOOL
+Where- BLACKFOOT HIGH SCHOOL
 
 
 870 S FISHER AVE - BLACKFOOT, ID 83221
@@ -38,13 +39,13 @@ Registration ends on March 7st at 3pm.
 Weigh ins without GI (1 pound allowance)
 
 
-Spectator Fees: We ARE allowing Spectators for this
-tournament ALL SPECTATORS $10 (kids under 10 yrs old is free)  Coaches: Two Coaches per academy may enter
+Spectator Fees- We ARE allowing Spectators for this
+tournament ALL SPECTATORS $10 (kids under 10 yrs old is free)  Coaches- Two Coaches per academy may enter
 for FREE.  Additional coaches must pay
 the $10 Spectator Fee.
 
 
-Prices:
+Prices-
 
 
 By February 9st - 1 DIVISION=$77/ 2 DIVISIONS =$89
@@ -56,7 +57,7 @@ BY March 7st - 1 DIVISION=$99 / 2 DIVISIONS =$110
 2 MATCHES GUARANTEED - IBJJF RULES
 
 
-FIGHT TIME:
+FIGHT TIME-
 
 
 KIDS - 3 MINUTES / ADULTS - 5 MINUTES
@@ -75,17 +76,17 @@ white belt. In the USA, to have competed at a college level or higher. In other
 countries, to have competed in events of national scope.
 
 
-DIVISIONS:
+DIVISIONS-
 
 
-BOYS GI ONLY:
+BOYS GI ONLY-
 
 
 WHITE UNTIL GREY BLACK
 YELLOW WHITE AND OVER
 
 
-AGE & WEIGHT CLASSES: 
+AGE & WEIGHT CLASSES- 
 
 
 KIDS 4/5 years -45
@@ -112,7 +113,7 @@ KIDS 14/15 years
 --> -116 lbs, -130 lbs, +130 lbs
 
 
-GIRLS GI BELTS:
+GIRLS GI BELTS-
 
 
 WHITE UNTIL GREY BLACK
@@ -120,7 +121,7 @@ YELLOW WHITE AND OVER
 
 
 AGE & WEIGHT
-CLASSES:
+CLASSES-
 
 
 KIDS 4/5 years -45
@@ -148,7 +149,7 @@ KIDS 14/15 years
 
 
 JUVENILE MALE GI
-BELTS:
+BELTS-
 
 
 WHITE
@@ -156,7 +157,7 @@ BLUE
 
 
 AGE & WEIGHT
-CLASSES:
+CLASSES-
 
 
 JUV 16/17 YEARS
@@ -164,7 +165,7 @@ JUV 16/17 YEARS
 
 
 JUVENILE FEMALE GI
-BELTS:
+BELTS-
 
 
 WHITE
@@ -172,14 +173,14 @@ BLUE
 
 
 AGE & WEIGHT
-CLASSES:
+CLASSES-
 
 
 JUV 16/17 YEARS
 --> -140 lbs, +140 lbs
 
 
-FEMALE GI BELTS:
+FEMALE GI BELTS-
 
 
 WHITE
@@ -194,14 +195,14 @@ PURPLE
 BROWN & BLACK
 
 
-AGE & WEIGHT CLASSES:
+AGE & WEIGHT CLASSES-
 
 
 ADULT à
 -128 lbs, -146 lbs, -160 lbs, +160 lbs,  
 
 
-FEMALE NOGI BELTS:
+FEMALE NOGI BELTS-
 
 
 WHITE &BLUE
@@ -210,20 +211,20 @@ WHITE &BLUE
 PURPLE, BROWN & BLACK
 
 
-AGE & WEIGHT CLASSES:
+AGE & WEIGHT CLASSES-
 
 
 ADULT à
 -128 lbs, -146 lbs, -160 lbs, +160 lbs,  
 
 
-MALE GI BELTS: 
+MALE GI BELTS- 
 
 
 WHITE TO BLACK
 
 
-AGE & WEIGHT CLASSES:
+AGE & WEIGHT CLASSES-
 
 
 ADULT (UNDER 30 Yrs) à
@@ -238,7 +239,7 @@ MASTER 2 (40 Yrs and OVER) à
 -140 lbs, -160 lbs, -180 lbs, -200 lbs, -220 lbs, +220 lbs,  
 
 
-MALE NOGI BELTS:
+MALE NOGI BELTS-
 
 
 WHITE & BLUE
@@ -247,7 +248,7 @@ WHITE & BLUE
 PURPLE, BROWN & BLACK
 
 
-AGE & WEIGHT CLASSES:
+AGE & WEIGHT CLASSES-
 
 
 ADULT (UNDER 30 YRS) à

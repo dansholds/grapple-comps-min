@@ -8,7 +8,8 @@ tags:
 description: We are pleased to welcome you to the CompNet Season 2024!
 Join thousands of Gracie Barra team members competing in local, regional, and national championships worldwide
 price: $105
-location: Chicago,
+location: |
+  Chicago
 ---
 ## Sign Up
 https://compnet.smoothcomp.com/en/event/15048
@@ -26,16 +27,16 @@ Join hundreds of Gracie Barra team members competing at the CompNet Illinois Cha
 Would you like to work with us on this event? Email us at [email protected] to apply
 
 
-Date: Saturday, March 2nd, 2024
+Date- Saturday, March 2nd, 2024
 
 
-The doors open at 8:00 am. The event begins at 9:00 am. 
+The doors open at 8-00 am. The event begins at 9-00 am. 
 
 
-Venue: TBD
+Venue- TBD
 
 
-Address: TBD, but will be in the suburb of Chicago 
+Address- TBD, but will be in the suburb of Chicago 
 
 
 PRICES
@@ -57,34 +58,34 @@ $15 off when you sign up for both Gi & No Gi divisions. (Applicable for boys, gi
 40% off of all registration fees for female juvenile and female adult/masters divisions. 
 
 
-Spectator Fee: $10 (cash) per person (3 yr old+) at the door. Registrations for athletes under 16 years old include one complimentary spectator ticket per family.
+Spectator Fee- $10 (cash) per person (3 yr old+) at the door. Registrations for athletes under 16 years old include one complimentary spectator ticket per family.
 
 
 
 IMPORTANT DATES
 
 
-To help your preparation for competiton, please observe the important dates below:
+To help your preparation for competiton, please observe the important dates below-
 
 
 
-Registration closes: end of Sunday, February 25th, 2024
+Registration closes- end of Sunday, February 25th, 2024
 
 
-Division correction (athlete correction) deadline: end of Tuesday, February 27th, 2024
+Division correction (athlete correction) deadline- end of Tuesday, February 27th, 2024
 
 
-Tournament bracket and official schedule published: end of Thursday, February 29th, 2024
+Tournament bracket and official schedule published- end of Thursday, February 29th, 2024
 
 
 
 More Information
 
 
-Design your 6-week training plan: available for all participants at institute.graciebarra.com to help athletes prepare for the competition.
+Design your 6-week training plan- available for all participants at institute.graciebarra.com to help athletes prepare for the competition.
 
 
-For more information about the event, click on the links below:
+For more information about the event, click on the links below-
 
 
 

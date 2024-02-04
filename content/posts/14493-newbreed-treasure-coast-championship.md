@@ -7,7 +7,10 @@ tags:
     - nogi 
 description: Mid Florida Event Center - 9221 Southeast Event Center Place, Port St
 price: $65
-location: Port
+location: |
+  Port St. Lucie
+  
+  United States
 ---
 ## Sign Up
 https://newbreedbjj.smoothcomp.com/en/event/14493

@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Top Level Kids BJJ Tournaments!
 price: $79
-location: Los
+location: |
+  Los Angeles
 ---
 ## Sign Up
 https://ibjjff.smoothcomp.com/en/event/15731
@@ -34,7 +35,7 @@ Forge ahead with grit and perseverance, because victory is within reach!
 Be Blessed! Be Brave!
 
 
-Register Online: https://bravebjj.net/
+Register Online- https-//bravebjj.net/
 
 
 #bravebjj #bravejiujitsu #bravebjjfamily #forgedbybrave #bravebjjstrong

@@ -7,7 +7,10 @@ tags:
     - nogi 
 description: NoGi BJJ Tournament For Kids
 price: $50
-location: Farmingdale
+location: |
+  Farmingdale
+  
+  United States
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/15562
@@ -31,7 +34,7 @@ This is a kids only tournament, it will be NoGI.
 It will be a submission only format and will follow legal submissions for kids under the IBJJF rules. 
 
 
-The matches will be 3 minutes long and will be in a round robin format and you will be awarded points as follows:
+The matches will be 3 minutes long and will be in a round robin format and you will be awarded points as follows-
 
 
 Loss due to submission- 0 points 

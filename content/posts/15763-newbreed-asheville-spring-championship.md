@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: WNC Agricultural Center - Expo Building - 775 Boylston Hwy, Fletcher, NC
 price: $150
-location: Asheville,
+location: |
+  Asheville
 ---
 ## Sign Up
 https://newbreedbjj.smoothcomp.com/en/event/15763

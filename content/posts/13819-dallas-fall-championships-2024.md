@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Battleground presents the Dallas Fall Championships Saturday September 21
 price: $90
-location: United
+location: |
+  United States
 ---
 ## Sign Up
 https://battleground.smoothcomp.com/en/event/13819

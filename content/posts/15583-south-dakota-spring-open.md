@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: April 6TH, 2024
 price: $60
-location: Brookings,
+location: |
+  Brookings
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/15583
@@ -22,7 +23,7 @@ Brookings high school
 530 Elm Ave, Brookings, SD 57006
 
 
-Doors Open: 7:30am  | Event Start: 9:00am
+Doors Open- 7-30am  | Event Start- 9-00am
 
 
 Spectators
@@ -65,18 +66,18 @@ Weight Divisons
 
 
 
-Kids (4-11): >65 lbs, 75 lbs, 85 lbs, 95 lbs, 105 lbs, 115 lbs,  135 lbs, 135+ Ibs
+Kids (4-11)- >65 lbs, 75 lbs, 85 lbs, 95 lbs, 105 lbs, 115 lbs,  135 lbs, 135+ Ibs
 
 
-Teens(12-17): >75 Ibs, 85 Ibs, 95 Ibs, 105 Ibs, 125 Ibs, 135 Ibs, 145 Ibs, 155 Ibs, 170 Ibs, 170+ Ibs
+Teens(12-17)- >75 Ibs, 85 Ibs, 95 Ibs, 105 Ibs, 125 Ibs, 135 Ibs, 145 Ibs, 155 Ibs, 170 Ibs, 170+ Ibs
 
 
 
 
-Adults (Male): >135 lbs, 145 lbs, 155 lbs, 170 lbs, 185 lbs, 200 lbs, 215 lbs, 230 Ibs, 230+ lbs
+Adults (Male)- >135 lbs, 145 lbs, 155 lbs, 170 lbs, 185 lbs, 200 lbs, 215 lbs, 230 Ibs, 230+ lbs
 
 
-Adults (Female): 115 lbs, 125 lbs, 135 lbs, 145 lbs, 155 lbs, 170 lbs, 185 lbs, 200 lbs, 230+ lbs
+Adults (Female)- 115 lbs, 125 lbs, 135 lbs, 145 lbs, 155 lbs, 170 lbs, 185 lbs, 200 lbs, 230+ lbs
 
 
 

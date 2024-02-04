@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: SATURDAY, April 20, 2023
 price: $110
-location: Honolulu,
+location: |
+  Honolulu
 ---
 ## Sign Up
 https://naga.smoothcomp.com/en/event/14076
@@ -31,10 +32,10 @@ If you are a teen (14-17) or adult (18 & over) competitor, you will register on 
 VENUE SPECIFIC RULES
 
 
-IMPORTANT CLEAR BAG POLICIES FOR RADFORD:
+IMPORTANT CLEAR BAG POLICIES FOR RADFORD-
 
 
-All NAGA Competitors, Coaches and Spectators:
+All NAGA Competitors, Coaches and Spectators-
 
 
 Radford High School is requiring that any and all items being brought into the gym be in a clear bag to show what is being transported into the gym.  The high school is NOT mandating any size or exact type of clear bag...could be a clear rubbish bag...as long as it is accessible to be able to see at the checkpoint.  If you are a competitor/coach or spectator flying in from another island and have luggage, the high school has offered to store your luggage in a secure closet until you need to leave the event.

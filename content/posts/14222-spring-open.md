@@ -7,7 +7,10 @@ tags:
     - nogi 
 description: DOUBLE ELIMINATION TOURNAMENT
 price: $99
-location: Covina
+location: |
+  Covina
+  
+  United States
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/14222
@@ -22,7 +25,7 @@ Saturday, April 6th 2024
 Double Elimination Tournament
 
 
-Age Groups: Kids, Juniors, Teens, Juveniles, Adults, Masters 1-6
+Age Groups- Kids, Juniors, Teens, Juveniles, Adults, Masters 1-6
 
 
 Schedule
@@ -32,22 +35,22 @@ April 6th
 
 
 
-Early Bird Registration: November 5th - January 5th      Kids $69 / Adults $79
+Early Bird Registration- November 5th - January 5th      Kids $69 / Adults $79
 
 
 
 
-Regular Registration: January 6th - February 16th          Kids $89 / Adults $99
+Regular Registration- January 6th - February 16th          Kids $89 / Adults $99
 
 
 
 
-Late Registration: February 17th - March 31st                 Kids $99 / Adults $109
+Late Registration- February 17th - March 31st                 Kids $99 / Adults $109
 
 
 
 
-Combo Discount for Gi & No-Gi: Early Bird $20, Regular $30, and during Late Registration $50 off at checkout
+Combo Discount for Gi & No-Gi- Early Bird $20, Regular $30, and during Late Registration $50 off at checkout
 
 
 
@@ -72,12 +75,12 @@ Format
 Open to all Gi & No-Gi Competitors
 
 
-Gi: all gi colors accepted. Rashguards underneath gi *optional
+Gi- all gi colors accepted. Rashguards underneath gi *optional
 
 
 
 
-No-Gi: all color rashguards & spats permitted. No-Gi shorts must not have pockets or zippers.
+No-Gi- all color rashguards & spats permitted. No-Gi shorts must not have pockets or zippers.
 
 
 

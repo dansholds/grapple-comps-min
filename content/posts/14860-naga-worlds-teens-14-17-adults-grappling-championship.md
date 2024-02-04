@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: SUNDAY, April 28, 2024
 price: $110
-location: Morristown,
+location: |
+  Morristown
 ---
 ## Sign Up
 https://naga.smoothcomp.com/en/event/14860
@@ -43,4 +44,4 @@ Each year NAGA runs over 75 tournament a year across the world. We are always lo
 REGISTER NOW - $10 OFF COUPON
 
 
-  NAGA is offering $10 off to all competitors who register by midnight on March 27, 2024. At checkout, enter WORLDS2024 in the coupon code field, and $10 will be discounted from your overall fee. Please Note: Only one coupon code can be used at checkout per competitor per tournament.
+  NAGA is offering $10 off to all competitors who register by midnight on March 27, 2024. At checkout, enter WORLDS2024 in the coupon code field, and $10 will be discounted from your overall fee. Please Note- Only one coupon code can be used at checkout per competitor per tournament.

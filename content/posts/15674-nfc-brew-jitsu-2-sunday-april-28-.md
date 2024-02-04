@@ -1,13 +1,15 @@
 ---
-title: NFC Brew Jitsu 2 (Sunday, April 28)
+title: NFC Brew Jitsu # 2 (Sunday, April 28)
 date: 2024-04-28
 tags:
     - Apr
     - gi 
     - nogi 
-description: NFC Brew Jitsu 2 will take place on Sunday, April 28.
+description: NFC Brew Jitsu #2 will take place on Sunday, April 28 at Monday Night Garage in west midtown along the Beltline!
+NFC Brew Jitsu #2 will feature a white belt gi tournament, a blue belt gi tournament, a purple belt gi tournament along with jiu jitsu super fights! The event will be open to men and women
 price: $50
-location: Atlanta,
+location: |
+  Atlanta
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/15674
@@ -43,7 +45,7 @@ Monday Night Brewing Garage is located at 933 Lee Street SW, Atlanta 30310.  
 There are two Monday Night locations. Make sure you're going to the correct one! 933 Lee Street SW, Atlanta 30310.
 
 
-EVENT DETAILS & FAQ:
+EVENT DETAILS & FAQ-
 
 
 LOCATIONMonday Night Brewing Garage is located at 933 Lee Street SW, Atlanta 30310. Event begins at 1 pm and expects to end by 6 pm.

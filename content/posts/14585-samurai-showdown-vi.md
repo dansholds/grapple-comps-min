@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Samurai Showdown VI
 price: $60
-location: Yucaipa,
+location: |
+  Yucaipa
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/14585
@@ -34,16 +35,16 @@ YUCAIPA, CA 92399
 Spectator Fees
 
 
-Adults (13+): $10
+Adults (13+)- $10
 
 
-Kids: $5
+Kids- $5
 
 
-3 and under: Free
+3 and under- Free
 
 
-Coaches: 3 per academy
+Coaches- 3 per academy
 
 
 Disclaimer

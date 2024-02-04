@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: NYTEX Sports Centre - 8851 Ice House Dr, North Richland Hills, TX
 price: $150
-location: Dallas,
+location: |
+  Dallas
 ---
 ## Sign Up
 https://newbreedbjj.smoothcomp.com/en/event/14794

@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: A new and fresh approach to organized jiu jitsu competitions designed around the athlete and spectator experience by providing an organized, clean, timely, and entertaining event
 price: $80
-location: Stamford,
+location: |
+  Stamford
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/10923
@@ -25,22 +26,22 @@ September 2nd, 2023
 Chelsea Piers, One Blachley Road, Stamford, CT, 06902
 
 
-Doors Open at 8:00am
+Doors Open at 8-00am
 
 
-Weigh-ins Begin at 8:00am and run until an hour before the last division
+Weigh-ins Begin at 8-00am and run until an hour before the last division
 
 
-Kid's & Teen's Start at 9:00 am
+Kid's & Teen's Start at 9-00 am
 
 
-Adult's Start at 12:00 pm (Tentative start time - Always check your division the day before)
+Adult's Start at 12-00 pm (Tentative start time - Always check your division the day before)
 
 
 Please visit www.ascensioncombat.net for complete details of tournament format, rules, divisions, etc.
 
 
-COACHES COMPENSATION:
+COACHES COMPENSATION-
 
 
 $200 pay to any team with 15 competitors or more
@@ -52,10 +53,10 @@ $400 pay to any team with 30 competitors or more
 $600 pay to any team with 45 competitors or more
 
 
-REGISTRATION:
+REGISTRATION-
 
 
-Early Bird:
+Early Bird-
 
 
 $80 - 1 Division until February 21st, 2024
@@ -100,7 +101,7 @@ Spectator
 $20
 
 
-Early Bird:
+Early Bird-
 
 
 Registration
@@ -121,7 +122,7 @@ Refund Policy
 
 
 
-There are no refunds after final purchase. However, athletes can have a credit transferred to their next AGC event. Please email: [email protected]
+There are no refunds after final purchase. However, athletes can have a credit transferred to their next AGC event. Please email- [email protected]
 
 
 AGC cannot guarantee the athletes will show up for the tournament. However, if divisions cannot be combined or opponents can’t be matched up, credit will be given to next tournament.
@@ -203,7 +204,7 @@ OPTION #1
 
 
 
- Athletes may stay in their current weight class, make weight, and receive the 1st place medal for the division. Please note: Option #1 is the default option if athletes do not respond to [email protected] by 5 PM (event local time) before the” Athlete Correction Deadline”.
+ Athletes may stay in their current weight class, make weight, and receive the 1st place medal for the division. Please note- Option #1 is the default option if athletes do not respond to [email protected] by 5 PM (event local time) before the” Athlete Correction Deadline”.
 
 
 
@@ -216,12 +217,12 @@ Move up or down in age and/or weight division.
 
 
 
-Adults: Can move up a weight class. Master 1 & Master 2 may drop down a division. However, you can only move up from Adult or Master 1 if you’re eligible by age requirements listed onwww.ascensioncombat.net. Athletes can move up in skill division/belt division. Athletes cannot move down in skill or belt division unless they are moving back down to their actual rank. For example, athlete registers for Purple Belt but no one is in the division, but they are a Blue Belt. They move back down to Blue Belt.
+Adults- Can move up a weight class. Master 1 & Master 2 may drop down a division. However, you can only move up from Adult or Master 1 if you’re eligible by age requirements listed onwww.ascensioncombat.net. Athletes can move up in skill division/belt division. Athletes cannot move down in skill or belt division unless they are moving back down to their actual rank. For example, athlete registers for Purple Belt but no one is in the division, but they are a Blue Belt. They move back down to Blue Belt.
 
 
 
 
-Kid’s & Teen’s: Parent’s will have to make/approve changes. AGC has the right to deny certain changes if Age, Weight, or Skill discrepancies are too significant. If changes cannot be made, athletes will receive a credit to the next event. 
+Kid’s & Teen’s- Parent’s will have to make/approve changes. AGC has the right to deny certain changes if Age, Weight, or Skill discrepancies are too significant. If changes cannot be made, athletes will receive a credit to the next event. 
 
 
 

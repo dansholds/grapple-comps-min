@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: USF Recreation Center - East Gym - 12301 USF Genshaft Drive Tampa, FL
 price: $65
-location: Tampa,
+location: |
+  Tampa
 ---
 ## Sign Up
 https://newbreedbjj.smoothcomp.com/en/event/15678

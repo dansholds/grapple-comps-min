@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Battleground Presents Corpus Christ Championship Saturday Feb 10 at the American Bank Center
 price: $90
-location: Corpus
+location: |
+  Corpus Christi
 ---
 ## Sign Up
 https://battleground.smoothcomp.com/en/event/15088
@@ -19,10 +20,10 @@ https://battleground.smoothcomp.com/en/event/15088
 Battleground presents the Corpus Christi Championship Feb 10 at the American Bank Center.
 
 
-Early Registration Discount $70 for 1 division. $20 for each extra division(Discount applied at checkout) Ends Jan 31 11:59pm
+Early Registration Discount $70 for 1 division. $20 for each extra division(Discount applied at checkout) Ends Jan 31 11-59pm
 
 
-Normal Registration $90 for 1 division $20 for each extra division(Discount applied at checkout) Ends Feb 7 11:59 pm
+Normal Registration $90 for 1 division $20 for each extra division(Discount applied at checkout) Ends Feb 7 11-59 pm
 
 
 Full refunds if we cannot match you!Refund, Cancellation, Future event credit deadline Feb 7

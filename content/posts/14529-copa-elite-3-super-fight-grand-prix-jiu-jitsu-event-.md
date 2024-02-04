@@ -5,9 +5,10 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: Copa Elite 3- is an invite-only super-fight format jiu jitsu event that includes an open (anyone can register) $2K Advanced No Gi Absolute Division [Saturday February 10th 2024; 7pm - 10:30pm]
+description: Copa Elite 3- is an invite-only super-fight format jiu jitsu event that includes an open (anyone can register) $2K Advanced No Gi Absolute Division [Saturday February 10th 2024; 7pm - 1030pm]
 price: $275
-location: Manassas,
+location: |
+  Manassas
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/14529
@@ -64,7 +65,7 @@ All Advanced No Gi divisions will be under the NEW IBJJF No Gi rules for Adult d
 Please make sure your No Gi uniform adheres to IBJJF rules and regulations (rashguards are required - no sleeveless ones, no t-shirts) with one major exception. There will be no color requirement on the rashguard and grappling shorts. That means athletes can wear whatever color/design rashguard and shorts they desire.
 
 
-Please note:
+Please note-
 
 
 a) "Copa Elite 3" is an event run by DCJJ LLC.

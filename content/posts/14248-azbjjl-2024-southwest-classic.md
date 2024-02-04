@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: This Brazilian Jiu-Jitsu competition will offer Kids, Juveniles, Adult (Male and Female), and Masters Divisions in the Gi for all belt levels
 price: $78
-location: Mesa,
+location: |
+  Mesa
 ---
 ## Sign Up
 https://azbjjf.smoothcomp.com/en/event/14248
@@ -19,7 +20,7 @@ https://azbjjf.smoothcomp.com/en/event/14248
 The AZBJJL - 2024 Southwest Classic will take place on October 12th, 2024 at the Bell Bank Park  located at 1 Legacy Drive, Mesa, AZ 85212.  The event will offer Kids, Juvenile, Adult, and Masters divisions.  This is a Gi only tournamnet.
 
 
-VENUE:
+VENUE-
 
 
 The park is located near Mesa Gateway airport.  The current address is 1 Legacy Drive, Mesa, AZ 85212.  The park can be busy on weekends so please allow ample time for traffic and parking.
@@ -28,40 +29,40 @@ The park is located near Mesa Gateway airport.  The current address is 1 Legac
  
 
 
- RULES:
+ RULES-
 
 
-We will be using the IBJJF Rules (Please refer to their website for the latest rules) https://ibjjf.com/rules/
+We will be using the IBJJF Rules (Please refer to their website for the latest rules) https-//ibjjf.com/rules/
 
 
-Read this for more information on rules:  http://azbjjl.com/rules/
+Read this for more information on rules-  http-//azbjjl.com/rules/
 
 
-FEES:
+FEES-
 
 
-Early Registration Fee before FRIDAY 08/23/2024 @ 11:59 PM
+Early Registration Fee before FRIDAY 08/23/2024 @ 11-59 PM
 
 
     Kids, Juveniles and Adults (16 and up) – $78
 
 
-Normal Registration ends FRIDAY 09/13/2024 @ 11:59PM
+Normal Registration ends FRIDAY 09/13/2024 @ 11-59PM
 
 
     Kids, Juveniles and Adults (16 and up) – $93
 
 
-Late Registration ends FRIDAY 10/04/2024 @ 11:59PM
+Late Registration ends FRIDAY 10/04/2024 @ 11-59PM
 
 
     Kids, Juveniles and Adults (16 and up) – $108
 
 
-All registrations must be received by Friday, October 4th by 11:59 pm
+All registrations must be received by Friday, October 4th by 11-59 pm
 
 
-SPECTATOR FEE: $20
+SPECTATOR FEE- $20
 
 
 11 yrs old & up $20 
@@ -70,31 +71,31 @@ SPECTATOR FEE: $20
 10 yrs old and younger FREE
 
 
-IMPORTANT DATES:
+IMPORTANT DATES-
 
 
-Early Registration Deadline: SATURDAY 08/23/2024 @ 11:59PM local time (Arizona)
+Early Registration Deadline- SATURDAY 08/23/2024 @ 11-59PM local time (Arizona)
 
 
-Regular Registration Deadline: SATURDAY 09/13/2024 @11:59PM local time (Arizona) 
+Regular Registration Deadline- SATURDAY 09/13/2024 @11-59PM local time (Arizona) 
 
 
-Late Registration Deadline: FRIDAY 10/04/2024 @11:59PM local time (Arizona)
+Late Registration Deadline- FRIDAY 10/04/2024 @11-59PM local time (Arizona)
 
 
-Athlete Correction Deadline: SUNDAY 10/06/2024 at 11:59pm local time (Arizona) - NOTE: No changes, refunds or credits are possible after this deadline.
+Athlete Correction Deadline- SUNDAY 10/06/2024 at 11-59pm local time (Arizona) - NOTE- No changes, refunds or credits are possible after this deadline.
 
 
-Schedule and Brackets Release: THURSDAY 10/10/2024
+Schedule and Brackets Release- THURSDAY 10/10/2024
 
 
-Tournament: SATURDAY 10/12/2024
+Tournament- SATURDAY 10/12/2024
 
 
 Tournament starts at 9 AM! - If you have any questions about this tournament please email [email protected]
 
 
-AWARDS:
+AWARDS-
 
 
 The tournament is single elimination.
@@ -109,10 +110,10 @@ Athletes will not compete for the third place. Two bronze medals will be given.
 The top 5 academies and affiliations in the Adult division will receive team trophies.
 
 
-Read this for information on team and academy point-scoring: http://azbjjl.com/scoring/
+Read this for information on team and academy point-scoring- http-//azbjjl.com/scoring/
 
 
-WEIGH-INS:
+WEIGH-INS-
 
 
 Before his/her first fight, the athlete will check his/her weight with the Gi.
@@ -124,13 +125,13 @@ There is only one opportunity to check the weight. If the competitor does not ma
 Please make sure that you are in the correct weight division. You can not change divisions, if you do not make your designated division. No changes will be accepted in the tournament day, no refund.
 
 
-Example: -107.0 lbs (Rooster) means athlete must weigh 107.0 lbs or below with their Gi on, 107.1 lbs will result in a disqualification.
+Example- -107.0 lbs (Rooster) means athlete must weigh 107.0 lbs or below with their Gi on, 107.1 lbs will result in a disqualification.
 
 
-Read this for more information on weight classes:  http://azbjjl.com/uniform-weight-list/
+Read this for more information on weight classes-  http-//azbjjl.com/uniform-weight-list/
 
 
-OTHERS:
+OTHERS-
 
 
 Athletes will receive a complimentary event t-shirt which they should pick up at the event. All shirts must be picked up at the event’s shirt booth. AZBJJL is not responsible for shipping forgotten t-shirts.
@@ -148,10 +149,10 @@ AZBJJL reserves the right to close registration when we reach full capacity, or 
 Before each fight, athletes will be asked to show their valid form of photo identification (ID) to the officials(Adults only). Make sure you have it on hand
 
 
-It is the responsibility of the athlete to be knowledgeable of the rules and guidelines pertaining to the sport (as outlined in the IBJJF Rules Book). Please refer to the https://ibjjf.com/rules/ website for the latest rules.
+It is the responsibility of the athlete to be knowledgeable of the rules and guidelines pertaining to the sport (as outlined in the IBJJF Rules Book). Please refer to the https-//ibjjf.com/rules/ website for the latest rules.
 
 
-COACHES:Please see http://azbjjl.com/coaches-id-program-details/ for coaches wristband details. 
+COACHES-Please see http-//azbjjl.com/coaches-id-program-details/ for coaches wristband details. 
 
 
 Please click here for the coach/parents code of conduct.

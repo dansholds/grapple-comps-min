@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: PGF Season 6 Qualifier - LAS VEGAS
 price: $0
-location: Henderson,
+location: |
+  Henderson
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/15565
@@ -19,7 +20,7 @@ https://smoothcomp.com/en/event/15565
 Open Rank. All styles, belt levels and experiences may register.
 
 
-- The weight classes for this PGF Season 6 are:
+- The weight classes for this PGF Season 6 are-
 
 
 - Men's Middleweight (175 pounds or less)

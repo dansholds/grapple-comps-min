@@ -7,7 +7,10 @@ tags:
     - nogi 
 description: Are you ready to roll?! Join us on the mats for our 3rd Shrimp Roll on March 30, 2024 hosted by KD Events
 price: $45
-location: Severna
+location: |
+  Severna Park
+  
+  United States
 ---
 ## Sign Up
 https://kdeventsllc.smoothcomp.com/en/event/13598
@@ -34,16 +37,16 @@ Matches will be 3 minutes in length for participants ages 5 to 12, and 4 minutes
 All participants will be asked to weigh-in on the day of the scrimmage. Weight cutting is highly discouraged and unnecessary.All participants are guaranteed two matches. 
 
 
-Registration:  is $45 per childLate Registration: is $55 per child
+Registration-  is $45 per childLate Registration- is $55 per child
 
 
 Spectators 11 years old and up are $10 at the door. 
 
 
-Doors open at 11:30am.
+Doors open at 11-30am.
 
 
-Weigh-ins for kids ages 5 to 7 begin at 11:30am.Matches for kids ages 5 to 7 begin at 12:30pm.Weigh-ins for kids ages 8 and up begin at 1:30pm.Matches for kids ages 8 and up begin at 2:30pm.  
+Weigh-ins for kids ages 5 to 7 begin at 11-30am.Matches for kids ages 5 to 7 begin at 12-30pm.Weigh-ins for kids ages 8 and up begin at 1-30pm.Matches for kids ages 8 and up begin at 2-30pm.  
 
 
 Looking for Nogi matches? The 4th Shrimp Roll will have Gi and Nogi matches available.

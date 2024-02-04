@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: SATURDAY, February 24, 2024
 price: $110
-location: Denver,
+location: |
+  Denver
 ---
 ## Sign Up
 https://naga.smoothcomp.com/en/event/13632

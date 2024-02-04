@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Premier Athletic Complex - 8220 183A, Leander, TX
 price: $150
-location: Austin,
+location: |
+  Austin
 ---
 ## Sign Up
 https://newbreedbjj.smoothcomp.com/en/event/13946

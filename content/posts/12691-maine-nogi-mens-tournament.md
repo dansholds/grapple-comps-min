@@ -7,7 +7,10 @@ tags:
     - nogi 
 description: Maine BJJ Tournament- nogi white and blue belts
 price: $70
-location: Farmingdale
+location: |
+  Farmingdale
+  
+  United States
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/12691
@@ -22,7 +25,7 @@ This tournament is in the GI with divisions for White and Blue belt Men Adult up
 Matches are 4 minutes, Round-robin format, submission only.
 
 
-Bracket winners are determined as follows:
+Bracket winners are determined as follows-
 
 
 Win by submission = 2 points 

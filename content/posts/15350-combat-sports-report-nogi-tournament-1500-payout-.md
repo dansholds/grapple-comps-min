@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Saturday April 6th! The Combat Sports Report is hosting 2 different 16 man tournaments
 price: $200
-location: Tempe,
+location: |
+  Tempe
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/15350
@@ -19,16 +20,16 @@ https://smoothcomp.com/en/event/15350
 Event Summary
 
 
-Date: Saturday, April 6th
+Date- Saturday, April 6th
 
 
-Time: 3:00pm-11:00pm
+Time- 3-00pm-11-00pm
 
 
-Venue: The Battleground Gym
+Venue- The Battleground Gym
 
 
-Address: 1140 W Alameda Dr suite 1, Tempe, AZ 85282
+Address- 1140 W Alameda Dr suite 1, Tempe, AZ 85282
 
 
 The Combat Sports Report is hosting, not 1, but 2 different 16 man  No-Gi tournaments. Both tournament champions will be awarded $1500 Cash each and a Combat Sports Report rashguard!
@@ -40,7 +41,7 @@ All competitors will be gifted 4 general admission spectator tickets as part of 
 Time Limits and Match Procedure
 
 
-All 16 Man Tournament Matches will consist of a: 7 minute regulation period.  During the regulation period no formal points will be awarded; however, the referee will be scoring the match in its entirety based on the Judging and Scoring Criteria (see below).  Upon expiration of the regulation period, should no submission occur, the referee will render a decision and the winner will advance.  The tournament is single elimination; but, should a match winner be unable to advance the referees will collaborate to chose an eliminated fighter to return to the competition as a replacement.  The tournament champion will be awarded $1500 cash.
+All 16 Man Tournament Matches will consist of a- 7 minute regulation period.  During the regulation period no formal points will be awarded; however, the referee will be scoring the match in its entirety based on the Judging and Scoring Criteria (see below).  Upon expiration of the regulation period, should no submission occur, the referee will render a decision and the winner will advance.  The tournament is single elimination; but, should a match winner be unable to advance the referees will collaborate to chose an eliminated fighter to return to the competition as a replacement.  The tournament champion will be awarded $1500 cash.
 
 
 Weight Classes
@@ -49,7 +50,7 @@ Weight Classes
 Each weight class has specific weight limits, and fighters must meet these limits during the official weigh-ins before their bouts.
 
 
-The Phoenix Combat Sports Report tournament will be held in 2 weight classes:
+The Phoenix Combat Sports Report tournament will be held in 2 weight classes-
 
 
 Lightweight Division - 159.9lbs limit
@@ -79,7 +80,7 @@ Effective takedowns & throws can be defined as taking an opponent off their feet
 Slams are not permitted and are defined as malicious and intentionally driving one's opponent into the competition surface with force.
 
 
-Allowable Techniques:
+Allowable Techniques-
 
 
 
@@ -129,7 +130,7 @@ Heel Hook 
 
 
 
-Non Allowable Techniques:
+Non Allowable Techniques-
 
 
 
@@ -146,7 +147,7 @@ Gripping Opponent's attire in a Non-Gi Match
 Fouls and Penalties
 
 
-Fouls that can result in penalties or disqualifications. Some common fouls include:
+Fouls that can result in penalties or disqualifications. Some common fouls include-
 
 
 
@@ -184,7 +185,7 @@ Referees have the authority to penalize fighters for committing fouls and the au
 Equipment and Attire
 
 
-Fighters are required to wear specific equipment and attire to ensure their safety and fair competition. According to the Unified Rules of Submission Grappling, fighters must wear:
+Fighters are required to wear specific equipment and attire to ensure their safety and fair competition. According to the Unified Rules of Submission Grappling, fighters must wear-
 
 
 
@@ -213,31 +214,31 @@ By understanding the regulations governing weight classes, judging criteria, fou
 F.A.Q.
 
 
-Q: How many corners do I get?
+Q- How many corners do I get?
 
 
-A: Each competitor is allowed 1 corner.
+A- Each competitor is allowed 1 corner.
 
 
-Q: What is the start time?
+Q- What is the start time?
 
 
-A: Weigh ins are same day and begin promptly at 3:00pm.  4:00pm will be the bell time for the first match in the Lightweight division.  The Welterweight division will begin after the conclusion of the Lightweight bracket.
+A- Weigh ins are same day and begin promptly at 3-00pm.  4-00pm will be the bell time for the first match in the Lightweight division.  The Welterweight division will begin after the conclusion of the Lightweight bracket.
 
 
-Q: How do I get my complimentary tickets?
+Q- How do I get my complimentary tickets?
 
 
-A: Our media team will be dropping into film competitors for an embedded style video leading up to the event.  They will deliver the tickets in person, reach out via social media to set up a promocode, or physical tickets can be sent via traditional mail if you are training outside of our service area.
+A- Our media team will be dropping into film competitors for an embedded style video leading up to the event.  They will deliver the tickets in person, reach out via social media to set up a promocode, or physical tickets can be sent via traditional mail if you are training outside of our service area.
 
 
-Q: What if I sell more than 4 tickets?
+Q- What if I sell more than 4 tickets?
 
 
-A: Grapplers will be credited $10 for each additional ticket sold.  On fight night grapplers will be given an envelope with cash and a receipt of their promocode activations for transparency. 
+A- Grapplers will be credited $10 for each additional ticket sold.  On fight night grapplers will be given an envelope with cash and a receipt of their promocode activations for transparency. 
 
 
-Q: Where are tickets available?
+Q- Where are tickets available?
 
 
-A: https://www.eventbrite.com/e/combat-sports-report-nogi-1500-cash-tournament-tickets-797413484197?aff=oddtdtcreator
+A- https-//www.eventbrite.com/e/combat-sports-report-nogi-1500-cash-tournament-tickets-797413484197?aff=oddtdtcreator

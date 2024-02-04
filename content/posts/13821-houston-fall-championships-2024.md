@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Battleground presents the Houston Fall Championships Saturday November 9
 price: $90
-location: United
+location: |
+  United States
 ---
 ## Sign Up
 https://battleground.smoothcomp.com/en/event/13821

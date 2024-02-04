@@ -5,9 +5,10 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: NO GI (QUINTET RULESET) 16 TEAM TOURNAMENT WITH $10,000 CASH PRIZE ALONG WITH A CHAMPIONSHIP TROPHY
+description: NO GI (QUINTET RULESET) 4 TEAM TOURNAMENT WITH $4,000 CASH PRIZE ALONG WITH A CHAMPIONSHIP TROPHY
 price: $160
-location: Charlotte,
+location: |
+  Charlotte
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/13998
@@ -16,13 +17,13 @@ https://smoothcomp.com/en/event/13998
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12345.6789!2d-80.8337999!3d35.3418164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z35.3418164!5e0!3m2!1sen!2sus!4v1234567890" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ## Description
-Blue Coast Jiu Jitsu League is a Jiu Jitsu organization aimed at furthering the sport of Jiu Jitsu making it a viable career path for current and aspiring grappllers.  Help support our mission by signing up to compete in our events.  The winning team in the men's tournament will win a cash prize of $10,000 (PRIZE MONEY BASED ON IF BRACKET IS FILLED/WILL BE ADJUSTED BASED ON NUMBER OF TEAMS).  All weight class brackets will cap at 8 athletes.  Cash prize is $500 for all brackets (Lowered if bracket is not at capacity).  Weigh ins will be the day of the event starting at 08:00 a.m. on 03/30/24.  $15 for spectators.  When signing up for Quintet create your team on smoothcomp and after the first teammate pays for their registration your teammates will be able to select your team when signing up.  PLEASE LOOK IF THERE IS 8 COMPETITORS ALREADY IN A BRACKET AND WE HAVE NOT CLOSED THE SIGN UP PLEASE CONTACT US FIRST BEFORE REGISTERING.  IF SIGNING UP FOR A SUPER FIGHT WE WILL CONTACT YOU WHEN WE CONFIRM A MATCH PRIOR TO THE EVENT.  IF A MATCH UP CANNOT BE FOUND YOU WILL BE REFUNDED.  For any questions or inquiries please contact us at [email protected]
+Blue Coast Jiu Jitsu League is a Jiu Jitsu organization aimed at furthering the sport of Jiu Jitsu making it a viable career path for current and aspiring grappllers.  Help support our mission by signing up to compete in our events.  The winning team in the men's tournament will win a cash prize of $4,000.  Cash prize is $500 for all brackets.  Weigh ins will be available day before/the day of the event starting at 08-00 a.m. on 03/30/24.  $20 for spectators.  When signing up for Quintet create your team on smoothcomp and after the first teammate pays for their registration your teammates will be able to select your team when signing up.   IF SIGNING UP FOR A SUPER FIGHT WE WILL CONTACT YOU WHEN WE CONFIRM A MATCH PRIOR TO THE EVENT.  IF A MATCH UP CANNOT BE FOUND YOU WILL BE REFUNDED.  For any questions or inquiries please contact us at [email protected]
 
 
 The QUINTET Main Rule Set (minor adjustments/changes)
 
 
-※GENERAL※:
+※GENERAL※-
 
 
 l QUINTET is a Team grappling tournament. The Team wins a QUINTET match,
@@ -76,7 +77,7 @@ then immediately eliminated from the match)
 l Tie-Breakers
 
 
-- Judgment: (in case of the last bout only) the fighter with less warnings
+- Judgment- (in case of the last bout only) the fighter with less warnings
 
 
 wins.
@@ -199,7 +200,7 @@ l Disqualification (3 verbal cautions=warnings)
 l Bout will be ruled a draw if no finish in the allotted time
 
 
-l Judgment: (in case of the last bout only) the fighter with less warnings wins.
+l Judgment- (in case of the last bout only) the fighter with less warnings wins.
 
 
 l In case of the same number of warnings in the last fight, the team with the
@@ -304,7 +305,7 @@ Can pull guard but must establish grips prior to pulling guard. 
 Code of Conduct
 
 
-By attending our event, you agree to adhere to the following code of conduct:
+By attending our event, you agree to adhere to the following code of conduct-
 
 
 It is required that all competitors wear footwear off the mat. Failure to do so may lead to disqualification.
@@ -331,10 +332,10 @@ Unsportsmanlike conduct by a coach may result in the competitor they are coachin
 BCJJL prohibits competitors from competing while under the influence of any illegal drugs, or any other substance that may impair their judgment or physical abilities during the competition.
 
 
-UNIFORM:
+UNIFORM-
 
 
-For No Gi divisions, competitors must wear shorts without pockets or metal and plastic of any kind, and they must fit appropriately. Spats can be worn under the shorts. Competitors also must wear a rash guard or a shirt of elastic fabric (fits tight to body) of any color. Competitors cannot compete shirtless.
+For No Gi divisions, competitors must wear shorts without pockets or metal and plastic of any kind, and they must fit appropriately. Spats can be worn under the shorts. Competitors wearing a rash guard or a shirt of elastic fabric must fit tight to body. 
 
 
 Competitors may choose to wear soft pads on their joints. Pads that contain plastic, velcro, or metal of any kind will not be allowed.
@@ -343,7 +344,7 @@ Competitors may choose to wear soft pads on their joints. Pads that contain plas
 Competitors may tape joints with sports tape. Referees have the ability to ask a competitor to remove any tape if they deem it to be an unfair advantage.
 
 
-HYGIENE:
+HYGIENE-
 
 
  Competitor’s fingernails and toenails must be trimmed and short.
@@ -361,7 +362,7 @@ Competitors with skin lesions, or any other skin condition shall be directed to 
 Weigh-Ins
 
 
-Weigh-ins begin at 09:00 a.m.  You must check-in and weigh-in before 09:30 a.m.  Event will start promptly at 10:00 a.m. with the rules briefing and first matches to start at 09:30.
+Weigh-ins begin at 09-00 a.m.  You must check-in and weigh-in before 09-30 a.m.  Event will start promptly at 10-00 a.m. with the rules briefing and first matches to start at 09-30.
 
 
  The competing teams must make the 948 lb. weight limit.  Any increment over this amount will be considered a failure to make weight.  If a team is unable to make the weight limit, they are allowed to substitute a member of the team for backup/alternate competitor, but that competitor will be required to pay the registration fee in order to compete.  Weight class brackets/Super Fights will give +1 lb. allowance.

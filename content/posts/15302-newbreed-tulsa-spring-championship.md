@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Expo Square - 4145 E 21st St, Tulsa, OK
 price: $150
-location: Tulsa,
+location: |
+  Tulsa
 ---
 ## Sign Up
 https://newbreedbjj.smoothcomp.com/en/event/15302

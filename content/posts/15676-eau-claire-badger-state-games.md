@@ -7,7 +7,10 @@ tags:
     - nogi 
 description: This tournament will be a sub only round robin tournament
 price: $60
-location: Eau
+location: |
+  Eau Claire
+  
+  United States
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/15676
@@ -19,7 +22,7 @@ https://smoothcomp.com/en/event/15676
 Schedule; 
 
 
-Rules meeting 9:00am
+Rules meeting 9-00am
 
 
 
@@ -28,10 +31,10 @@ Rules meeting 9:00am
 Adult
 
 
-weight ins 8:00am to 10:00 am 
+weight ins 8-00am to 10-00 am 
 
 
-matches begin at 10:00 am see smooth comp for up to date bracketing info 
+matches begin at 10-00 am see smooth comp for up to date bracketing info 
 
 
 Divisions 
@@ -84,7 +87,7 @@ The competitor with the most points will win. 
 A tie in the round robin points will be decided by a sub only head to head match. 
 
 
-spectators: spectator fees will be $15
+spectators- spectator fees will be $15
 
 
-coaches: will attend for free with a limit of one coach per gym.
+coaches- will attend for free with a limit of one coach per gym.

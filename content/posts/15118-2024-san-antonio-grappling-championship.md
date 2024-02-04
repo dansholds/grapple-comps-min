@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: 2024 San Antonio Grappling Championship
 price: $50
-location: San
+location: |
+  San Antonio
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/15118
@@ -64,19 +65,19 @@ LATE REGISTRATION ENDS -> WEDNESDAY, MARCH 5th
 FREE T-SHIRT W/TWO DIVISIONS NOW THRU FEBRUARY 29th
 
 
-WEIGH-INS:
+WEIGH-INS-
 
 
 No Early or Satellite Weigh-ins on Friday. All competitors must weigh-in on Saturday morning at the tournament site. There is a two pound weight allowance. You must make weight or be subject to disqualification. Weigh-ins are done without the Gi.
 
 
-DOORS OPEN @ 8:00 AM SATURDAY, MARCH 9th
+DOORS OPEN @ 8-00 AM SATURDAY, MARCH 9th
 
 
-Youth weigh-ins @ 8:00  am
+Youth weigh-ins @ 8-00  am
 
 
-Adult weigh-ins @ 10:00 am
+Adult weigh-ins @ 10-00 am
 
 
 .
@@ -112,7 +113,7 @@ IBJJF Rules will be strictly enforced. We do not allow any coach's challenges af
 .
 
 
-DIVISIONS, RULES, AND GUIDELINES:  HTTPS://IBJJF.COM/
+DIVISIONS, RULES, AND GUIDELINES-  HTTPS-//IBJJF.COM/
 
 
 .

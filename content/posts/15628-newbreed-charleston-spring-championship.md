@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Charleston Area Convention Center - 5001 Coliseum Dr, North Charleston, SC
 price: $65
-location: Charleston,
+location: |
+  Charleston
 ---
 ## Sign Up
 https://newbreedbjj.smoothcomp.com/en/event/15628

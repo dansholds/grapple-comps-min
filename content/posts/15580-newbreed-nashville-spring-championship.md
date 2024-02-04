@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: MTSU Recreation Center - 1848 Blue Raider Dr, Murfreesboro, TN
 price: $150
-location: Murfreesboro,
+location: |
+  Murfreesboro
 ---
 ## Sign Up
 https://newbreedbjj.smoothcomp.com/en/event/15580

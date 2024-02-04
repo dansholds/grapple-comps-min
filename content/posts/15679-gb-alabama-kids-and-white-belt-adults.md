@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Your inhouse event on Smoothcomp!
 price: $40
-location: Pelham,
+location: |
+  Pelham
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/15679

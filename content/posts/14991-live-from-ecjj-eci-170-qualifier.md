@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Live From ECJJ - ECI 170 Qualifier
 price: $100
-location: Syracuse,
+location: |
+  Syracuse
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/14991

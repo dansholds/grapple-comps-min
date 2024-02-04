@@ -7,7 +7,10 @@ tags:
     - nogi 
 description: SATURDAY, February 17, 2024
 price: $110
-location: Philadelphia
+location: |
+  Philadelphia
+  
+  United States
 ---
 ## Sign Up
 https://naga.smoothcomp.com/en/event/14370

@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: YOUR FIRST TOURNAMENT
 price: $60
-location: United
+location: |
+  United States
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/15767
@@ -43,7 +44,7 @@ We will try to get everyone to compete as quickly as possible. This is a Family 
 Weigh ins night before at
 
 
-Galvan's Martial Arts, 5 - 9 pm Weigh ins that day starting at 9:00 am Full Parking lot for parents and spectators.
+Galvan's Martial Arts, 5 - 9 pm Weigh ins that day starting at 9-00 am Full Parking lot for parents and spectators.
 
 
 IF YOU MISS WEIGHT, YOU WILL BE MOVED TO THE NEXT DIVISION. 

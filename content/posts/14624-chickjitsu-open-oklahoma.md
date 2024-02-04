@@ -1,17 +1,20 @@
 ---
-title: CHICKJITSU OPEN: Oklahoma
+title: CHICKJITSU OPEN- Oklahoma
 date: 2024-02-24
 tags:
     - Feb
     - gi 
     - nogi 
-description: ChickJitsu: GIRLS ONLY!!!
+description: ChickJitsu GIRLS ONLY!!!
 Doors open 9am
-Brackets begin 10:30am
+Brackets begin 1030am
 $115 per bracket/$145 for TWO ||
 Superfights must be approved before payment
 price: $115
-location: lawton
+location: |
+  lawton
+  
+  United States
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/14624
@@ -20,7 +23,7 @@ https://smoothcomp.com/en/event/14624
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12345.6789!2d-98.3955631!3d34.6015034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z34.6015034!5e0!3m2!1sen!2sus!4v1234567890" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ## Description
-DIVISIONS: (Gi and No Gi)
+DIVISIONS- (Gi and No Gi)
 
 
 Little Ninjas 4-6 yrs old
@@ -41,7 +44,7 @@ Women 18 & up yrs old
 Absolute $$300+++
 
 
-SKILL DIVISION:
+SKILL DIVISION-
 
 
 Novice (less than 6 months)
@@ -56,7 +59,7 @@ Intermediate (1 -3 years)
 Advanced (4+ years)
 
 
-TIME LIMIT:
+TIME LIMIT-
 
 
 Kids- 3min
@@ -74,7 +77,7 @@ Advanced Adult- 6min
 Absolute - 5min
 
 
-POINTS:
+POINTS-
 
 
 Takedowns - 2 points
@@ -101,7 +104,7 @@ points are awarded. ie. Person has to stay down for two seconds for 2 takedown
 points can be awarded.
 
 
-RULES:
+RULES-
 
 
 •Competitors must wear t-shirt or Rashguard
@@ -157,7 +160,7 @@ disengagement a disadvantage will be called. If still no one scores, the
 referee will decide the winner based on sub attempts or takedown/pass attempts.
 
 
-SPECIAL RULES FOR EACH DIVISION:
+SPECIAL RULES FOR EACH DIVISION-
 
 
 •Kids and Teens(15 & under)- No Slamming. No Leg Locks, knee reaping, neck cranks, bicep slicers, or wrist locks.
@@ -175,7 +178,7 @@ SPECIAL RULES FOR EACH DIVISION:
 •Adult Absolute - Slamming is only allowed to get out of a submission(you cannot slam in the closed guard). All submissions are legal.
 
 
-Note:
+Note-
 
 
  It’s Chickjitsu’s policy to keep brackets hidden until the day before the tournament. If we are short competitors in your bracket We will Contact you personally and give you the option to Change divisions or refund.

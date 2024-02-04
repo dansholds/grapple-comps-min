@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: SATURDAY, August 3, 2024
 price: $110
-location: Wildwood,
+location: |
+  Wildwood
 ---
 ## Sign Up
 https://naga.smoothcomp.com/en/event/15280
@@ -43,4 +44,4 @@ Each year NAGA runs over 75 tournament a year across the world. We are always lo
 REGISTER NOW - $10 OFF COUPON
 
 
-  NAGA is offering $10 off to all competitors who register by midnight on July 3, 2024. At checkout, enter BATTLE2024 in the coupon code field, and $10 will be discounted from your overall fee. Please Note: Only one coupon code can be used at checkout per competitor per tournament.
+  NAGA is offering $10 off to all competitors who register by midnight on July 3, 2024. At checkout, enter BATTLE2024 in the coupon code field, and $10 will be discounted from your overall fee. Please Note- Only one coupon code can be used at checkout per competitor per tournament.

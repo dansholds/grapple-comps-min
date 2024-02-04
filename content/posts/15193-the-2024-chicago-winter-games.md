@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: THE 2024 CHICAGO WINTER GAMES
 price: $65
-location: Oak
+location: |
+  Oak Lawn
 ---
 ## Sign Up
 https://grappling-games.smoothcomp.com/en/event/15193
@@ -16,7 +17,7 @@ https://grappling-games.smoothcomp.com/en/event/15193
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12345.6789!2d-87.7867858!3d41.7213668!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z41.7213668!5e0!3m2!1sen!2sus!4v1234567890" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ## Description
-VENUE NOTES:
+VENUE NOTES-
 
 
 
@@ -27,26 +28,26 @@ There is limited seating at the venue. We encourage competitors and spectators t
 Please visit www.grapplinggames.org/gg126 for the list preliminary divisions (posted Thursday 02/15 by 8pm).
 
 
-SATURDAY WEIGH-IN SCHEDULE:​
+SATURDAY WEIGH-IN SCHEDULE-​
 
 
 
-Kids and Teens competing in No-Gi: 8:00am - 8:45am​
-
-
-
-
-Kids and Teens only competing in Gi: 9:00am - 9:45am​
+Kids and Teens competing in No-Gi- 8-00am - 8-45am​
 
 
 
 
-Adults/Masters/Seniors competing in Gi: 10:00am - 11:00am​
+Kids and Teens only competing in Gi- 9-00am - 9-45am​
 
 
 
 
-Adults/Masters/Seniors only competing in No-Gi:​ ​10:00am - 1:00pm
+Adults/Masters/Seniors competing in Gi- 10-00am - 11-00am​
+
+
+
+
+Adults/Masters/Seniors only competing in No-Gi-​ ​10-00am - 1-00pm
 
 
 
@@ -56,7 +57,7 @@ If you are competing in multiple divisions (gi and no-gi), you only need to weig
 Please visit www.grapplinggames.org/gg126 for the full weigh in schedule.
 
 
-HOW TO WEIGH-IN:
+HOW TO WEIGH-IN-
 
 
 ​To discourage unhealthy and potentially dangerous weight-cuts and diets, we do not hold weigh-ins on the night before our tournaments. We recommend our athletes compete in a weight division that falls under their normal everyday weight.
@@ -80,7 +81,7 @@ Please make sure you are at the weight you registered for, as there will be no r
 Competitors 13-years old and above may not change weight divisions on the day of the tournament as brackets will already be finalized and posted. If you know you need to change your weight division after you have registered, please contact us before 6PM on the Friday before the tournament to change divisions.
 
 
-TOURNAMENT RULES:
+TOURNAMENT RULES-
 
 
-Please review the rules and feel free to contact us if you have any questions: Grappling Games Rules
+Please review the rules and feel free to contact us if you have any questions- Grappling Games Rules

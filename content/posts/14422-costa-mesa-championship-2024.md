@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Battleground presents the Costa Mesa Championship
 price: $100
-location: United
+location: |
+  United States
 ---
 ## Sign Up
 https://battleground.smoothcomp.com/en/event/14422
@@ -31,7 +32,7 @@ IBJJF rules and points. Kid, Juvenile, Adult, and Masters division for Gi and No
 Kids and Juvenile divisions begin at 9am. Gi at 9am No gi at 12pm
 
 
-Adult and Masters begin at 1:30pm. Gi at 1:30pm No gi at 2:15pm
+Adult and Masters begin at 1-30pm. Gi at 1-30pm No gi at 2-15pm
 
 
 Doors Open at 7am for Weigh ins.  Weighs ins are done without the gi. Kids must be weighed in by 9am / Adults by 1

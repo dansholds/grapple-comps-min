@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Benfield Sportscenter - 1031 Benfield Blvd, Millersville, MD
 price: $150
-location: Millersville,
+location: |
+  Millersville
 ---
 ## Sign Up
 https://newbreedbjj.smoothcomp.com/en/event/15554

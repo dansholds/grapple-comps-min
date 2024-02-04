@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Battleground presents the Central Texas showdown 3 Saturday January 6
 price: $80
-location: United
+location: |
+  United States
 ---
 ## Sign Up
 https://battleground.smoothcomp.com/en/event/14369
@@ -28,16 +29,16 @@ Normal Registration $90/division  20% off for 2 divisions (deadline January 3)
 IBJJF rules and points. Kid, Juvenile, Adult, and Masters division for Gi and No GI 
 
 
-Doors open at 8:00am     Kids and Juvenile divisions begin at 9:30am. Gi first, followed by no gi
+Doors open at 8-00am     Kids and Juvenile divisions begin at 9-30am. Gi first, followed by no gi
 
 
 
 
 
-Adult and Masters begin at 2:45pm Gi first followed by no gi
+Adult and Masters begin at 2-45pm Gi first followed by no gi
 
 
-Doors Open at 8am for Weigh ins.  Weighs ins are done without the gi. Kids must be weighed in by 9:30am / Adults by 2:00pm
+Doors Open at 8am for Weigh ins.  Weighs ins are done without the gi. Kids must be weighed in by 9-30am / Adults by 2-00pm
 
 
 $10 spectator fee

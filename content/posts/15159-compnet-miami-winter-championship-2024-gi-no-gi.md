@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Welcome to the 2024 season of CompNet! Gracie Barra&#039;s competitors from around the globe will showcase their Jiu-Jitsu expertise and live unforgettable moments in over a hundred tournaments this season
 price: $99
-location: Miami,
+location: |
+  Miami
 ---
 ## Sign Up
 https://compnet.smoothcomp.com/en/event/15159
@@ -25,13 +26,13 @@ Hello, GB Competitor! It's CompNet [Region] [Season] time! Competing requires co
 Interested in collaborating with us and contributing to developing a fantastic tournament experience for participants, coaches, and families? Click here to submit your tournament staff application.
 
 
-Date: Saturday, Mach, 2nd, 2024
+Date- Saturday, Mach, 2nd, 2024
 
 
-The gates open at 7:30 am, and the tournament begins at 9:00 am. A detailed event schedule will be released a few days prior to the tournament.
+The gates open at 7-30 am, and the tournament begins at 9-00 am. A detailed event schedule will be released a few days prior to the tournament.
 
 
-Venue: Shelton Academy, Doral, FL.
+Venue- Shelton Academy, Doral, FL.
 
 
 9455 NW 40th Street Rd, Doral, FL 33178
@@ -50,14 +51,14 @@ Regular Registration $99.00 (USD) until SUNDAY, FEBRUARY, 11TH, 2024.
 Late Registration $109.00 (USD) until SUNDAY, FEBRUARY, 25TH, 2024.
 
 
-Spectator Fee: $10.00 (USD) online until 2/25. $15 at the door on event day. Registrations for athletes under 16 years old include one complimentary spectator ticket.
+Spectator Fee- $10.00 (USD) online until 2/25. $15 at the door on event day. Registrations for athletes under 16 years old include one complimentary spectator ticket.
 
 
 
 IMPORTANT DATES
 
 
-Here are some important dates to help you prepare for competition:
+Here are some important dates to help you prepare for competition-
 
 
 
@@ -74,7 +75,7 @@ The tournament bracket and official schedule will be published at THURSDAY, FEBR
 More Information
 
 
-For more information about the event, click on the links below:
+For more information about the event, click on the links below-
 
 
 

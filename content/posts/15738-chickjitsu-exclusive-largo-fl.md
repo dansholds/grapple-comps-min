@@ -1,13 +1,19 @@
 ---
-title: Chickjitsu Exclusive
+title: Chickjitsu Exclusive- LARGO, FL
 date: 2024-07-20
 tags:
     - Jul
     - gi 
     - nogi 
-description: ChickJitsu Exclusive
+description: ChickJitsu Exclusive LARGO, FL
+Doors open 5pm
+Matches start at 6pm
+$300+ prize 130lb &amp; under Absolute
+$300+ prize 130lb &amp; over Absolute
+10 Superfights
 price: $75
-location: United
+location: |
+  United States
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/15738
@@ -16,7 +22,7 @@ https://smoothcomp.com/en/event/15738
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12345.6789!2d0.0000000!3d0.0000000!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z0.0000000!5e0!3m2!1sen!2sus!4v1234567890" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ## Description
-TIME LIMIT:
+TIME LIMIT-
 
 
 Superfights - 5min
@@ -25,7 +31,7 @@ Superfights - 5min
 Absolute - 5min
 
 
-POINTS:
+POINTS-
 
 
 Takedowns - 2 points
@@ -49,7 +55,7 @@ Mount - 4 points
 +Each position needs to be held for as many seconds as points are awarded. ie. Hooks and harness have to be established for 4 seconds before points are awarded. ie. Person has to stay down for two seconds for 2 takedown points can be awarded.
 
 
-RULES:
+RULES-
 
 
 •No throwing an opponent off the mat or spiking on the head.
@@ -88,7 +94,7 @@ Overtime rule
 In the event of a tie, the referee will call for a 2 minute overtime, first to score a point wins. Opponents start in a mutual standing collar tie up.  No sitting without contact. If after the overtime match starts, there is immediate disengagement, an advantage point will be given to the person who DID NOT disengage. If still no one scores, the referee will decide the winner based on sub attempts and/or takedown/pass attempts.
 
 
-SPECIAL RULES FOR EACH DIVISION:
+SPECIAL RULES FOR EACH DIVISION-
 
 
 •Kids and Teens(15 & under)- No Slamming. No Leg Locks, knee reaping, neck cranks (pull down on the head for triangle WILL BE ACCEPTABLE) , bicep slicers, or wrist locks.

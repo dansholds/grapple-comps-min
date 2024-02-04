@@ -20,9 +20,16 @@ def extract_smoothcomp_data(url):
         list_item_texts = soup.find_all(class_="sc-list-item-text")
         location = [item.text.strip() for item in list_item_texts]
 
-        # Extract Location
-        place = [item.split('\n\n', 1)[1].split()[0] for item in location if '\n\n' in item]
-        place = place[0]
+        # Revised Extraction Process for Location
+        place = []
+        for item in location:
+            if '\n\n' in item:
+                full_location = item.split('\n\n', 1)[1]
+                cleaned_location = full_location.split(',')[0].strip()
+                place.append(cleaned_location)
+        place = place[0] if place else None
+
+        formatted_place = "|\n" + "\n".join(["  " + line for line in place.splitlines()])
 
         # Extract the highest price in GBP, USD, or EUR
         text = " ".join(location)
@@ -45,9 +52,9 @@ def extract_smoothcomp_data(url):
             print(f"No price found for {url}. Skipping...")
             return None
 
-        # Extract Title
+        # Extract Title and remove colons
         title_element = soup.find('h2', class_='margin-xs-0 flex-grow-1')
-        title = title_element.get_text(strip=True) if title_element else "Placeholder Title"
+        title = title_element.get_text(strip=True).replace(':', '-') if title_element else "Placeholder Title"
         
         # Extract Date
         date_element = soup.find('strong', class_='info')
@@ -62,9 +69,9 @@ def extract_smoothcomp_data(url):
             print(f"Skipping URL {url} due to date parsing error: {e}")
             return None
 
-        # Extract Description
+        # Extract Description and remove colons
         info_margin_elements = soup.find_all(class_="information margin-bottom-xs-64")
-        body = [element.text.strip() for element in info_margin_elements]
+        body = [element.text.strip().replace(':', '-') for element in info_margin_elements]
         markdown = "\n\n".join(f"{item}" for item in body)
 
         # Extract Description using regex
@@ -75,8 +82,11 @@ def extract_smoothcomp_data(url):
         # Check if cleaned_text is not empty before accessing its elements
         if cleaned_text:
             description = cleaned_text[0].split('.')[0].strip()
+            description = description.replace(':', '')
+
         else:
             description = title
+            description = description.replace(':', '')
 
         # Find the Google Maps link
         google_maps_link = soup.find("a", href=lambda href: href and "maps.google.com" in href)
@@ -94,7 +104,7 @@ def extract_smoothcomp_data(url):
             'description': description,
             'price': price,
             'google': embed_link,
-            'location': place,
+            'location': formatted_place,
             'register': url,
             'body': markdown,
             'month': month,

@@ -7,7 +7,10 @@ tags:
     - nogi 
 description: Finishers Presents the Emerald City 170lbs Qualifier
 price: $60
-location: Bethlehem
+location: |
+  Bethlehem
+  
+  United States
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/15794

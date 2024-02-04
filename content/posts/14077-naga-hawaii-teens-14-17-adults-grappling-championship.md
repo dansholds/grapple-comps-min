@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: SUNDAY, April 21, 2023
 price: $110
-location: Honolulu,
+location: |
+  Honolulu
 ---
 ## Sign Up
 https://naga.smoothcomp.com/en/event/14077
@@ -31,16 +32,16 @@ If you are a children (13 & under) competitor, you will register on the Saturday
 REGISTER NOW - $10 OFF COUPON
 
 
-NAGA is offering $10 off to all competitors who register by midnight on March 20, 2024. At checkout, enter HAWAII2024 in the coupon code field, and $10 will be discounted from your overall fee. Please Note: Only one coupon code can be used at checkout per competitor per tournament. 
+NAGA is offering $10 off to all competitors who register by midnight on March 20, 2024. At checkout, enter HAWAII2024 in the coupon code field, and $10 will be discounted from your overall fee. Please Note- Only one coupon code can be used at checkout per competitor per tournament. 
 
 
 VENUE SPECIFIC RULES
 
 
-IMPORTANT CLEAR BAG POLICIES FOR RADFORD:
+IMPORTANT CLEAR BAG POLICIES FOR RADFORD-
 
 
-All NAGA Competitors, Coaches and Spectators:
+All NAGA Competitors, Coaches and Spectators-
 
 
 Radford High School is requiring that any and all items being brought into the gym be in a clear bag to show what is being transported into the gym.  The high school is NOT mandating any size or exact type of clear bag...could be a clear rubbish bag...as long as it is accessible to be able to see at the checkpoint.  If you are a competitor/coach or spectator flying in from another island and have luggage, the high school has offered to store your luggage in a secure closet until you need to leave the event.

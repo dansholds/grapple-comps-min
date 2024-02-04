@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: ORIGIINAL GRAPPLER NO GI SUB ONLY
 price: $35
-location: Riverside,
+location: |
+  Riverside
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/14840

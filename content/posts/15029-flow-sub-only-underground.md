@@ -1,13 +1,16 @@
 ---
-title: Flow Sub Only: Underground
+title: Flow Sub Only- Underground
 date: 2024-02-25
 tags:
     - Feb
     - gi 
     - nogi 
-description: Flow Sub Only: Underground
+description: Flow Sub Only- Underground
 price: $100
-location: Rockland
+location: |
+  Rockland
+  
+  United States
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/15029
@@ -19,7 +22,7 @@ https://smoothcomp.com/en/event/15029
 $1,000 CASH PRIZE - Max 16 competitors
 
 
-Winner will recieve:
+Winner will recieve-
 
 
 1. $1000 Cash Prize
@@ -31,16 +34,16 @@ Winner will recieve:
 3. Free entry into the Flow Sub Only 4
 
 
-Runner up will receive:
+Runner up will receive-
 
 
 Free entry into the Flow Sub Only 4
 
 
-WEIGHT CLASS: under 205lbs 
+WEIGHT CLASS- under 205lbs 
 
 
-Ruleset: EBI Rules - All submissions legal
+Ruleset- EBI Rules - All submissions legal
 
 
 6 minute regulation match, with FULL EBI Overtime
@@ -55,7 +58,7 @@ Underground Location - No Spectators!
 each competitor will be able to bring one coach/spectator to the event.
 
 
-LIVE STREAM:
+LIVE STREAM-
 
 
 We will be live streaming the event to the Flow Sub Only Facebook page
@@ -64,7 +67,7 @@ We will be live streaming the event to the Flow Sub Only Facebook page
 After the event will will have professionally recorded matches uploaded to our YouTube Channel.
 
 
-Misc Details:
+Misc Details-
 
 
 After entry, please send us a "fight photo" immediately to [email protected]

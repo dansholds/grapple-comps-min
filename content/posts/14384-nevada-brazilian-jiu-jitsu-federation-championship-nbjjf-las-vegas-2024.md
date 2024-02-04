@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: The Nevada Brazilian Jiu Jitsu Federation State Championship Tournament
 price: $99
-location: Las
+location: |
+  Las Vegas
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/14384
@@ -31,7 +32,7 @@ Children and Teens will compete first and then be followed by the Adult division
 All competitors are guaranteed at least two matches or a full refund if we can not find you appropriate matches.
 
 
-AWARDS:
+AWARDS-
 
 
 GOLD, SILVER & BRONZE MEDALS    
@@ -76,7 +77,7 @@ Cash, Credit (Visa, MasterCard, and Discover), Debit, Stripe, Cashapp are accept
 FAMILY DISCOUNT
 
 
-Nevada Brazilian Jiu Jitsu Federation Championship offers family discounts for immediate family members competing in the same event:
+Nevada Brazilian Jiu Jitsu Federation Championship offers family discounts for immediate family members competing in the same event-
 
 
 For 2 family members, the discount is $20
@@ -97,7 +98,7 @@ To receive a family discount coupon code email [email protected] or text our of
 CREDIT POLICY
 
 
-You can CANCEL and receive a full credit towards any future Nevada Brazilian Jiu Jitsu Federation Championship event for any reason. Competitors must cancel by 12:00 PM on Friday before the event by logging into your account and canceling your registration yourself. This credit is valid up to 1 year from the date you cancel. Refunds are not given.
+You can CANCEL and receive a full credit towards any future Nevada Brazilian Jiu Jitsu Federation Championship event for any reason. Competitors must cancel by 12-00 PM on Friday before the event by logging into your account and canceling your registration yourself. This credit is valid up to 1 year from the date you cancel. Refunds are not given.
 
 
 ASSISTANCE WITH REGISTRATION
@@ -229,10 +230,10 @@ MULTIPLE DIVISIONS FOR CHILDREN & TEENS
 Children and teen competitors who want to compete in an additional higher weight class or older age group division can do so for $20 per division. You can add one additional weight class or age group per division type (no-gi or gi) for a total of 4 divisions. Competitors CANNOT do multiple skill levels.
 
 
-As an example: a beginner 11 year old 85 pound competitor could add the 90-99.9 weight class OR the 12-13 year old category (not both). They cannot add the intermediate skill level. They can do this for no-gi, gi, or both. It is $20 for each division added. If they wanted to go up in weight for no-gi and up in age for gi (or vice-versa) we can accommodate that request.
+As an example- a beginner 11 year old 85 pound competitor could add the 90-99.9 weight class OR the 12-13 year old category (not both). They cannot add the intermediate skill level. They can do this for no-gi, gi, or both. It is $20 for each division added. If they wanted to go up in weight for no-gi and up in age for gi (or vice-versa) we can accommodate that request.
 
 
-If you would like to add an additional division (or two), text the office at (814) 221-0806 or email [email protected]. The following information is required in order to add the extra division(s): which tournament, the competitor’s name, up age or up weight, no-gi/gi/both, payment method (credit card, PayPal, Stripe), and the email address (only needed if you are texting in). Nevada Brazilian Jiu Jitsu Federation Championship will email you an invoice with a link to pay for the extra divisions. Once payment is made we will copy the competitor into the additional division(s).
+If you would like to add an additional division (or two), text the office at (814) 221-0806 or email [email protected]. The following information is required in order to add the extra division(s)- which tournament, the competitor’s name, up age or up weight, no-gi/gi/both, payment method (credit card, PayPal, Stripe), and the email address (only needed if you are texting in). Nevada Brazilian Jiu Jitsu Federation Championship will email you an invoice with a link to pay for the extra divisions. Once payment is made we will copy the competitor into the additional division(s).
 
 
 GET YOUR GRAPPLING GEAR AT THE EVENT

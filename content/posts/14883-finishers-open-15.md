@@ -7,7 +7,10 @@ tags:
     - nogi 
 description: The Finishers Open 15 is a single elimination submission only, tournament open to the public
 price: $85
-location: Fort
+location: |
+  Fort Lauderdale
+  
+  United States
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/14883
@@ -16,10 +19,10 @@ https://smoothcomp.com/en/event/14883
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12345.6789!2d-80.1534993!3d26.1922868!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z26.1922868!5e0!3m2!1sen!2sus!4v1234567890" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ## Description
-Event begins approx 9:15am
+Event begins approx 9-15am
 
 
-Location: 
+Location- 
 
 
 A&M Brazilian Jiu-Jitsu
@@ -64,7 +67,7 @@ Yellow Cards - Stalling
 1st Call - Warning
 
 
-2nd Call - :30 seconds off ride time 
+2nd Call - -30 seconds off ride time 
 
 
 3rd Call - DQ 

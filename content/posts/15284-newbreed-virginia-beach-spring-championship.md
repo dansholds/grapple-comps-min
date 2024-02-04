@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Virginia Beach Field House - 2020 Landstown Centre Way, Virginia Beach, VA
 price: $150
-location: Virginia
+location: |
+  Virginia Beach
 ---
 ## Sign Up
 https://newbreedbjj.smoothcomp.com/en/event/15284

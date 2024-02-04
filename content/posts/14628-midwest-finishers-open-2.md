@@ -7,7 +7,10 @@ tags:
     - nogi 
 description: The Midwest Finishers Submission Only Tournament was created to bring the excitement of sub-only jiu jitsu, featuring EBI rules, to the MIDWEST
 price: $85
-location: Lombard
+location: |
+  Lombard
+  
+  United States
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/14628
@@ -58,7 +61,7 @@ Weigh Ins
 Brackets and Start Times 
 
 
-Doors will open at 9:00 am and the event will begin at 10:30.
+Doors will open at 9-00 am and the event will begin at 10-30.
 
 
 Please show up at least 1.5 hours before your bracket start time. We expect the matches to move fast, and we do not have any breaks planned. 

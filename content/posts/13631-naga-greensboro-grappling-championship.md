@@ -7,7 +7,10 @@ tags:
     - nogi 
 description: SATURDAY, February 10, 2024
 price: $130
-location: Greensboro
+location: |
+  Greensboro
+  
+  United States
 ---
 ## Sign Up
 https://naga.smoothcomp.com/en/event/13631

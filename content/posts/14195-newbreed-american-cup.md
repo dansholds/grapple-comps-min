@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Greenville Convention Center - 1 Exposition Dr, Greenville, SC
 price: $65
-location: Greenville,
+location: |
+  Greenville
 ---
 ## Sign Up
 https://newbreedbjj.smoothcomp.com/en/event/14195

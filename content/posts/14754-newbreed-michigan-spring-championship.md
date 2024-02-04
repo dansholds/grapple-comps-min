@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Morey Courts - 5175 E Remus Rd, Mt Pleasant, MI
 price: $150
-location: Mt
+location: |
+  Mt Pleasant
 ---
 ## Sign Up
 https://newbreedbjj.smoothcomp.com/en/event/14754

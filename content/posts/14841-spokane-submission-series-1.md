@@ -7,7 +7,10 @@ tags:
     - nogi 
 description: Thank you for your interest in the Spokane Submission Series! After 10 successful tournaments as the Spokane Submission Challenge, we are excited to bring this new Tournament series to the Northwest Jiu Jitsu community! As a non-profit tournament we are excited to give back to competitors and bring events to the best venues around! We hope to see you this year as we look forward to giving away prizes and making it one of the best events you attend! See you on the mat!
 price: $75
-location: Spokane
+location: |
+  Spokane
+  
+  United States
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/14841
@@ -43,7 +46,7 @@ Youth (17& under divisions) 3 min (1 minute overtime) Gi & No-Gi
 Weigh ins
 
 
-All competitors will weigh-in the day of competition 45 min before competition begins. Competitors will be given a 30 minute window for weigh-ins (ex. 9am white belts will start weigh ins at 8:15am and continue until 8:45).
+All competitors will weigh-in the day of competition 45 min before competition begins. Competitors will be given a 30 minute window for weigh-ins (ex. 9am white belts will start weigh ins at 8-15am and continue until 8-45).
 
 
 Overtime
@@ -58,10 +61,10 @@ Submissions
 We aim to create a Safe, Fair, Practical and Exciting tournament for all competitors. Referees have competitor safety as the highest priority, officials will stop and call an end to any match where a competitor's safety is in question (i.e. kid's competitors with straight or compromising arm locks).
 
 
--Illegal Submissions will be as follows:
+-Illegal Submissions will be as follows-
 
 
-Kids: 
+Kids- 
 
 
 -Flying guard pulls and Submissions
@@ -100,7 +103,7 @@ Kids: 
 -Rib compression techniques
 
 
-Adults (All):
+Adults (All)-
 
 
 -Neck Cranks
@@ -121,7 +124,7 @@ Adults (All):
 -Bending fingers
 
 
-Illegal for White and Blue Belts:
+Illegal for White and Blue Belts-
 
 
 -Toe hold

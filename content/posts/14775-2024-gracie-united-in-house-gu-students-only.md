@@ -7,7 +7,10 @@ tags:
     - nogi 
 description: We are hosting our in house tournament for Gracie United /Team Jucao students only
 price: $50
-location: Geismer
+location: |
+  Geismer
+  
+  United States
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/14775
@@ -19,7 +22,7 @@ https://smoothcomp.com/en/event/14775
 March 16th at 9 am 
 
 
-Weight Classes : click here to check the weight classes
+Weight Classes - click here to check the weight classes
 
 
 Kids and Adults - Men and Women - Gi and No Gi

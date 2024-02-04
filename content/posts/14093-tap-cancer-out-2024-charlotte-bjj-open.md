@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Tap Cancer Out 2024 Charlotte BJJ Open
 price: $1000
-location: Charlotte,
+location: |
+  Charlotte
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/14093
@@ -19,16 +20,16 @@ https://smoothcomp.com/en/event/14093
 DO NOT REGISTER HERE! DO NOT REGISTER HERE! DO NOT REGISTER HERE!
 
 
-YOU CAN NOT REGISTER ON SMOOTHCOMP. YOU MAY ONLY REGISTER ON OUR WEBSITE - https://tapcancerout.org/tournaments/
+YOU CAN NOT REGISTER ON SMOOTHCOMP. YOU MAY ONLY REGISTER ON OUR WEBSITE - https-//tapcancerout.org/tournaments/
 
 
 (You can NOT register on Smoothcomp!!!!)
 
 
-Tap Cancer Out is a 501(c)(3) nonprofit charity organization founded in 2011 that unites the Brazilian Jiu-Jitsu community around a cause: ending cancer. We achieve this by hosting the most philanthropic BJJ tournaments in the world. All our proceeds are given to our beneficiary organizations, which has resulted in over $5,900,000 donated to our beneficiaries.
+Tap Cancer Out is a 501(c)(3) nonprofit charity organization founded in 2011 that unites the Brazilian Jiu-Jitsu community around a cause- ending cancer. We achieve this by hosting the most philanthropic BJJ tournaments in the world. All our proceeds are given to our beneficiary organizations, which has resulted in over $5,900,000 donated to our beneficiaries.
 
 
 If you’ve never heard of our tournaments, they are one-of-a-kind, to say the least. Instead of just paying to compete, tournament competitors can compete for FREE by fundraising on behalf of Tap Cancer Out and our beneficiaries. Plus, the more you fundraise, the more prizes you can earn from our generous sponsors. This is on top of taking part in an incredibly well-organized and positive event.
 
 
-YOU CAN NOT REGISTER ON SMOOTHCOMP. Please head to https://tapcancerout.org/tournaments to navigate to our tournament registration platform.
+YOU CAN NOT REGISTER ON SMOOTHCOMP. Please head to https-//tapcancerout.org/tournaments to navigate to our tournament registration platform.

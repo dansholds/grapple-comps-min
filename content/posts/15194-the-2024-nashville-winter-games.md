@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: THE 2024 NASHVILLE WINTER GAMES
 price: $65
-location: Nashvhille,
+location: |
+  Nashvhille
 ---
 ## Sign Up
 https://grappling-games.smoothcomp.com/en/event/15194
@@ -19,26 +20,26 @@ https://grappling-games.smoothcomp.com/en/event/15194
 Please visit www.grapplinggames.org/gg127 for the list preliminary divisions (posted Thursday 03/07 by 8pm).
 
 
-SATURDAY WEIGH-IN SCHEDULE:​
+SATURDAY WEIGH-IN SCHEDULE-​
 
 
 
-Kids and Teens competing in No-Gi: 8:00am - 8:45am​
-
-
-
-
-Kids and Teens only competing in Gi: 9:00am - 10:15am​
+Kids and Teens competing in No-Gi- 8-00am - 8-45am​
 
 
 
 
-Adults/Masters/Seniors competing in Gi: 10:00am - 12:45am​
+Kids and Teens only competing in Gi- 9-00am - 10-15am​
 
 
 
 
-Adults/Masters/Seniors only competing in No-Gi:​ ​10:00am - 2:45pm
+Adults/Masters/Seniors competing in Gi- 10-00am - 12-45am​
+
+
+
+
+Adults/Masters/Seniors only competing in No-Gi-​ ​10-00am - 2-45pm
 
 
 
@@ -48,7 +49,7 @@ If you are competing in multiple divisions (gi and no-gi), you only need to weig
 Please visit www.grapplinggames.org/gg127 for the full weigh in schedule.
 
 
-HOW TO WEIGH-IN:
+HOW TO WEIGH-IN-
 
 
 ​To discourage unhealthy and potentially dangerous weight-cuts and diets, we do not hold weigh-ins on the night before our tournaments. We recommend our athletes compete in a weight division that falls under their normal everyday weight.
@@ -72,7 +73,7 @@ Please make sure you are at the weight you registered for, as there will be no r
 Competitors 13-years old and above may not change weight divisions on the day of the tournament as brackets will already be finalized and posted. If you know you need to change your weight division after you have registered, please contact us before 6PM on the Friday before the tournament to change divisions.
 
 
-TOURNAMENT RULES:
+TOURNAMENT RULES-
 
 
-Please review the rules and feel free to contact us if you have any questions: Grappling Games Rules
+Please review the rules and feel free to contact us if you have any questions- Grappling Games Rules

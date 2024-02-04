@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Building Champions Cup 2024
 price: $100
-location: Cedar
+location: |
+  Cedar City
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/13919
@@ -28,7 +29,7 @@ FIRST EVER. DONATION BASED INVITATIONAL JIU JITSU TOURNAMENT IN SOUTHERN UTAH! 
 ALL LAW ENFORCEMENT OFFICERS (showing proof of ID) compete FREE of charge! 
 
 
-Law enforcement: Just pre register for the event, then send an email with attached proof of ID and we’ll approve your registration. 
+Law enforcement- Just pre register for the event, then send an email with attached proof of ID and we’ll approve your registration. 
 
 
 * Our email is [email protected]
@@ -43,16 +44,16 @@ WHITE TO BLACK BELTS – KIDS AND ADULTS
  Brazilian Jiu-Jitsu Gi Tournament
 
 
-Where: Iron Springs Elementary School
+Where- Iron Springs Elementary School
 
 
-Address: 235 N 4050 W, Cedar City, UT 84720
+Address- 235 N 4050 W, Cedar City, UT 84720
 
 
 To register for the event, you must create a SMOOTHCOMP account and a fighter profile for each person competing.
 
 
-**FIRST, REGISTER TO EVENT. AFTER CHOOSING YOUR DIVISION, YOU CAN CHOOSE OF ONE OF THREE DONATION OPTIONS TOWARDS OUR NONPROFIT ORGANIZATION: GOLD,SILVER OR BRONZE.***
+**FIRST, REGISTER TO EVENT. AFTER CHOOSING YOUR DIVISION, YOU CAN CHOOSE OF ONE OF THREE DONATION OPTIONS TOWARDS OUR NONPROFIT ORGANIZATION- GOLD,SILVER OR BRONZE.***
 
 
 Registration ends on February 27st at 3pm.
@@ -70,7 +71,7 @@ Suggested donation  $5.00
 2 MATCHES GUARANTEED - IBJJF RULES
 
 
-FIGHT TIME:
+FIGHT TIME-
 
 
 KIDS - 3 MINUTES / ADULTS - 5 MINUTES
@@ -85,16 +86,16 @@ Brazilian Jiu-Jitsu Gi 
 An athlete proven to be a black belt in judo, have experience in freestyle or Greco-Roman wrestling or to have fought MMA as a professional or amateur, shall not be allowed to enter any tournament as a white belt. In the USA, to have competed at a college level or higher. In other countries, to have competed in events of national scope.
 
 
-DIVISIONS:
+DIVISIONS-
 
 
-BOYS GI :
+BOYS GI -
 
 
 WHITE UNTIL GREY BLACK YELLOW WHITE AND OVER
 
 
-AGE & WEIGHT CLASSES:
+AGE & WEIGHT CLASSES-
 
 
 KIDS 4/5 years--> -45 lbs, +45 lbs
@@ -115,10 +116,10 @@ KIDS 12/13 years --> -88 lbs, -99 lbs, -120 lbs, +120 lbs
 KIDS 14/15 years --> -116 lbs, -130 lbs, +130 lbs
 
 
-GIRLS GI :
+GIRLS GI -
 
 
-AGE & WEIGHT CLASSES:
+AGE & WEIGHT CLASSES-
 
 
 KIDS 4/5 years -->  -45 lbs, +45 lbs
@@ -139,37 +140,37 @@ KIDS 12/13 years --> -88 lbs, -99 lbs, -120 lbs, +120 lbs
 KIDS 14/15 years --> -116 lbs, -130 lbs, +130 lbs
 
 
-JUVENILE MALE GI :
+JUVENILE MALE GI -
 
 
 WHITE BLUE
 
 
-AGE & WEIGHT CLASSES:
+AGE & WEIGHT CLASSES-
 
 
 JUV 16/17 YEARS --> -120 lbs, -140 lbs, -160 lbs, +160 lbs
 
 
-JUVENILE FEMALE GI BELTS:
+JUVENILE FEMALE GI BELTS-
 
 
 WHITE BLUE
 
 
-AGE & WEIGHT CLASSES:
+AGE & WEIGHT CLASSES-
 
 
 JUV 16/17 YEARS --> -120 lbs, -140 lbs, -160 lbs, +160 lbs
 
 
-FEMALE GI :
+FEMALE GI -
 
 
 WHITE TO BLACK
 
 
-AGE & WEIGHT CLASSES:
+AGE & WEIGHT CLASSES-
 
 
 ADULT (Under 30 yrs) -128 lbs, -146 lbs, -160 lbs, +160 lbs,  
@@ -178,13 +179,13 @@ ADULT (Under 30 yrs) -128 lbs, -146 lbs, -160 lbs, +160 lbs,  
 Master (Over 30 yrs.) -128 lbs, -146 lbs, -160 lbs, +160 lbs, 
 
 
-MALE GI :
+MALE GI -
 
 
 WHITE TO BLACK
 
 
-AGE & WEIGHT CLASSES:
+AGE & WEIGHT CLASSES-
 
 
 ADULT (UNDER 30 Yrs)  -140 lbs, -160 lbs, -180 lbs, -200 lbs, -220 lbs, +220 lbs,  
@@ -196,4 +197,4 @@ MASTER 1 (31 TO 39 Yrs)  -140 lbs, -160 lbs, -180 lbs, -200 lbs, -220 lbs, +220
 MASTER 2 (40 Yrs and OVER)  -140 lbs, -160 lbs, -180 lbs, -200 lbs, -220 lbs, +220 lbs,
 
 
- *For all athletes: Even though there is a suggested donation for each registration, if you cannot pay for it but still want to compete, pre register and send us an email with all of your information and we’ll manage each registration by a case by case basis so everyone that wants to compete but doesn’t have the means to will still have the opportunity to do so.
+ *For all athletes- Even though there is a suggested donation for each registration, if you cannot pay for it but still want to compete, pre register and send us an email with all of your information and we’ll manage each registration by a case by case basis so everyone that wants to compete but doesn’t have the means to will still have the opportunity to do so.

@@ -6,11 +6,12 @@ tags:
     - gi 
     - nogi 
 description: Florida Based Mixed Grappling Tournament
-Adult : Teens : Kids Divisions
+Adult  Teens  Kids Divisions
 GI (Hybrid ADCC rules)
 NoGI (Hybrid ADCC rules)
 price: $85
-location: Tampa,
+location: |
+  Tampa
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/14916
@@ -19,7 +20,7 @@ https://smoothcomp.com/en/event/14916
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12345.6789!2d-82.4072385!3d28.0598038!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z28.0598038!5e0!3m2!1sen!2sus!4v1234567890" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ## Description
-LOCATION: 
+LOCATION- 
 
 
 University of South Florida - Campus Recreation Center
@@ -28,7 +29,7 @@ University of South Florida - Campus Recreation Center
 12560 USF Bull Run Drive, Tampa, FL 33620
 
 
-Please Note : Rec Center is directly across the Champion's Choice Café which is directly, both behind the Yuengling Center.
+Please Note - Rec Center is directly across the Champion's Choice Café which is directly, both behind the Yuengling Center.
 
 
 Parking Lot 22A 
@@ -40,16 +41,16 @@ TOURNAMENT
 MARCH 9th 2024
 
 
-Doors open at 8:30am.
+Doors open at 8-30am.
 
 
-The rules meeting will be at 9:15am.
+The rules meeting will be at 9-15am.
 
 
 All require check-ins/weigh-ins 1hr prior to all matches.
 
 
-Matches start approximately at 9:30am.
+Matches start approximately at 9-30am.
 
 
 Competitors/Parents Please check your bracket times continuously as it may change due to updates.
@@ -81,13 +82,13 @@ REGISTRATION FEES
 All LEVELS - Adult ; Teens ; Kids
 
 
-Early Bird - $65 Dec 14th - Feb 2nd 2024 @ 11:59pm
+Early Bird - $65 Dec 14th - Feb 2nd 2024 @ 11-59pm
 
 
-Normal - $85  Feb 3rd - Feb 25 2024 @ 11:59pm
+Normal - $85  Feb 3rd - Feb 25 2024 @ 11-59pm
 
 
-Late - $100 DEADLINE March 7th 2024 @ 1:00am 
+Late - $100 DEADLINE March 7th 2024 @ 1-00am 
 
 
 $20 One (1) Extra Division
@@ -116,7 +117,7 @@ Coaches will be marked at check-in.
 FG provides 1 coach chair on each side of every score table. No one else is allowed inside the match area. Please refrain from talking to score keepers (allow them to stay focused on their duties.)
 
 
-ATHLETE REGISTRATION FEES:
+ATHLETE REGISTRATION FEES-
 
 
 Please register through smoothcomp, we accept all major credit cards.
@@ -146,7 +147,7 @@ If you're having technical issues registering, setting up accounts, or have any 
 For Instructions on changing or modifying weight classes & divisions…..
 
 
-https://support.smoothcomp.com/article/89-how-to-change-weightclass-or-cancel.
+https-//support.smoothcomp.com/article/89-how-to-change-weightclass-or-cancel.
 
 
 CREDIT POLICY - VOUCHER
@@ -155,10 +156,10 @@ CREDIT POLICY - VOUCHER
 We understand that things come up at the last minute, injuries happen, etc., that may cause you to miss an event for which you already registered. NO REFUNDS will be given at any time for any reason.
 
 
-You can receive a credit for a future event up until 1:00pm that Thursday before the event, log into your account and cancel your registration. Your credit is valid for up to 1 year from cancelation date. You do not need to contact us to receive or use your credit. Please complete in a timely manner, understand the nature of the business there will be a lot going on the two three days while registration deadlines approach.
+You can receive a credit for a future event up until 1-00pm that Thursday before the event, log into your account and cancel your registration. Your credit is valid for up to 1 year from cancelation date. You do not need to contact us to receive or use your credit. Please complete in a timely manner, understand the nature of the business there will be a lot going on the two three days while registration deadlines approach.
 
 
-For instructions on how to cancel a registration, please read https://support.smoothcomp.com/article/89-how-to-change-weightclass-or-cancel.
+For instructions on how to cancel a registration, please read https-//support.smoothcomp.com/article/89-how-to-change-weightclass-or-cancel.
 
 
 NO REFUNDS will be given at any time for any reason.

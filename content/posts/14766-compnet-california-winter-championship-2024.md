@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Welcome to the 2024 season of CompNet! Gracie Barra&#039;s competitors from around the globe will showcase their Jiu-Jitsu expertise and live unforgettable moments in over a hundred tournaments this season
 price: $119
-location: Orange,
+location: |
+  Orange
 ---
 ## Sign Up
 https://compnet.smoothcomp.com/en/event/14766
@@ -25,13 +26,13 @@ Hello, GB Competitor! It's CompNet California Winter time! Competing requires co
 Interested in collaborating with us and contributing to developing a fantastic tournament experience for participants, coaches, and families? Click here to submit your tournament staff application.
 
 
-Date: Sunday, February, 25th, 2024
+Date- Sunday, February, 25th, 2024
 
 
-The gates open at 7:30 am, and the tournament begins at 9:00 am. A detailed event schedule will be released a few days prior to the tournament.
+The gates open at 7-30 am, and the tournament begins at 9-00 am. A detailed event schedule will be released a few days prior to the tournament.
 
 
-Venue: SANTIAGO CANYON COLLEGE GYM
+Venue- SANTIAGO CANYON COLLEGE GYM
 
 
 1500 E Santiago Canyon Rd - Orange, CA
@@ -52,7 +53,7 @@ Late Registration $119.00 (USD) until Sunday, February, 18th, 2024.
 
 
 
-Spectator Fee: $10.00 (USD) when purchased online and $15.00 (USD) at the door. Registrations for athletes under 12 years old include one complimentary spectator ticket. 
+Spectator Fee- $10.00 (USD) when purchased online and $15.00 (USD) at the door. Registrations for athletes under 12 years old include one complimentary spectator ticket. 
 
 
 
@@ -64,7 +65,7 @@ Spectators tickets are free for kids six years old or younger. 
 IMPORTANT DATES
 
 
-Here are some important dates to help you prepare for competition:
+Here are some important dates to help you prepare for competition-
 
 
 
@@ -81,7 +82,7 @@ The tournament bracket and official schedule will be published on Thursday, Febr
 More Information
 
 
-For more information about the event, click on the links below:
+For more information about the event, click on the links below-
 
 
 

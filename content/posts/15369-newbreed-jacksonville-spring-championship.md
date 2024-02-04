@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: University of North Florida - Field House, Building 26 - 1 UNF Dr, Jacksonville, FL
 price: $65
-location: Jacksonville,
+location: |
+  Jacksonville
 ---
 ## Sign Up
 https://newbreedbjj.smoothcomp.com/en/event/15369

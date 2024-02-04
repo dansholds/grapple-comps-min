@@ -7,7 +7,10 @@ tags:
     - nogi 
 description: GRAPPLERS GRAND PRIX ROCKAWAY WINTER BJJ GI - NOGI - ABSOULTE
 price: $80
-location: Rockaway
+location: |
+  Rockaway
+  
+  United States
 ---
 ## Sign Up
 https://grapplersgrandprix.smoothcomp.com/en/event/14389
@@ -27,11 +30,11 @@ GRAPPLERS
 GRAND PRIX NEW JERSEY (HELP US CLOSE OUT THE YEAR STRONG)
 
 
-When:              Sunday, October 20, 2024 - Doors
-Open 8am Matches Start 9:30am Sharp
+When-              Sunday, October 20, 2024 - Doors
+Open 8am Matches Start 9-30am Sharp
 
 
-Where:            Pure MMA, 41 Pine St, Rockaway, NJ 07866
+Where-            Pure MMA, 41 Pine St, Rockaway, NJ 07866
 
 
 Grapplers
@@ -69,11 +72,11 @@ It's Discounted To $30 For No Gi Div
 
 
 More
-Info Here:
+Info Here-
 
 
-Rules:
-https://drive.google.com/file/d/152dNacvbkhNid_Swxng2vy7PP-_qT6PW/view
+Rules-
+https-//drive.google.com/file/d/152dNacvbkhNid_Swxng2vy7PP-_qT6PW/view
 
 
 Please
@@ -87,7 +90,7 @@ Gi
 
 Ø  The Gis will not be checked or measured
 before the tournament, but our referees have the right to ask a competitor to
-change his/her Gi if the referee feels it is inappropriate.  This situation can happen if: the Gi is
+change his/her Gi if the referee feels it is inappropriate.  This situation can happen if- the Gi is
 obviously too short or too long, there are too many patches on the Gi
 preventing the opponent from gripping it, the top and the pants are of
 different colors or the Gi shows visible tears, is wet or dirty, or emanates
@@ -209,7 +212,7 @@ tournament, including the round robin & the finals, will be 5 minutes.
 Scoring
 
 
-Ø  Matches follow traditional BJJ point scoring:
+Ø  Matches follow traditional BJJ point scoring-
 4 for the mount, 4 for the back, 3 for a guard pass, 2 for a takedown 2 for a
 sweep, 2 for knee on belly, and 2 for a solid submission attempt that was stopped
 out of bounds.
@@ -269,7 +272,7 @@ to complete all their matches as respect to their opponents.
 Ø  Because of the round robin format, teammates
 might end up being matched against one another. We put extra effort on such a
 situation not happening but depending on the number of competitors or teammates
-in a division, there might be no way to prevent it (Example: 5 competitors in a
+in a division, there might be no way to prevent it (Example- 5 competitors in a
 division but 2 of them are teammates). Although we encourage teammates to face
 each other, we also understand that some competitors might be adamant about not
 doing it. We will allow teammates not to face each other but we absolutely need
@@ -277,5 +280,5 @@ a winner and a loser because of the round robin rankings.
 
 
 Ø  In the case of tiebreakers, the following
-algorithm will be utilized in order: Most Wins > Most Submissions > Head
+algorithm will be utilized in order- Most Wins > Most Submissions > Head
 To Head Match > Most Points Scored.

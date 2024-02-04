@@ -5,9 +5,10 @@ tags:
     - Dec
     - gi 
     - nogi 
-description: PBJJF BALTIMORE FALL OPEN: DEC 14,2024
+description: PBJJF BALTIMORE FALL OPEN DEC 14,2024
 price: $99
-location: United
+location: |
+  United States
 ---
 ## Sign Up
 https://pbjjf.smoothcomp.com/en/event/13895
@@ -16,16 +17,16 @@ https://pbjjf.smoothcomp.com/en/event/13895
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12345.6789!2d-76.6412712!3d39.0457549!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z39.0457549!5e0!3m2!1sen!2sus!4v1234567890" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ## Description
-Location: 
+Location- 
 
 
-Doors open at 8:00amEvent starts at 9:00am
+Doors open at 8-00amEvent starts at 9-00am
 
 
-FORMAT: Professional Brazilian Jiu Jitsu Federation 
+FORMAT- Professional Brazilian Jiu Jitsu Federation 
 
 
-DOUBLE ELIMINATION FORMAT:
+DOUBLE ELIMINATION FORMAT-
 
 
 The basic concept of double elimination is similar to single elimination, in which there are rounds, and the winners advance in the brackets. The difference is that when the athlete loses a fight, he goes to another bracket which he will have the opportunity to keep competing for the 3rd place.
@@ -67,13 +68,13 @@ CREDITS
 -You need to contact the office by email before the registration deadline to receive or use your credit.
 
 
-IF YOU ARE INTERESTED IN BECOMING A STAFF MEMBER WITH PBJJF DURING THE EVENTS, PLEASE COMPLETE THE APPLICATION FORM. CLICK ON THE LINK BELOW:
+IF YOU ARE INTERESTED IN BECOMING A STAFF MEMBER WITH PBJJF DURING THE EVENTS, PLEASE COMPLETE THE APPLICATION FORM. CLICK ON THE LINK BELOW-
 
 
-https://forms.gle/mgaRYYD57HuDHJDh7
+https-//forms.gle/mgaRYYD57HuDHJDh7
 
 
-RULES:
+RULES-
 
 
 1. GI / UNIFORM
@@ -100,16 +101,16 @@ RULES:
 2.2 For Kids NoGi both genders must wear a shirt of elastic material (skin tight) long enough to cover the torso all the way to the waistband of the shorts, colored black, white, or black and white. 
 
 
-Note: For black belts a small red area will be tolerated, but must not decharacterize the athlete’s rank color.
+Note- For black belts a small red area will be tolerated, but must not decharacterize the athlete’s rank color.
 
 
-2.3 SHORTS FOR KIDS, MEN AND WOMEN: Board shorts colored black, white, black and white, without pockets or with the pockets stitched completely shut, without buttons, exposed drawstrings, zippers or any form of plastic or metal that could present a risk to the opponent, long enough to cover at least halfway down the thigh, and no longer than the knee.
+2.3 SHORTS FOR KIDS, MEN AND WOMEN- Board shorts colored black, white, black and white, without pockets or with the pockets stitched completely shut, without buttons, exposed drawstrings, zippers or any form of plastic or metal that could present a risk to the opponent, long enough to cover at least halfway down the thigh, and no longer than the knee.
 
 
 Also permitted are compression shorts or leggings under the shorts made of elastic material (skin tight) worn beneath the shorts, in the colors black, white, black and white.
 
 
-For more information about NoGi uniform check the following link:https://www.instagram.com/p/ClotKUoJAD4/?igshid=YmMyMTA2M2Y%3D
+For more information about NoGi uniform check the following link-https-//www.instagram.com/p/ClotKUoJAD4/?igshid=YmMyMTA2M2Y%3D
 
 
 Weigh in
@@ -356,10 +357,10 @@ Female (Adult, Master 1, Master 2, Master 3)
 TECHNICAL FOULS - ILLEGAL MOVES
 
 
-Ages / Ranks:
+Ages / Ranks-
 
 
-- 4 to 12 years old:
+- 4 to 12 years old-
 
 
 

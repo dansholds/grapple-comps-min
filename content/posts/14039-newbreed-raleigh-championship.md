@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: North Carolina State Fairgrounds, J
 price: $150
-location: Raleigh,
+location: |
+  Raleigh
 ---
 ## Sign Up
 https://newbreedbjj.smoothcomp.com/en/event/14039

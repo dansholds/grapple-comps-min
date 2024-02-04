@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Richmond Raceway - Old Dominion Building - 600 E Laburnum Ave, Richmond, VA
 price: $150
-location: Richmond,
+location: |
+  Richmond
 ---
 ## Sign Up
 https://newbreedbjj.smoothcomp.com/en/event/15524

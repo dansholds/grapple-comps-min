@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Nebraska Jiu-Jitsu Championship Spring Open
 price: $65
-location: Lincoln,
+location: |
+  Lincoln
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/15419
@@ -17,7 +18,7 @@ https://smoothcomp.com/en/event/15419
 
 ## Description
 NEBRASKA
-JIU-JITSU CHAMPIONSHIP SPRING OPEN, LINCOLN, NE, March 30th, 2024, 9:00 AM
+JIU-JITSU CHAMPIONSHIP SPRING OPEN, LINCOLN, NE, March 30th, 2024, 9-00 AM
 
 
 Lincoln Christian High School
@@ -27,31 +28,31 @@ Lincoln Christian High School
 St & Old Cheney Rd), Lincoln, NE 68516
 
 
-Doors open at 7:30 AM,
-Weigh-ins Start at 8:00 AM. Competitors must be weighed in 1 hour before their division is
-called. The tournament starts at 9:00 AM
+Doors open at 7-30 AM,
+Weigh-ins Start at 8-00 AM. Competitors must be weighed in 1 hour before their division is
+called. The tournament starts at 9-00 AM
 
 
-REGISTRATION DEADLINES:
+REGISTRATION DEADLINES-
 
 
-EARLY BIRD REGISTRATION: $65 FOR ONE OR TWO DIVISIONS. ENDS MARCH 2nd, 11:59 PMNORMAL
-REGISTRATION: $80 FOR ONE OR TWO DIVISIONS. ENDS MARCH 18th, 11:59 PM 
+EARLY BIRD REGISTRATION- $65 FOR ONE OR TWO DIVISIONS. ENDS MARCH 2nd, 11-59 PMNORMAL
+REGISTRATION- $80 FOR ONE OR TWO DIVISIONS. ENDS MARCH 18th, 11-59 PM 
 
 
-LATE REGISTRATION: $105 FOR ONE OR TWO DIVISIONS.
-ENDS MARCH 26th, 11:59 PM
+LATE REGISTRATION- $105 FOR ONE OR TWO DIVISIONS.
+ENDS MARCH 26th, 11-59 PM
 
 
-REFUND DEADLINE:
+REFUND DEADLINE-
 
 
 Cancel Registration with a full
-refund deadline: March 26th, 11:59 PM Cancellation after deadline will result
+refund deadline- March 26th, 11-59 PM Cancellation after deadline will result
 in an event credit to your SmoothComp account for any other future event. 
 
 
-Last Chance to Edit Registration: March 26th, 11:59 PM
+Last Chance to Edit Registration- March 26th, 11-59 PM
 
 
 THIS TOURNAMENT IS PRE-REGISTRATION
@@ -59,7 +60,7 @@ ONLY
 We do not take late registrations or registrations at the event
 
 
-LODGING: 
+LODGING- 
 
 
 -Fairfield Inn & Suites by Marriott
@@ -77,7 +78,7 @@ Park
 68516, 402-420-7800
 
 
-FOOD:
+FOOD-
 
 
 A concession stand will be open and
@@ -85,7 +86,7 @@ operated by the high school booster club onsite at the tournament.
 
 
 BRACKETS,
-SCHEDULE AND DIVISIONS: 
+SCHEDULE AND DIVISIONS- 
 
 
 This tournament will have brackets for
@@ -100,10 +101,10 @@ Tournament medals will be awarded for
 Team trophies will be awarded for Overall Team Champions, Adult Team Champions, Kids Team Champions.
 
 
-Cash prizes for: Fastest Submission $50, Men's No Gi Absolute Champion $100, Men's Gi Absolute Champion $100, Women's No Gi Absolute Champion $100, Women's Gi Absolute Champion $100
+Cash prizes for- Fastest Submission $50, Men's No Gi Absolute Champion $100, Men's Gi Absolute Champion $100, Women's No Gi Absolute Champion $100, Women's Gi Absolute Champion $100
 
 
-COMPETITOR LISTS:
+COMPETITOR LISTS-
 
 
 
@@ -113,11 +114,11 @@ correctly by checking your registration on the registration tab above.
 
 
 CHANGING
-DIVISIONS: 
+DIVISIONS- 
 
 
 All competitors, coaches, and parents
-will have until March 26th, 11:59 PM, prior to registration closing, to make any edits
+will have until March 26th, 11-59 PM, prior to registration closing, to make any edits
 to their registrations. You can make these changes by logging into your account
 and modifying your registration details. At this deadline, registrations become
 finalized, and there will be no further changes allowed. Competitors who find
@@ -127,11 +128,11 @@ full credit.
 
 
 BRACKET
-COMBINATIONS: 
+COMBINATIONS- 
 
 
 After the deadline to edit
-registration info on March 26th, 11:59 PM, competitors who do not have anyone in
+registration info on March 26th, 11-59 PM, competitors who do not have anyone in
 their division will be combined into another appropriate division. All athletes
 who remain alone in their divisions once brackets are finalized, and have no
 combinations available to them, they will receive a full coupon credit for
@@ -139,11 +140,11 @@ entry to any future Nebraska Jiu-Jitsu Championship event.
 
 
 REGISTRATION
-CANCELLATION POLICY: 
+CANCELLATION POLICY- 
 
 
 In the event you have to cancel your
-registration, a full event credit will be provided automatically via SmoothComp. The cancellation deadline is by March 26th, 11:59 PM. After the deadline to
+registration, a full event credit will be provided automatically via SmoothComp. The cancellation deadline is by March 26th, 11-59 PM. After the deadline to
 edit registration, all registrations are considered final with no event credit
 available. Credits are issued when you log into your account and cancel your
 event registration. Coupon codes are viewable in the “My Account” area of
@@ -153,7 +154,7 @@ credit if there are no other appropriate divisions available.
 
 
 BRACKETS AND
-SCHEDULE: 
+SCHEDULE- 
 
 
 Friday Afternoon before the tournament, March 29th, the event brackets and schedule will be released. You will be able to
@@ -172,18 +173,18 @@ during the competition. The schedule is tentative and may change based on the nu
 of athletes registered.
 
 
-COACH CHAIR and CROWD CONTROL:
+COACH CHAIR and CROWD CONTROL-
 We will have 1 chair on each side of
 every score table, 1 for each coach of the competitor on the mat. The only
 other people allowed within the barricades during the tournament are the
 competitors on the mat having their match and the competitors on deck.
 
 
-MEDIC ON HAND:
+MEDIC ON HAND-
 There will be a professionally trained medic on site.
 
 
-WEIGH-INS: 
+WEIGH-INS- 
 
 
 Weigh-ins begin at 8 AM the day of the
@@ -194,10 +195,10 @@ with your Gi. If an athlete cannot make weight, they will be moved up to the
 next available weight class, if there are no athletes in higher weight classes
 you will be disqualified. Athletes will be given a 3 lbs. weight allowance. We
 do this to ensure the integrity of the brackets. Registration may be edited by
-the athlete until March 26th, 11:59 PM.
+the athlete until March 26th, 11-59 PM.
 
 
-RULES: 
+RULES- 
 
 
 Nebraska Jiu-Jitsu Championship runs a
@@ -211,23 +212,23 @@ overtime. The tournament will use the rule
 set of the International Brazilian Jiu-Jitsu Federation (IBJJF), unless noted.
 
 
-MATCH LENGTH: 
+MATCH LENGTH- 
 
 
 Gi
 
 
-Age 4-9 regulation time: 3 min matches
+Age 4-9 regulation time- 3 min matches
 at all skill levels.
 
 
-Age 10-15 regulation time: 4 min matches all skill levels.
+Age 10-15 regulation time- 4 min matches all skill levels.
 
 
-Age 16-17 regulation time: 5 min matches all skill levels.
+Age 16-17 regulation time- 5 min matches all skill levels.
 
 
-Adult age 18-29 regulation time:
+Adult age 18-29 regulation time-
 
 
 05
@@ -251,7 +252,7 @@ minutes – Black
 
 
 Master
-age 30-39 regulation time:
+age 30-39 regulation time-
 
 
 05
@@ -263,7 +264,7 @@ minutes – Purple, Brown & Black
 
 
 Senior
-age 40 and above regulation time:
+age 40 and above regulation time-
 
 
 05
@@ -274,17 +275,17 @@ No
 Gi
 
 
-Age 4-9 regulation time: 3 min matches
+Age 4-9 regulation time- 3 min matches
 at all skill levels.
 
 
-Age 10-15 regulation time: 4 min matches all skill levels.
+Age 10-15 regulation time- 4 min matches all skill levels.
 
 
-Age 16-17 regulation time: 5 min matches all skill levels.
+Age 16-17 regulation time- 5 min matches all skill levels.
 
 
-Adult age 18-29 regulation time:
+Adult age 18-29 regulation time-
 
 
 05
@@ -300,7 +301,7 @@ minutes – Advanced
 
 
 Master
-age 30-39 regulation time:
+age 30-39 regulation time-
 
 
 05
@@ -312,7 +313,7 @@ minutes – Intermediate and Advanced
 
 
 Senior
-age 40 and above regulation time:
+age 40 and above regulation time-
 
 
 05
@@ -320,7 +321,7 @@ minutes – All skill levels.
 
 
 WAYS A MATCH CAN
-BE WON: 
+BE WON- 
 
 
 Win via Submission within regulation
@@ -338,7 +339,7 @@ beyond control that does not warrant any disqualifications, the opponent will
 have 5 mins to return to the match or they will have to forfeit the match.
 
 
-WARM UP MATS: 
+WARM UP MATS- 
 
 
 Warm up mats will be set up for

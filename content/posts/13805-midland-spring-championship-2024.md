@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Battleground presents the Midland Spring Championships Saturday April13
 price: $80
-location: Midland,
+location: |
+  Midland
 ---
 ## Sign Up
 https://battleground.smoothcomp.com/en/event/13805
@@ -28,13 +29,13 @@ Normal Registration $90/division 20% off for 2 divisions (deadline April 10)
 IBJJF rules and points. Kid, Juvenile, Adult, and Masters division for Gi and No GI 
 
 
-Kids and Juvenile divisions begin at 9:30am.
+Kids and Juvenile divisions begin at 9-30am.
 
 
 Adult and Masters begin at 1pm
 
 
-Doors Open at 8am for Weigh ins.  Weighs ins are done without the gi. Kids must be weighed in by 9:30am / Adults by 1
+Doors Open at 8am for Weigh ins.  Weighs ins are done without the gi. Kids must be weighed in by 9-30am / Adults by 1
 
 
 $10 spectator fee

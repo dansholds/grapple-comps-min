@@ -8,7 +8,8 @@ tags:
 description: We are pleased to welcome you to the CompNet Season 2024!
 Join thousands of Gracie Barra team members competing in local, regional, and national championships worldwide
 price: $109
-location: Phoenix,
+location: |
+  Phoenix
 ---
 ## Sign Up
 https://compnet.smoothcomp.com/en/event/15257
@@ -26,13 +27,13 @@ Join hundreds of Gracie Barra team members competing at the CompNet Phoenix Spri
 Would you like to work with us on this event? Click here to apply.
 
 
-Date: Saturday, March 30th, 2024 
+Date- Saturday, March 30th, 2024 
 
 
-The doors open at 8:00 am. The tournament begins at 9:00 am. 
+The doors open at 8-00 am. The tournament begins at 9-00 am. 
 
 
-Venue: ARIZONA ATHLETIC GROUNDS
+Venue- ARIZONA ATHLETIC GROUNDS
 
 
 6321 S Ellsworth Rd Fieldhouse C Mesa, AZ 85212
@@ -54,14 +55,14 @@ Late Registration $119.00 (USD) until March 24th, 2024
 30% discount on No-Gi when registering for both GI and No-GI
 
 
-STARTING 02/05/2024 TICKET SALES WILL BE UNDER ARIZONA ATHLETIC GROUNDS RESPONSIBILITY. Spectator Fee: $15.00 (+fees) online, $20.00 (+fees) at the door.
+STARTING 02/05/2024 TICKET SALES WILL BE UNDER ARIZONA ATHLETIC GROUNDS RESPONSIBILITY. Spectator Fee- $15.00 (+fees) online, $20.00 (+fees) at the door.
 
 
 
 IMPORTANT DATES
 
 
-To help your preparation for competition, please observe the important dates below:
+To help your preparation for competition, please observe the important dates below-
 
 
 
@@ -71,7 +72,7 @@ Registration closes Saturday, March 24th, 2024
 DIVISION CORRECTION DEADLINE Monday, March 25th,  2024
 
 
-Tournament bracket and official schedule published Thursday, March 28th, 2024 at 9:00 am AZ Time.
+Tournament bracket and official schedule published Thursday, March 28th, 2024 at 9-00 am AZ Time.
 
 
 
@@ -90,16 +91,16 @@ No submission, referee will stop the fight and the fight will resume  standing 
 - 2 matches guaranteed
 
 
-- bracket with 2 athletes: Best of three
+- bracket with 2 athletes- Best of three
 
 
-- bracket with 3 athletes: Round robin
+- bracket with 3 athletes- Round robin
 
 
-- bracket with 4 athletes: Single elimination with 3rd place match
+- bracket with 4 athletes- Single elimination with 3rd place match
 
 
-- bracket with 5 athletes or more: Single elimination with consolation fight for first round losers
+- bracket with 5 athletes or more- Single elimination with consolation fight for first round losers
 
 
 3) All other categories
@@ -108,24 +109,24 @@ No submission, referee will stop the fight and the fight will resume  standing 
  - single elimination with third place match
 
 
-- brackets with 3 athletes: IBJJF elimination
+- brackets with 3 athletes- IBJJF elimination
 
 
 SEMINARS, COURSES, AND RESOURCES
 
 
-To help with your preparation for competition, CompNet offers:
+To help with your preparation for competition, CompNet offers-
 
 
 
-CompNet: Design your 6-week training plan: available for all participants at institute.graciebarra.com to help athletes prepare for the competition.
+CompNet- Design your 6-week training plan- available for all participants at institute.graciebarra.com to help athletes prepare for the competition.
 
 
 
 More Information
 
 
-For more information about the event, click on the links below:
+For more information about the event, click on the links below-
 
 
 

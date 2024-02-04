@@ -7,7 +7,8 @@ tags:
     - nogi 
 description: Established in 2013, Proving Grounds is Washington State&#039;s longest running Submission Only BJJ/Nogi Grappling Tournament
 price: $70
-location: Bellevue,
+location: |
+  Bellevue
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/13713
@@ -19,19 +20,19 @@ https://smoothcomp.com/en/event/13713
 Registration 
 
 
-Early Registration ends at 11:59 pm on January 12, 2024
+Early Registration ends at 11-59 pm on January 12, 2024
 
 
-Final Registration closes at 11:59 pm on March 01, 2024
+Final Registration closes at 11-59 pm on March 01, 2024
 
 
 TAKE ADVANTAGE OF A SUPER DEALS AND GET MORE MATCHES BY REGISTERING FOR BOTH GI AND NO-GI AND BY COMPETING AS A FAMILY. 
 
 
-Youth/Kids: 2 DIVISIONS FOR 80.00 DURING EARLY REGISTRATION.
+Youth/Kids- 2 DIVISIONS FOR 80.00 DURING EARLY REGISTRATION.
 
 
-Adults: 2 DIVISIONS FOR 90.00 DURING EARLY REGISTRATION)
+Adults- 2 DIVISIONS FOR 90.00 DURING EARLY REGISTRATION)
 
 
 PRICE DISCOUNTED AT CHECKOUT.
@@ -50,19 +51,19 @@ Event Day Information (Times To Be Announced)
 
 
 To ensure you don’t miss your bracket,
-you are able to view the event's live progress at:
+you are able to view the event's live progress at-
 
 
-https://smoothcomp.com/en/event/13713/schedule 
+https-//smoothcomp.com/en/event/13713/schedule 
 
 
-PROVING GROUNDS XXIII EVENT TIMES FOR SATURDAY March 09, 2024:
+PROVING GROUNDS XXIII EVENT TIMES FOR SATURDAY March 09, 2024-
 
 
-7:30am – Doors open
+7-30am – Doors open
 
 
-8:30 AM - All Youth and All Junior White belt to Weigh-In area
+8-30 AM - All Youth and All Junior White belt to Weigh-In area
 
 
 TBD – All Youth and All Junior Grey, Yellow, Orange, Green, Blue to Weigh-In area
@@ -91,7 +92,7 @@ competition and a guaranteed good time.
 
 
 In an effort to stay true to our
-mission of offering the best possible tournament please note:
+mission of offering the best possible tournament please note-
 
 
 1. We will
@@ -111,7 +112,7 @@ Important message to the academies
 
 The academy of the registrants must
 be EXACTLY the same to add the academy points and to avoid a match between teammates
-in the 1st round of a bracket. For example: 'RSU' and 'Ring Sports United' will
+in the 1st round of a bracket. For example- 'RSU' and 'Ring Sports United' will
 NOT be considered as the same academy. You can change your academy by logging
-into your account. Also IMPORTANT: ONLY the 'Academy' field in the registration
+into your account. Also IMPORTANT- ONLY the 'Academy' field in the registration
 form will be taken into account for the Award for 'Most Dominant Academy'.

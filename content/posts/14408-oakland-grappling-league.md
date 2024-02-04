@@ -7,7 +7,10 @@ tags:
     - nogi 
 description: Oakland Grappling League is geared towards providing a fun competition experience for kids and families
 price: $65
-location: Emeryville
+location: |
+  Emeryville
+  
+  United States
 ---
 ## Sign Up
 https://smoothcomp.com/en/event/14408
