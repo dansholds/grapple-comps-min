@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Grappling Industries CINCINNATI
+description: |
+  Grappling Industries CINCINNATI
 price: $90
 location: |
   Cincinnati

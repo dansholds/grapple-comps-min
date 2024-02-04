@@ -5,7 +5,8 @@ tags:
     - Nov
     - gi 
     - nogi 
-description: PHILADELPHIA FALL INTERNATIONAL OPEN NOV 02, 2024
+description: |
+  PHILADELPHIA FALL INTERNATIONAL OPEN NOV 02, 2024
 price: $99
 location: |
   United States

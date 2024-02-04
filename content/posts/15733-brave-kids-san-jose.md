@@ -5,7 +5,8 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: Top Level Kids BJJ Tournaments!
+description: |
+  Top Level Kids BJJ Tournaments!
 price: $79
 location: |
   San Jose

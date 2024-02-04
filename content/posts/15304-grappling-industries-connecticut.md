@@ -5,7 +5,8 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: Grappling Industries CONNECTICUT
+description: |
+  Grappling Industries CONNECTICUT
 price: $90
 location: |
   Newtown

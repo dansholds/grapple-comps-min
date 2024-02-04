@@ -5,7 +5,8 @@ tags:
     - May
     - gi 
     - nogi 
-description: SATURDAY, May 11, 2024
+description: |
+  SATURDAY, May 11, 2024
 price: $110
 location: |
   Oak Lawn

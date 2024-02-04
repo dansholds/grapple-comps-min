@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: Southeastern Grappling Association returns to Asheville, NC on April 13th, 2024 for The Asheville Spring Open!
+description: |
+  Southeastern Grappling Association returns to Asheville, NC on April 13th, 2024 for The Asheville Spring Open!
 price: $85
 location: |
   Asheville

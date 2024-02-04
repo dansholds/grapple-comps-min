@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: University of North Florida - Field House, Building 26 - 1 UNF Dr, Jacksonville, FL
+description: |
+  University of North Florida - Field House, Building 26 - 1 UNF Dr, Jacksonville, FL
 price: $65
 location: |
   Jacksonville

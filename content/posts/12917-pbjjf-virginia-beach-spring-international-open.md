@@ -5,7 +5,8 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: VIRGINIA BEACH SPRING INTERNATIONAL OPEN JUNE 8, 2024
+description: |
+  VIRGINIA BEACH SPRING INTERNATIONAL OPEN JUNE 8, 2024
 price: $99
 location: |
   United States

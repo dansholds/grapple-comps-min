@@ -5,7 +5,8 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: SATURDAY, June 22, 2024
+description: |
+  SATURDAY, June 22, 2024
 price: $110
 location: |
   Tampa

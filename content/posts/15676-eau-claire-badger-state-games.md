@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: This tournament will be a sub only round robin tournament
+description: |
+  This tournament will be a sub only round robin tournament
 price: $60
 location: |
   Eau Claire

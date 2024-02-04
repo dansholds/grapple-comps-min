@@ -5,7 +5,8 @@ tags:
     - Aug
     - gi 
     - nogi 
-description: Grappling Industries DENVER
+description: |
+  Grappling Industries DENVER
 price: $90
 location: |
   Denver

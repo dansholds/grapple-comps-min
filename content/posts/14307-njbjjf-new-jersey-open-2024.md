@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: NJBJJF NEW JERSEY OPEN 2024
+description: |
+  NJBJJF NEW JERSEY OPEN 2024
 price: $75
 location: |
   Manalapan Township

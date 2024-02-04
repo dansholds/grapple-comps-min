@@ -5,7 +5,8 @@ tags:
     - Oct
     - gi 
     - nogi 
-description: GRAPPLERS GRAND PRIX ROCKAWAY WINTER BJJ GI - NOGI - ABSOULTE
+description: |
+  GRAPPLERS GRAND PRIX ROCKAWAY WINTER BJJ GI - NOGI - ABSOULTE
 price: $80
 location: |
   Rockaway

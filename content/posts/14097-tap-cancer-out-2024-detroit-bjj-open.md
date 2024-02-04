@@ -5,7 +5,8 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: Tap Cancer Out 2024 Detroit BJJ Open
+description: |
+  Tap Cancer Out 2024 Detroit BJJ Open
 price: $1000
 location: |
   Detroit

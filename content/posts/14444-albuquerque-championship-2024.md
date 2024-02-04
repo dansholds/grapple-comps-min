@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Battleground presents the Albuquerque Championship 2024
+description: |
+  Battleground presents the Albuquerque Championship 2024
 price: $80
 location: |
   Albuquerque

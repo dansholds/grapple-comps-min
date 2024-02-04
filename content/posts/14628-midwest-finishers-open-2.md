@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: The Midwest Finishers Submission Only Tournament was created to bring the excitement of sub-only jiu jitsu, featuring EBI rules, to the MIDWEST
+description: |
+  The Midwest Finishers Submission Only Tournament was created to bring the excitement of sub-only jiu jitsu, featuring EBI rules, to the MIDWEST
 price: $85
 location: |
   Lombard

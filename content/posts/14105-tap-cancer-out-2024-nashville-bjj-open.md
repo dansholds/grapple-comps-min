@@ -5,7 +5,8 @@ tags:
     - Oct
     - gi 
     - nogi 
-description: Tap Cancer Out 2024 Nashville BJJ Open
+description: |
+  Tap Cancer Out 2024 Nashville BJJ Open
 price: $1000
 location: |
   Nashville

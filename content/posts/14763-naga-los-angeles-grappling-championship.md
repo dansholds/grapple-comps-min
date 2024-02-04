@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: SUNDAY, March 17, 2024
+description: |
+  SUNDAY, March 17, 2024
 price: $110
 location: |
   Upland

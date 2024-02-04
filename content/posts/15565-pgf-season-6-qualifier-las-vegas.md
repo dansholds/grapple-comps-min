@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: PGF Season 6 Qualifier - LAS VEGAS
+description: |
+  PGF Season 6 Qualifier - LAS VEGAS
 price: $0
 location: |
   Henderson

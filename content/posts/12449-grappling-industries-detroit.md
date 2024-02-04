@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: Grappling Industries DETROIT
+description: |
+  Grappling Industries DETROIT
 price: $90
 location: |
   Detroit

@@ -5,7 +5,8 @@ tags:
     - Oct
     - gi 
     - nogi 
-description: YOUR FIRST TOURNAMENT
+description: |
+  YOUR FIRST TOURNAMENT
 price: $60
 location: |
   United States

@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Dream BJJ Kids Gi- March 2024
+description: |
+  Dream BJJ Kids Gi- March 2024
 price: $78
 location: |
   Fullerton

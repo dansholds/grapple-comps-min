@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Morey Courts - 5175 E Remus Rd, Mt Pleasant, MI
+description: |
+  Morey Courts - 5175 E Remus Rd, Mt Pleasant, MI
 price: $150
 location: |
   Mt Pleasant

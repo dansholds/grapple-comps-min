@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: Grappling Industries MINNESOTA
+description: |
+  Grappling Industries MINNESOTA
 price: $120
 location: |
   Minnetonka

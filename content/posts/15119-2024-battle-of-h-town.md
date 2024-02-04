@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: 2024 Battle of H-Town
+description: |
+  2024 Battle of H-Town
 price: $40
 location: |
   Houston

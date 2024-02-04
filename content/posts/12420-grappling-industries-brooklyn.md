@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: Grappling Industries BROOKLYN
+description: |
+  Grappling Industries BROOKLYN
 price: $120
 location: |
   Brooklyn

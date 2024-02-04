@@ -5,7 +5,8 @@ tags:
     - May
     - gi 
     - nogi 
-description: Grappling Industries PORTLAND
+description: |
+  Grappling Industries PORTLAND
 price: $90
 location: |
   Portland

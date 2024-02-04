@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Grappling X 3/2/2024 Jiu Jitsu World Championships Azusa, CA (Gi and No-Gi Jiu-Jitsu Divisions at this event)
+description: |
+  Grappling X 3/2/2024 Jiu Jitsu World Championships Azusa, CA (Gi and No-Gi Jiu-Jitsu Divisions at this event)
 price: $89
 location: |
   Azusa

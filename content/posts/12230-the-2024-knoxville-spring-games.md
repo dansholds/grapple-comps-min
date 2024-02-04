@@ -5,7 +5,8 @@ tags:
     - May
     - gi 
     - nogi 
-description: THE 2024 KNOXVILLE SPRING GAMES
+description: |
+  THE 2024 KNOXVILLE SPRING GAMES
 price: $60
 location: |
   Knoxville

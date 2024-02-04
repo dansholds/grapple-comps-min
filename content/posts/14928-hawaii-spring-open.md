@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: FUJI BJJ presents the Hawaii Spring Open
+description: |
+  FUJI BJJ presents the Hawaii Spring Open
 price: $100
 location: |
   Honolulu

@@ -5,7 +5,8 @@ tags:
     - May
     - gi 
     - nogi 
-description: Welcome to Combate BJJ Tournament!
+description: |
+  Welcome to Combate BJJ Tournament!
 price: $69
 location: |
   Boston

@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Building Champions Cup 2024
+description: |
+  Building Champions Cup 2024
 price: $100
 location: |
   Cedar City

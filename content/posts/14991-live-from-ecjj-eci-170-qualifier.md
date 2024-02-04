@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: Live From ECJJ - ECI 170 Qualifier
+description: |
+  Live From ECJJ - ECI 170 Qualifier
 price: $100
 location: |
   Syracuse

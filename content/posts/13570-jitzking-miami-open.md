@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: JitzKing Miami Open
+description: |
+  JitzKing Miami Open
 price: $120
 location: |
   Miami

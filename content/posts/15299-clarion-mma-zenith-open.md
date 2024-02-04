@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Short event introduction
+description: |
+  Short event introduction
 price: $25
 location: |
   CLARION

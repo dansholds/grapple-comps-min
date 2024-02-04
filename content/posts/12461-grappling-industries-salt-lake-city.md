@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: Grappling Industries SALT LAKE CITY
+description: |
+  Grappling Industries SALT LAKE CITY
 price: $90
 location: |
   Salt Lake City

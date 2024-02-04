@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: Grappling X 2/4/2024 Las Vegas Jiu Jitsu Championships Las Vegas NV (Gi and No-Gi Jiu-Jitsu Divisions at this event)
+description: |
+  Grappling X 2/4/2024 Las Vegas Jiu Jitsu Championships Las Vegas NV (Gi and No-Gi Jiu-Jitsu Divisions at this event)
 price: $79
 location: |
   Las Vegas

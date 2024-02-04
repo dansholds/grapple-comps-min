@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: THE 2024 CHICAGO WINTER GAMES
+description: |
+  THE 2024 CHICAGO WINTER GAMES
 price: $65
 location: |
   Oak Lawn

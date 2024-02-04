@@ -5,7 +5,8 @@ tags:
     - May
     - gi 
     - nogi 
-description: PBJJF NEW JERSEY SPRING INTERNATIONAL OPEN MAY 18, 2024
+description: |
+  PBJJF NEW JERSEY SPRING INTERNATIONAL OPEN MAY 18, 2024
 price: $99
 location: |
   Madison

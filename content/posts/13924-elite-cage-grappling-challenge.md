@@ -5,7 +5,8 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: ​$75 for Gi or No-Gi
+description: |
+  ​$75 for Gi or No-Gi
 price: $75
 location: |
   Nashville

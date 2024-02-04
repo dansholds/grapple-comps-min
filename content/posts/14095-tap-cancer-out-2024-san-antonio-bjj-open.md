@@ -5,7 +5,8 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: Tap Cancer Out 2024 San Antonio BJJ Open
+description: |
+  Tap Cancer Out 2024 San Antonio BJJ Open
 price: $1000
 location: |
   San Antonio

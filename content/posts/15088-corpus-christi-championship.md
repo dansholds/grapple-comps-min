@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: Battleground Presents Corpus Christ Championship Saturday Feb 10 at the American Bank Center
+description: |
+  Battleground Presents Corpus Christ Championship Saturday Feb 10 at the American Bank Center
 price: $90
 location: |
   Corpus Christi

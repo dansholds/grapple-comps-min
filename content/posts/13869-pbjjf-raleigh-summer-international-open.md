@@ -5,7 +5,8 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: PBJJF RALEIGH SUMMER INTERNATIONAL JUNE 29, 2024
+description: |
+  PBJJF RALEIGH SUMMER INTERNATIONAL JUNE 29, 2024
 price: $99
 location: |
   United States

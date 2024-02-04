@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: 2024 South Texas Nationals
+description: |
+  2024 South Texas Nationals
 price: $50
 location: |
   Edinburg

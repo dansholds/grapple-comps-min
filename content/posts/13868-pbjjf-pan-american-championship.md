@@ -5,7 +5,8 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: PAN AMERICAN JUNE 22, 2024
+description: |
+  PAN AMERICAN JUNE 22, 2024
 price: $99
 location: |
   Cooksville

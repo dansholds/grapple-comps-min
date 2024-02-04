@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: Mat Beast presents Mat Beast Open 6
+description: |
+  Mat Beast presents Mat Beast Open 6
 price: $40
 location: |
   United States

@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: SATURDAY, February 24, 2024
+description: |
+  SATURDAY, February 24, 2024
 price: $110
 location: |
   Denver

@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: Grappling Industries LAS VEGAS
+description: |
+  Grappling Industries LAS VEGAS
 price: $90
 location: |
   Las Vegas

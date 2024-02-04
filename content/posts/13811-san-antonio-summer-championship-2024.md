@@ -5,7 +5,8 @@ tags:
     - Aug
     - gi 
     - nogi 
-description: Battleground presents the San Antonio Summer Championship Saturday August 3
+description: |
+  Battleground presents the San Antonio Summer Championship Saturday August 3
 price: $80
 location: |
   United States

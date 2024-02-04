@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: PBJJF PITTSBURGH WINTER INTERNATIONAL OPEN FEB 10, 2024
+description: |
+  PBJJF PITTSBURGH WINTER INTERNATIONAL OPEN FEB 10, 2024
 price: $129
 location: |
   Monroeville

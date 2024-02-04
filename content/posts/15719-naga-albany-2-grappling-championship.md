@@ -5,7 +5,8 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: SATURDAY, June 1, 2024
+description: |
+  SATURDAY, June 1, 2024
 price: $130
 location: |
   Albany

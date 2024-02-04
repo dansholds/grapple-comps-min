@@ -5,7 +5,8 @@ tags:
     - Nov
     - gi 
     - nogi 
-description: Battleground presents the Houston Fall Championships Saturday November 9
+description: |
+  Battleground presents the Houston Fall Championships Saturday November 9
 price: $90
 location: |
   United States

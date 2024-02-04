@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: Tap Cancer Out 2024 Savannah BJJ Open
+description: |
+  Tap Cancer Out 2024 Savannah BJJ Open
 price: $1000
 location: |
   Hardeeville

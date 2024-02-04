@@ -5,7 +5,8 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: Grappling Industries LAKE CHARLES
+description: |
+  Grappling Industries LAKE CHARLES
 price: $90
 location: |
   Lake Charles

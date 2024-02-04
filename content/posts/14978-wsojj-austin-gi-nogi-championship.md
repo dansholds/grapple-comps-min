@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: CASH PRIZE, SUB-ONLY, JIU-JITSU TOURNAMENT FOR ALL AGES WEIGHTS AND BELT LEVELS
+description: |
+  CASH PRIZE, SUB-ONLY, JIU-JITSU TOURNAMENT FOR ALL AGES WEIGHTS AND BELT LEVELS
 price: $149
 location: |
   Austin

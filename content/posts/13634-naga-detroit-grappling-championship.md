@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: SATURDAY, March 2, 2024
+description: |
+  SATURDAY, March 2, 2024
 price: $110
 location: |
   Detroit

@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: Copa Maryland - 2024 is an all-ages Brazilian Jiu Jitsu tournament that also offers a cash-prize for its Advanced No Gi Absolute Division [Sat
+description: |
+  Copa Maryland - 2024 is an all-ages Brazilian Jiu Jitsu tournament that also offers a cash-prize for its Advanced No Gi Absolute Division [Sat
 price: $75
 location: |
   Dundalk

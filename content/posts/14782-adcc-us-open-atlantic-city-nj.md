@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: ADCC US Open - Atlantic City, NJ
+description: |
+  ADCC US Open - Atlantic City, NJ
 price: $125
 location: |
   Atlantic City

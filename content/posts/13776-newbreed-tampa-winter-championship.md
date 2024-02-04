@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: USF Recreation Center - East Gym - 12301 USF Genshaft Drive Tampa, FL
+description: |
+  USF Recreation Center - East Gym - 12301 USF Genshaft Drive Tampa, FL
 price: $50
 location: |
   Tampa

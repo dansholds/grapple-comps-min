@@ -5,7 +5,8 @@ tags:
     - Dec
     - gi 
     - nogi 
-description: PBJJF BALTIMORE FALL OPEN DEC 14,2024
+description: |
+  PBJJF BALTIMORE FALL OPEN DEC 14,2024
 price: $99
 location: |
   United States

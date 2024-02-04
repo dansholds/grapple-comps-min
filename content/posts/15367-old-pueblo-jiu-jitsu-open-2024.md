@@ -5,7 +5,8 @@ tags:
     - May
     - gi 
     - nogi 
-description: Old Pueblo Jiu-Jitsu Open 2024 - Officially Open!
+description: |
+  Old Pueblo Jiu-Jitsu Open 2024 - Officially Open!
 price: $82
 location: |
   Tucson

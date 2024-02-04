@@ -5,7 +5,8 @@ tags:
     - May
     - gi 
     - nogi 
-description: Grappling Industries CLEVELAND
+description: |
+  Grappling Industries CLEVELAND
 price: $90
 location: |
   Cleveland

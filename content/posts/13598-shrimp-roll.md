@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Are you ready to roll?! Join us on the mats for our 3rd Shrimp Roll on March 30, 2024 hosted by KD Events
+description: |
+  Are you ready to roll?! Join us on the mats for our 3rd Shrimp Roll on March 30, 2024 hosted by KD Events
 price: $45
 location: |
   Severna Park

@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: FUJI BJJ presents the Michigan State Championship
+description: |
+  FUJI BJJ presents the Michigan State Championship
 price: $85
 location: |
   Paw Paw

@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Hardeeville Recreation Center - 285 John Smith Road Hardeeville, SC
+description: |
+  Hardeeville Recreation Center - 285 John Smith Road Hardeeville, SC
 price: $65
 location: |
   Hardeeville

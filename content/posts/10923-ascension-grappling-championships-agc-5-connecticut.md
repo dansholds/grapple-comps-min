@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: A new and fresh approach to organized jiu jitsu competitions designed around the athlete and spectator experience by providing an organized, clean, timely, and entertaining event
+description: |
+  A new and fresh approach to organized jiu jitsu competitions designed around the athlete and spectator experience by providing an organized, clean, timely, and entertaining event
 price: $80
 location: |
   Stamford

@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: Winter Impact Bjj GI 2024
+description: |
+  Winter Impact Bjj GI 2024
 price: $99
 location: |
   Salt Lake City

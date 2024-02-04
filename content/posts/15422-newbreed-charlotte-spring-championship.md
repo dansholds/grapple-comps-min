@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: Cabarrus Events Center - 4751 NC-49, Concord, NC
+description: |
+  Cabarrus Events Center - 4751 NC-49, Concord, NC
 price: $150
 location: |
   Concord

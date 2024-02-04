@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: NYTEX Sports Centre - 8851 Ice House Dr, North Richland Hills, TX
+description: |
+  NYTEX Sports Centre - 8851 Ice House Dr, North Richland Hills, TX
 price: $150
 location: |
   Dallas

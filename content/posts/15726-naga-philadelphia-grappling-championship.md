@@ -5,7 +5,8 @@ tags:
     - Sep
     - gi 
     - nogi 
-description: SATURDAY, September 28, 2024
+description: |
+  SATURDAY, September 28, 2024
 price: $130
 location: |
   Hatfield

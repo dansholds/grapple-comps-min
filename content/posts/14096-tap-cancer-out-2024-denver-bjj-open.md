@@ -5,7 +5,8 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: Tap Cancer Out 2024 Denver BJJ Open
+description: |
+  Tap Cancer Out 2024 Denver BJJ Open
 price: $1000
 location: |
   Denver

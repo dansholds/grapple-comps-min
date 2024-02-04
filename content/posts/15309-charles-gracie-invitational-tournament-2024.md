@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: Charles Gracie Invitational Tournament 2024
+description: |
+  Charles Gracie Invitational Tournament 2024
 price: $95
 location: |
   Lathrop

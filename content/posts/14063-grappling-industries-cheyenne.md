@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Grappling Industries CHEYENNE
+description: |
+  Grappling Industries CHEYENNE
 price: $90
 location: |
   Cheyenne

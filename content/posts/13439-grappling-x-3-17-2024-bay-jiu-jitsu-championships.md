@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Grappling X 3/17/2024 Bay Jiu Jitsu Championships San Jose, CA (Gi and No-Gi Jiu-Jitsu Divisions at this event)
+description: |
+  Grappling X 3/17/2024 Bay Jiu Jitsu Championships San Jose, CA (Gi and No-Gi Jiu-Jitsu Divisions at this event)
 price: $79
 location: |
   San Jose

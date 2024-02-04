@@ -5,7 +5,8 @@ tags:
     - May
     - gi 
     - nogi 
-description: Tap Cancer Out 2024 Dallas Fort Worth BJJ Open
+description: |
+  Tap Cancer Out 2024 Dallas Fort Worth BJJ Open
 price: $1000
 location: |
   Fort Worth

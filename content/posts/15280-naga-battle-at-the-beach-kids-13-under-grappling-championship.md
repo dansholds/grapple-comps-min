@@ -5,7 +5,8 @@ tags:
     - Aug
     - gi 
     - nogi 
-description: SATURDAY, August 3, 2024
+description: |
+  SATURDAY, August 3, 2024
 price: $110
 location: |
   Wildwood

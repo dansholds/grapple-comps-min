@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: FUJI BJJ presents the Asheville Winter Championships
+description: |
+  FUJI BJJ presents the Asheville Winter Championships
 price: $115
 location: |
   Asheville

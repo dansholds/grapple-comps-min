@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Grappling Industries GRAND RAPIDS
+description: |
+  Grappling Industries GRAND RAPIDS
 price: $90
 location: |
   Grand Rapids

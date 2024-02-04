@@ -5,7 +5,12 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: ChickJitsu GIRLS ONLY!
+description: |
+  ChickJitsu GIRLS ONLY!!!
+  Doors open 9am
+  Brackets begin 1030am
+  $115 per bracket/$145 for TWO ||
+  Superfights must be approved before payment
 price: $115
 location: |
   ladson

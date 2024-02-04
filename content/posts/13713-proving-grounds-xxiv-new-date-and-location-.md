@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Established in 2013, Proving Grounds is Washington State&#039;s longest running Submission Only BJJ/Nogi Grappling Tournament
+description: |
+  Established in 2013, Proving Grounds is Washington State&#039;s longest running Submission Only BJJ/Nogi Grappling Tournament
 price: $70
 location: |
   Bellevue

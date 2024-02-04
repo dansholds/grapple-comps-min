@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: ORIGIINAL GRAPPLER NO GI SUB ONLY
+description: |
+  ORIGIINAL GRAPPLER NO GI SUB ONLY
 price: $35
 location: |
   Riverside

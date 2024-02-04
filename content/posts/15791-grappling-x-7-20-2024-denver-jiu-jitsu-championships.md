@@ -5,7 +5,8 @@ tags:
     - Jul
     - gi 
     - nogi 
-description: Grappling X 7/20/2024 Salt Lake Jiu Jitsu Championships Salt Lake City, UT (Gi and No-Gi Jiu-Jitsu Divisions at this event)
+description: |
+  Grappling X 7/20/2024 Salt Lake Jiu Jitsu Championships Salt Lake City, UT (Gi and No-Gi Jiu-Jitsu Divisions at this event)
 price: $69
 location: |
   Sheridan

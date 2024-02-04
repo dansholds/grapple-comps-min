@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: Grappling X 4/14/2024 Silver State Jiu Jitsu Championships Reno, Ca (Gi and No-Gi Jiu-Jitsu Divisions at this event)
+description: |
+  Grappling X 4/14/2024 Silver State Jiu Jitsu Championships Reno, Ca (Gi and No-Gi Jiu-Jitsu Divisions at this event)
 price: $69
 location: |
   Reno

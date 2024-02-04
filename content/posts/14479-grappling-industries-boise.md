@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Grappling Industries BOISE
+description: |
+  Grappling Industries BOISE
 price: $90
 location: |
   Boise

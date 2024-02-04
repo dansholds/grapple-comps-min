@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Samurai Showdown VI
+description: |
+  Samurai Showdown VI
 price: $60
 location: |
   Yucaipa

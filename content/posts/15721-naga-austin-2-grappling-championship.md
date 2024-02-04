@@ -5,7 +5,8 @@ tags:
     - Aug
     - gi 
     - nogi 
-description: SATURDAY, August 10, 2024
+description: |
+  SATURDAY, August 10, 2024
 price: $130
 location: |
   Austin

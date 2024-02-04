@@ -5,7 +5,8 @@ tags:
     - Oct
     - gi 
     - nogi 
-description: 100% OF YOUR DONATIONS GO TO HELPING LOCALS FIGHT CANCER!
+description: |
+  100% OF YOUR DONATIONS GO TO HELPING LOCALS FIGHT CANCER!
 price: $60
 location: |
   HOUMA

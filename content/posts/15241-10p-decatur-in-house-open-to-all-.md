@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: &quot;Join us for an exhilarating in-house Jiu-Jitsu tournament on Saturday, February 17th, 2024! This competition is specially designed for white and blue belt practitioners, offering a unique platform to showcase your skills and spirit
+description: |
+  &quot;Join us for an exhilarating in-house Jiu-Jitsu tournament on Saturday, February 17th, 2024! This competition is specially designed for white and blue belt practitioners, offering a unique platform to showcase your skills and spirit
 price: $35
 location: |
   Decatur

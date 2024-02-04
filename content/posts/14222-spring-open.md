@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: DOUBLE ELIMINATION TOURNAMENT
+description: |
+  DOUBLE ELIMINATION TOURNAMENT
 price: $99
 location: |
   Covina

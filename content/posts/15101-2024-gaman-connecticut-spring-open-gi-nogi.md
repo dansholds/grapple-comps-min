@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: Welcome to Gaman Brazilian Jiu-Jitsu Championship Organization, Gaman BJJ
+description: |
+  Welcome to Gaman Brazilian Jiu-Jitsu Championship Organization, Gaman BJJ
 price: $70
 location: |
   Newtown

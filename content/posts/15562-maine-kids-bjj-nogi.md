@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: NoGi BJJ Tournament For Kids
+description: |
+  NoGi BJJ Tournament For Kids
 price: $50
 location: |
   Farmingdale

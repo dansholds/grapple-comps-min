@@ -5,7 +5,8 @@ tags:
     - Sep
     - gi 
     - nogi 
-description: SATURDAY, September 14, 2024
+description: |
+  SATURDAY, September 14, 2024
 price: $110
 location: |
   Tempe

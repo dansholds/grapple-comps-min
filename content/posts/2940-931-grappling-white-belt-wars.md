@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: NoGi Jiu-Jitsu Invitational
+description: |
+  NoGi Jiu-Jitsu Invitational
 price: $25
 location: |
   Crossville

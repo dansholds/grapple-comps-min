@@ -5,7 +5,8 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: Future Stars of Sub Spectrum- Summer Open
+description: |
+  Future Stars of Sub Spectrum- Summer Open
 price: $99
 location: |
   Des Moines

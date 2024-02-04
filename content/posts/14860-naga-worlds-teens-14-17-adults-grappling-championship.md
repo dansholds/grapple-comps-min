@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: SUNDAY, April 28, 2024
+description: |
+  SUNDAY, April 28, 2024
 price: $110
 location: |
   Morristown

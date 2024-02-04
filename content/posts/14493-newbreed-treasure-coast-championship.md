@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Mid Florida Event Center - 9221 Southeast Event Center Place, Port St
+description: |
+  Mid Florida Event Center - 9221 Southeast Event Center Place, Port St
 price: $65
 location: |
   Port St. Lucie

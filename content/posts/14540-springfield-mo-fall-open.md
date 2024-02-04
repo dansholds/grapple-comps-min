@@ -5,7 +5,8 @@ tags:
     - Nov
     - gi 
     - nogi 
-description: FUJI BJJ presents the Springfield, MO Fall Open
+description: |
+  FUJI BJJ presents the Springfield, MO Fall Open
 price: $85
 location: |
   Springfield

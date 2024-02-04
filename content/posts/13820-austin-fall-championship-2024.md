@@ -5,7 +5,8 @@ tags:
     - Oct
     - gi 
     - nogi 
-description: Battleground presents the Austin Fall Championship Saturday October 12
+description: |
+  Battleground presents the Austin Fall Championship Saturday October 12
 price: $90
 location: |
   United States

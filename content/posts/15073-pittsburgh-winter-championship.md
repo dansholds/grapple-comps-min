@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: FUJI BJJ presents the Pittsburgh Winter Championship
+description: |
+  FUJI BJJ presents the Pittsburgh Winter Championship
 price: $100
 location: |
   Monroeville

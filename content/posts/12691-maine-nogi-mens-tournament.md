@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Maine BJJ Tournament- nogi white and blue belts
+description: |
+  Maine BJJ Tournament- nogi white and blue belts
 price: $70
 location: |
   Farmingdale

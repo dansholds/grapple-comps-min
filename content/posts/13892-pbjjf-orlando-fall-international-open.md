@@ -5,7 +5,8 @@ tags:
     - Oct
     - gi 
     - nogi 
-description: PBJJF ORLANDO FALL INTERNATIONAL OPEN OCT 12, 2024
+description: |
+  PBJJF ORLANDO FALL INTERNATIONAL OPEN OCT 12, 2024
 price: $99
 location: |
   United States

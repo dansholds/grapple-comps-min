@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Win your way into the Tampa Qualifier
+description: |
+  Win your way into the Tampa Qualifier
 price: $100
 location: |
   Palmetto

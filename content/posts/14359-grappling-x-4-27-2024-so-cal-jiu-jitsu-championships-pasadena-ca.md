@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: Grappling X 4/27/2024 So-Cal Jiu Jitsu Championships Pasadena, CA (Gi and No-Gi Jiu-Jitsu Divisions at this event)
+description: |
+  Grappling X 4/27/2024 So-Cal Jiu Jitsu Championships Pasadena, CA (Gi and No-Gi Jiu-Jitsu Divisions at this event)
 price: $69
 location: |
   Pasadena

@@ -5,7 +5,8 @@ tags:
     - Jul
     - gi 
     - nogi 
-description: Battleground presents the Houston Summer Championships Saturday July 20
+description: |
+  Battleground presents the Houston Summer Championships Saturday July 20
 price: $80
 location: |
   United States

@@ -5,8 +5,9 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: NFC Brew Jitsu #2 will take place on Sunday, April 28 at Monday Night Garage in west midtown along the Beltline!
-NFC Brew Jitsu #2 will feature a white belt gi tournament, a blue belt gi tournament, a purple belt gi tournament along with jiu jitsu super fights! The event will be open to men and women
+description: |
+  NFC Brew Jitsu #2 will take place on Sunday, April 28 at Monday Night Garage in west midtown along the Beltline!
+  NFC Brew Jitsu #2 will feature a white belt gi tournament, a blue belt gi tournament, a purple belt gi tournament along with jiu jitsu super fights! The event will be open to men and women
 price: $50
 location: |
   Atlanta

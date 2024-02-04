@@ -5,7 +5,8 @@ tags:
     - Sep
     - gi 
     - nogi 
-description: PBJJF COLUMBUS FALL OPEN SEPT 21, 2024
+description: |
+  PBJJF COLUMBUS FALL OPEN SEPT 21, 2024
 price: $99
 location: |
   United States

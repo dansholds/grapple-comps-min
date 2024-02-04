@@ -5,7 +5,8 @@ tags:
     - Sep
     - gi 
     - nogi 
-description: The Nevada Brazilian Jiu Jitsu Federation State Championship Tournament
+description: |
+  The Nevada Brazilian Jiu Jitsu Federation State Championship Tournament
 price: $99
 location: |
   Las Vegas

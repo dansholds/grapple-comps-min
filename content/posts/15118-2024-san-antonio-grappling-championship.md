@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: 2024 San Antonio Grappling Championship
+description: |
+  2024 San Antonio Grappling Championship
 price: $50
 location: |
   San Antonio

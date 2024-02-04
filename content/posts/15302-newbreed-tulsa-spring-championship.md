@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: Expo Square - 4145 E 21st St, Tulsa, OK
+description: |
+  Expo Square - 4145 E 21st St, Tulsa, OK
 price: $150
 location: |
   Tulsa

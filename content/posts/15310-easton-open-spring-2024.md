@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Welcome back to the Easton Open Brazilian Jiu Jitsu Tournament! It’s incredibly rewarding to see the growth of this event, and it&#039;s all thanks to your continued support and participation
+description: |
+  Welcome back to the Easton Open Brazilian Jiu Jitsu Tournament! It’s incredibly rewarding to see the growth of this event, and it&#039;s all thanks to your continued support and participation
 price: $55
 location: |
   Denver

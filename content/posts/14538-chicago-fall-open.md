@@ -5,7 +5,8 @@ tags:
     - Sep
     - gi 
     - nogi 
-description: FUJI BJJ presents the Chicago Fall Open
+description: |
+  FUJI BJJ presents the Chicago Fall Open
 price: $85
 location: |
   Barrington

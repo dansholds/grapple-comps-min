@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Greenville Convention Center - 1 Exposition Dr, Greenville, SC
+description: |
+  Greenville Convention Center - 1 Exposition Dr, Greenville, SC
 price: $65
 location: |
   Greenville

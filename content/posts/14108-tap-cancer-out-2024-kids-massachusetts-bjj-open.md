@@ -5,7 +5,8 @@ tags:
     - Nov
     - gi 
     - nogi 
-description: Tap Cancer Out 2024 KIDS Massachusetts BJJ Open
+description: |
+  Tap Cancer Out 2024 KIDS Massachusetts BJJ Open
 price: $1000
 location: |
   Danvers

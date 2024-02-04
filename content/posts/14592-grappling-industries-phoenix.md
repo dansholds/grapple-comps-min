@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Grappling Industries PHOENIX
+description: |
+  Grappling Industries PHOENIX
 price: $90
 location: |
   Phoenix

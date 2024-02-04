@@ -5,7 +5,8 @@ tags:
     - Aug
     - gi 
     - nogi 
-description: Battleground presents the Central Texas showdown 3 Saturday January 6
+description: |
+  Battleground presents the Central Texas showdown 3 Saturday January 6
 price: $80
 location: |
   United States

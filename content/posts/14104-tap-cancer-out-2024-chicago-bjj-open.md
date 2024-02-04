@@ -5,7 +5,8 @@ tags:
     - Oct
     - gi 
     - nogi 
-description: Tap Cancer Out 2024 Chicago BJJ Open
+description: |
+  Tap Cancer Out 2024 Chicago BJJ Open
 price: $1000
 location: |
   Chicago

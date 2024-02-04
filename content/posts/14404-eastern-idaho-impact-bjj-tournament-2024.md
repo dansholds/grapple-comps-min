@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: EASTERN IDAHO IMPACT BJJ TOURNAMENT – March 9st, 2024
+description: |
+  EASTERN IDAHO IMPACT BJJ TOURNAMENT – March 9st, 2024
 price: $77
 location: |
   United States

@@ -5,8 +5,9 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: We are pleased to welcome you to the CompNet Season 2024!
-Join thousands of Gracie Barra team members competing in local, regional, and national championships worldwide
+description: |
+  We are pleased to welcome you to the CompNet Season 2024!
+  Join thousands of Gracie Barra team members competing in local, regional, and national championships worldwide
 price: $105
 location: |
   Chicago

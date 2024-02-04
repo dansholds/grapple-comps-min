@@ -5,7 +5,8 @@ tags:
     - Jul
     - gi 
     - nogi 
-description: Grappling Industries BOSTON
+description: |
+  Grappling Industries BOSTON
 price: $90
 location: |
   Boston

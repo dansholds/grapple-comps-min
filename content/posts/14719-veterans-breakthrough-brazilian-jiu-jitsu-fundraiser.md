@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: 1st Annual Brazilian Jiu Jitsu Fundraiser event
+description: |
+  1st Annual Brazilian Jiu Jitsu Fundraiser event
 price: $50
 location: |
   Mesa

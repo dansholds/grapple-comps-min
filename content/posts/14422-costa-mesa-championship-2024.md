@@ -5,7 +5,8 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: Battleground presents the Costa Mesa Championship
+description: |
+  Battleground presents the Costa Mesa Championship
 price: $100
 location: |
   United States

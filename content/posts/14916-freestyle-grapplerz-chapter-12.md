@@ -5,10 +5,11 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Florida Based Mixed Grappling Tournament
-Adult  Teens  Kids Divisions
-GI (Hybrid ADCC rules)
-NoGI (Hybrid ADCC rules)
+description: |
+  Florida Based Mixed Grappling Tournament
+  Adult  Teens  Kids Divisions
+  GI (Hybrid ADCC rules)
+  NoGI (Hybrid ADCC rules)
 price: $85
 location: |
   Tampa

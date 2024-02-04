@@ -5,7 +5,8 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: Grappling Industries COLUMBUS
+description: |
+  Grappling Industries COLUMBUS
 price: $90
 location: |
   Columbus

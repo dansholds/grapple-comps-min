@@ -5,7 +5,8 @@ tags:
     - May
     - gi 
     - nogi 
-description: Battleground presents the Austin Spring Championship Saturday May 11
+description: |
+  Battleground presents the Austin Spring Championship Saturday May 11
 price: $80
 location: |
   Austin

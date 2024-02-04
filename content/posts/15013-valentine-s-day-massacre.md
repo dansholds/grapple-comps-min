@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: A fun, friendly, gi BJJ tournament for the first timer and experienced competitor alike!
+description: |
+  A fun, friendly, gi BJJ tournament for the first timer and experienced competitor alike!
 price: $70
 location: |
   United States

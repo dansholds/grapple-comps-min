@@ -5,7 +5,8 @@ tags:
     - May
     - gi 
     - nogi 
-description: FUJI BJJ presents the Springfield, IL Spring Open
+description: |
+  FUJI BJJ presents the Springfield, IL Spring Open
 price: $85
 location: |
   Springfield

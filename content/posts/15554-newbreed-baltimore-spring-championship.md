@@ -5,7 +5,8 @@ tags:
     - May
     - gi 
     - nogi 
-description: Benfield Sportscenter - 1031 Benfield Blvd, Millersville, MD
+description: |
+  Benfield Sportscenter - 1031 Benfield Blvd, Millersville, MD
 price: $150
 location: |
   Millersville

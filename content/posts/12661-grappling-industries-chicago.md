@@ -5,7 +5,8 @@ tags:
     - Jul
     - gi 
     - nogi 
-description: Grappling Industries CHICAGO
+description: |
+  Grappling Industries CHICAGO
 price: $90
 location: |
   Chicago

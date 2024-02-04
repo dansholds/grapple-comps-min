@@ -5,7 +5,8 @@ tags:
     - Sep
     - gi 
     - nogi 
-description: PBJJF NEW YORK SUMMER OPEN SEPT 7, 2024
+description: |
+  PBJJF NEW YORK SUMMER OPEN SEPT 7, 2024
 price: $99
 location: |
   United States

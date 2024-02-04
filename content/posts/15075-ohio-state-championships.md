@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: FUJI BJJ presents the Ohio State Championships
+description: |
+  FUJI BJJ presents the Ohio State Championships
 price: $85
 location: |
   Hamilton

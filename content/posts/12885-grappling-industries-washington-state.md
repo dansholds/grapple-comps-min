@@ -5,7 +5,8 @@ tags:
     - Aug
     - gi 
     - nogi 
-description: Grappling Industries WASHINGTON STATE
+description: |
+  Grappling Industries WASHINGTON STATE
 price: $90
 location: |
   Everett

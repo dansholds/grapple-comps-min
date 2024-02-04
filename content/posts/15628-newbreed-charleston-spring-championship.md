@@ -5,7 +5,8 @@ tags:
     - May
     - gi 
     - nogi 
-description: Charleston Area Convention Center - 5001 Coliseum Dr, North Charleston, SC
+description: |
+  Charleston Area Convention Center - 5001 Coliseum Dr, North Charleston, SC
 price: $65
 location: |
   Charleston

@@ -5,7 +5,8 @@ tags:
     - Aug
     - gi 
     - nogi 
-description: PBJJF ATLANTA SUMMER INTERNATIONAL OPEN AUG 17, 2024
+description: |
+  PBJJF ATLANTA SUMMER INTERNATIONAL OPEN AUG 17, 2024
 price: $99
 location: |
   United States

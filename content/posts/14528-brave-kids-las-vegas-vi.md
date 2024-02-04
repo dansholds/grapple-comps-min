@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Top Level Kids BJJ Tournaments!
+description: |
+  Top Level Kids BJJ Tournaments!
 price: $99
 location: |
   Henderson

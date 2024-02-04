@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Battleground presents the San Antonio Fall Championship Saturday October 7th
+description: |
+  Battleground presents the San Antonio Fall Championship Saturday October 7th
 price: $80
 location: |
   United States

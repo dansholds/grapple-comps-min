@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: TUCSON INTERNATIONAL OPEN VI
+description: |
+  TUCSON INTERNATIONAL OPEN VI
 price: $69
 location: |
   Tucson

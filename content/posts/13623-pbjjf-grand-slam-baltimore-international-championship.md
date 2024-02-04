@@ -5,7 +5,8 @@ tags:
     - May
     - gi 
     - nogi 
-description: PBJJF Grand Slam Baltimore International Championship May 11th, 2024
+description: |
+  PBJJF Grand Slam Baltimore International Championship May 11th, 2024
 price: $99
 location: |
   Laurel

@@ -83,10 +83,11 @@ def extract_smoothcomp_data(url):
         if cleaned_text:
             description = cleaned_text[0].split('.')[0].strip()
             description = description.replace(':', '')
-
+            formatted_description = "|\n" + "\n".join(["  " + line for line in description.splitlines()])
         else:
             description = title
             description = description.replace(':', '')
+            formatted_description = "|\n" + "\n".join(["  " + line for line in description.splitlines()])
 
         # Find the Google Maps link
         google_maps_link = soup.find("a", href=lambda href: href and "maps.google.com" in href)
@@ -101,7 +102,7 @@ def extract_smoothcomp_data(url):
         return {
             'title': title,
             'date': formatted_date,
-            'description': description,
+            'description': formatted_description,
             'price': price,
             'google': embed_link,
             'location': formatted_place,

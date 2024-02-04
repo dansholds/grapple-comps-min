@@ -5,7 +5,8 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: FUJI BJJ presents the Lexington Summer Championship
+description: |
+  FUJI BJJ presents the Lexington Summer Championship
 price: $85
 location: |
   Lexington

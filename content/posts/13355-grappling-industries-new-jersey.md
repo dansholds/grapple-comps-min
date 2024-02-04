@@ -5,7 +5,8 @@ tags:
     - Oct
     - gi 
     - nogi 
-description: Grappling Industries NEW JERSEY
+description: |
+  Grappling Industries NEW JERSEY
 price: $90
 location: |
   Rahway

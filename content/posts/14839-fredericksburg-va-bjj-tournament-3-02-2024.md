@@ -5,8 +5,9 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: NATIONAL GRAPPLING ASSOCIATION (FREDERICKSBURG, VA)
-Ensure all COACHES get FREE ENTRY and Coffee to survive the long day
+description: |
+  NATIONAL GRAPPLING ASSOCIATION (FREDERICKSBURG, VA)
+  Ensure all COACHES get FREE ENTRY and Coffee to survive the long day
 price: $65
 location: |
   Fredericksburg

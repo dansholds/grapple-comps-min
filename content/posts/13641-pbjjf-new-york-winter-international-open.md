@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: PBJJF NEW YORK WINTER INTERNATIONAL OPEN MAR 02, 2024
+description: |
+  PBJJF NEW YORK WINTER INTERNATIONAL OPEN MAR 02, 2024
 price: $109
 location: |
   Madison

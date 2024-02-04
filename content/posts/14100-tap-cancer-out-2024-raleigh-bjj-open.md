@@ -5,7 +5,8 @@ tags:
     - Sep
     - gi 
     - nogi 
-description: Tap Cancer Out 2024 Raleigh BJJ Open
+description: |
+  Tap Cancer Out 2024 Raleigh BJJ Open
 price: $1000
 location: |
   United States

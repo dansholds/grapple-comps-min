@@ -5,7 +5,8 @@ tags:
     - May
     - gi 
     - nogi 
-description: Grappling Industries SARATOGA SPRINGS
+description: |
+  Grappling Industries SARATOGA SPRINGS
 price: $90
 location: |
   Saratoga Springs

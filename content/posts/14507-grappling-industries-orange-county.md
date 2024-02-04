@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Grappling Industries ORANGE COUNTY
+description: |
+  Grappling Industries ORANGE COUNTY
 price: $90
 location: |
   Orange County

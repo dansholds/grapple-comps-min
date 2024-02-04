@@ -5,7 +5,8 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: New England&#039;s biggest and best Brazilian Jiu Jitsu Championship just for KIDS! With Gi, No-Gi &amp; 8 ABSOLUTE CHAMPIONSHIP Belt Divisions
+description: |
+  New England&#039;s biggest and best Brazilian Jiu Jitsu Championship just for KIDS! With Gi, No-Gi &amp; 8 ABSOLUTE CHAMPIONSHIP Belt Divisions
 price: $85
 location: |
   Rangeley

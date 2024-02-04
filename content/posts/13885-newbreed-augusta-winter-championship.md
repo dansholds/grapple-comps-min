@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: Columbia County Exhibition Center - 212 Partnership Dr, Grovetown, GA
+description: |
+  Columbia County Exhibition Center - 212 Partnership Dr, Grovetown, GA
 price: $150
 location: |
   Augusta

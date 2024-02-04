@@ -5,7 +5,8 @@ tags:
     - Jul
     - gi 
     - nogi 
-description: Grappling Industries HOUSTON
+description: |
+  Grappling Industries HOUSTON
 price: $90
 location: |
   Houston

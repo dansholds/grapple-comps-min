@@ -5,7 +5,8 @@ tags:
     - May
     - gi 
     - nogi 
-description: WNC Agricultural Center - Expo Building - 775 Boylston Hwy, Fletcher, NC
+description: |
+  WNC Agricultural Center - Expo Building - 775 Boylston Hwy, Fletcher, NC
 price: $150
 location: |
   Asheville

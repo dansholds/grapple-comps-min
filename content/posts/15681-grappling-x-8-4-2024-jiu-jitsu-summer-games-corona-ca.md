@@ -5,7 +5,8 @@ tags:
     - Aug
     - gi 
     - nogi 
-description: Grappling X 8/4/2024 Jiu Jitsu Summer Games Corona, CA (Gi and No-Gi Jiu-Jitsu Divisions at this event)
+description: |
+  Grappling X 8/4/2024 Jiu Jitsu Summer Games Corona, CA (Gi and No-Gi Jiu-Jitsu Divisions at this event)
 price: $69
 location: |
   corona

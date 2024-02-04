@@ -5,7 +5,8 @@ tags:
     - May
     - gi 
     - nogi 
-description: Richmond Raceway - Old Dominion Building - 600 E Laburnum Ave, Richmond, VA
+description: |
+  Richmond Raceway - Old Dominion Building - 600 E Laburnum Ave, Richmond, VA
 price: $150
 location: |
   Richmond

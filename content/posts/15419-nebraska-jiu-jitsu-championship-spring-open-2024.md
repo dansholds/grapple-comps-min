@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Nebraska Jiu-Jitsu Championship Spring Open
+description: |
+  Nebraska Jiu-Jitsu Championship Spring Open
 price: $65
 location: |
   Lincoln

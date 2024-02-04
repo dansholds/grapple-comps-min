@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Copa Virginia - 2024 is an all-ages Brazilian Jiu Jitsu tournament that also offers a cash-prize for its Advanced No Gi Absolute Division [Sat
+description: |
+  Copa Virginia - 2024 is an all-ages Brazilian Jiu Jitsu tournament that also offers a cash-prize for its Advanced No Gi Absolute Division [Sat
 price: $85
 location: |
   Annandale

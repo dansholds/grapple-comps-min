@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: Battleground presents the Houston Spring Championships Saturday April 20
+description: |
+  Battleground presents the Houston Spring Championships Saturday April 20
 price: $80
 location: |
   Houston

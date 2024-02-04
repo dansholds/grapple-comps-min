@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Thank you for your interest in the Spokane Submission Series! After 10 successful tournaments as the Spokane Submission Challenge, we are excited to bring this new Tournament series to the Northwest Jiu Jitsu community! As a non-profit tournament we are excited to give back to competitors and bring events to the best venues around! We hope to see you this year as we look forward to giving away prizes and making it one of the best events you attend! See you on the mat!
+description: |
+  Thank you for your interest in the Spokane Submission Series! After 10 successful tournaments as the Spokane Submission Challenge, we are excited to bring this new Tournament series to the Northwest Jiu Jitsu community! As a non-profit tournament we are excited to give back to competitors and bring events to the best venues around! We hope to see you this year as we look forward to giving away prizes and making it one of the best events you attend! See you on the mat!
 price: $75
 location: |
   Spokane

@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: Welcome to the 2024 season of CompNet! Gracie Barra&#039;s competitors from around the globe will showcase their Jiu-Jitsu expertise and live unforgettable moments in over a hundred tournaments this season
+description: |
+  Welcome to the 2024 season of CompNet! Gracie Barra&#039;s competitors from around the globe will showcase their Jiu-Jitsu expertise and live unforgettable moments in over a hundred tournaments this season
 price: $109
 location: |
   Albuquerque

@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: SATURDAY, February 10, 2024
+description: |
+  SATURDAY, February 10, 2024
 price: $130
 location: |
   Greensboro

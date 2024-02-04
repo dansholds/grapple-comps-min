@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: Greetings and welcome to the Florida State Brazilian Jiu-Jitsu Championship
+description: |
+  Greetings and welcome to the Florida State Brazilian Jiu-Jitsu Championship
 price: $109
 location: |
   Lakeland

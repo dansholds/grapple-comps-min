@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: One Tribe First Annual Kids and Teens Tournament
+description: |
+  One Tribe First Annual Kids and Teens Tournament
 price: $60
 location: |
   Madison

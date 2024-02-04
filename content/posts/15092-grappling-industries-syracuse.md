@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: Grappling Industries SYRACUSE
+description: |
+  Grappling Industries SYRACUSE
 price: $90
 location: |
   Syracuse

@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: FUJI BJJ presents the Philadelphia Winter Championship
+description: |
+  FUJI BJJ presents the Philadelphia Winter Championship
 price: $100
 location: |
   Downington

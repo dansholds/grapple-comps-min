@@ -5,7 +5,8 @@ tags:
     - Dec
     - gi 
     - nogi 
-description: This Brazilian Jiu-Jitsu competition will offer Kids, Juveniles, Adult (Male and Female), and Masters Divisions in the Gi for all belt levels
+description: |
+  This Brazilian Jiu-Jitsu competition will offer Kids, Juveniles, Adult (Male and Female), and Masters Divisions in the Gi for all belt levels
 price: $78
 location: |
   Mesa

@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: FUJI BJJ presents the Fort Worth Open
+description: |
+  FUJI BJJ presents the Fort Worth Open
 price: $85
 location: |
   Fort Worth

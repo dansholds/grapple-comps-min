@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: North Carolina State Fairgrounds, J
+description: |
+  North Carolina State Fairgrounds, J
 price: $150
 location: |
   Raleigh

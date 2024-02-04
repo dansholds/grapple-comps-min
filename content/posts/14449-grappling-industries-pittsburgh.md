@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: Grappling Industries PITTSBURGH
+description: |
+  Grappling Industries PITTSBURGH
 price: $90
 location: |
   Pittsburgh

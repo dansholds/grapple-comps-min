@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: Grappling Industries ALBUQUERQUE
+description: |
+  Grappling Industries ALBUQUERQUE
 price: $90
 location: |
   Albuquerque

@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: Copa Elite 3- is an invite-only super-fight format jiu jitsu event that includes an open (anyone can register) $2K Advanced No Gi Absolute Division [Saturday February 10th 2024; 7pm - 1030pm]
+description: |
+  Copa Elite 3- is an invite-only super-fight format jiu jitsu event that includes an open (anyone can register) $2K Advanced No Gi Absolute Division [Saturday February 10th 2024; 7pm - 1030pm]
 price: $275
 location: |
   Manassas

@@ -5,7 +5,8 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: A Brazilian Jiu Jitsu Gi &amp; No-Gi Tournament in the Pacific Northwest &amp; More
+description: |
+  A Brazilian Jiu Jitsu Gi &amp; No-Gi Tournament in the Pacific Northwest &amp; More
 price: $95
 location: |
   Salem

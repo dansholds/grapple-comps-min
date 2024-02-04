@@ -5,7 +5,8 @@ tags:
     - May
     - gi 
     - nogi 
-description: SATURDAY, May 04, 2024
+description: |
+  SATURDAY, May 04, 2024
 price: $110
 location: |
   Pittsburgh

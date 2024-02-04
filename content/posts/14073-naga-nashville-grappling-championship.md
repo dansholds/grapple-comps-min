@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: SATURDAY, April 6, 2024
+description: |
+  SATURDAY, April 6, 2024
 price: $110
 location: |
   Franklin

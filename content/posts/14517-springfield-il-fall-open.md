@@ -5,7 +5,8 @@ tags:
     - Sep
     - gi 
     - nogi 
-description: FUJI BJJ presents the Springfield, IL Fall Open
+description: |
+  FUJI BJJ presents the Springfield, IL Fall Open
 price: $100
 location: |
   Springfield

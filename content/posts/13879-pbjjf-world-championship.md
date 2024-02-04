@@ -5,7 +5,8 @@ tags:
     - Oct
     - gi 
     - nogi 
-description: PBJJF WORLD CHAMPIONSHIP October 26, 2024
+description: |
+  PBJJF WORLD CHAMPIONSHIP October 26, 2024
 price: $99
 location: |
   United States

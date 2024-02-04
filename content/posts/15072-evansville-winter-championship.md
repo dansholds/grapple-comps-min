@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: FUJI BJJ presents the Evansville Winter Championship
+description: |
+  FUJI BJJ presents the Evansville Winter Championship
 price: $100
 location: |
   Evansville

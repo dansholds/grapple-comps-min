@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: THE 2024 NASHVILLE WINTER GAMES
+description: |
+  THE 2024 NASHVILLE WINTER GAMES
 price: $65
 location: |
   Nashvhille

@@ -5,7 +5,8 @@ tags:
     - May
     - gi 
     - nogi 
-description: Grappling Industries RHODE ISLAND
+description: |
+  Grappling Industries RHODE ISLAND
 price: $90
 location: |
   -warwick ri

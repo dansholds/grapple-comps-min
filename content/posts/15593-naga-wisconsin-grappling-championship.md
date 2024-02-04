@@ -5,7 +5,8 @@ tags:
     - Jul
     - gi 
     - nogi 
-description: SATURDAY, July 13, 2024
+description: |
+  SATURDAY, July 13, 2024
 price: $110
 location: |
   Pleasant Prairie

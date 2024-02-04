@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: Grappling X 2/11/2024 Nor-Cal Jiu Jitsu Championships Sacramento, Ca (Gi and No-Gi Jiu-Jitsu Divisions at this event)
+description: |
+  Grappling X 2/11/2024 Nor-Cal Jiu Jitsu Championships Sacramento, Ca (Gi and No-Gi Jiu-Jitsu Divisions at this event)
 price: $89
 location: |
   Sacramento

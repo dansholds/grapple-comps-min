@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: FUJI BJJ presents the Connecticut Open
+description: |
+  FUJI BJJ presents the Connecticut Open
 price: $100
 location: |
   Middletown

@@ -5,7 +5,8 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: Grappling Industries DMV
+description: |
+  Grappling Industries DMV
 price: $90
 location: |
   Sterling

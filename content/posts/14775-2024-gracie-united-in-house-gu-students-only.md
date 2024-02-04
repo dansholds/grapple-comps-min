@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: We are hosting our in house tournament for Gracie United /Team Jucao students only
+description: |
+  We are hosting our in house tournament for Gracie United /Team Jucao students only
 price: $50
 location: |
   Geismer

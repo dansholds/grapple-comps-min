@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Premier Submission only grappling tournament for everyone
+description: |
+  Premier Submission only grappling tournament for everyone
 price: $79
 location: |
   St Joseph

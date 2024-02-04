@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Grappling Industries KNOXVILLE
+description: |
+  Grappling Industries KNOXVILLE
 price: $90
 location: |
   Knoxville

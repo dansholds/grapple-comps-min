@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: Pikes Peak Grappling presents the second annual Ground Shark Open at the SoccerHaus in Colorado Springs on April 6th, 2024
+description: |
+  Pikes Peak Grappling presents the second annual Ground Shark Open at the SoccerHaus in Colorado Springs on April 6th, 2024
 price: $100
 location: |
   Colorado Springs

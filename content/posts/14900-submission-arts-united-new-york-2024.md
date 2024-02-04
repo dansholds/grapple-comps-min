@@ -5,7 +5,8 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: Single Elimination (Adults), Double-Elimination (Kids) Brazilian Jiu-Jitsu Tournament
+description: |
+  Single Elimination (Adults), Double-Elimination (Kids) Brazilian Jiu-Jitsu Tournament
 price: $95
 location: |
   New York City

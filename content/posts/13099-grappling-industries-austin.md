@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: Grappling Industries AUSTIN
+description: |
+  Grappling Industries AUSTIN
 price: $90
 location: |
   Austin

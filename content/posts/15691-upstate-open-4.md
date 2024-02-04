@@ -5,8 +5,9 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: High Level Competition at the Lowest Cost Possible!
-Professional Photography, Matches Streamed to Youtube
+description: |
+  High Level Competition at the Lowest Cost Possible!
+  Professional Photography, Matches Streamed to Youtube
 price: $0
 location: |
   Latham

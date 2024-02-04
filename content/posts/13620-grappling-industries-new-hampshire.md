@@ -5,7 +5,8 @@ tags:
     - Sep
     - gi 
     - nogi 
-description: Grappling Industries NEW HAMPSHIRE
+description: |
+  Grappling Industries NEW HAMPSHIRE
 price: $90
 location: |
   Derry

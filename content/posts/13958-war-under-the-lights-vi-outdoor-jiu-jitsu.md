@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: Experience outdoor Jiu Jitsu!
+description: |
+  Experience outdoor Jiu Jitsu!
 price: $65
 location: |
   Tucson

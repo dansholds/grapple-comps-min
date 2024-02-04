@@ -5,7 +5,8 @@ tags:
     - Jul
     - gi 
     - nogi 
-description: Chickjitsu- Girls Who Wrestle
+description: |
+  Chickjitsu- Girls Who Wrestle
 price: $75
 location: |
   Tampa

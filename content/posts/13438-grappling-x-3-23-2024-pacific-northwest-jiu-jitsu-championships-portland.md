@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Grappling X 3/23/2024 Pacific Northwest Jiu Jitsu Championships Portland, OR (Gi and No-Gi Jiu-Jitsu Divisions at this event)
+description: |
+  Grappling X 3/23/2024 Pacific Northwest Jiu Jitsu Championships Portland, OR (Gi and No-Gi Jiu-Jitsu Divisions at this event)
 price: $69
 location: |
   Portland

@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: April 6TH, 2024
+description: |
+  April 6TH, 2024
 price: $60
 location: |
   Brookings

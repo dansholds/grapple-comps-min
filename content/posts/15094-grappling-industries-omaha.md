@@ -5,7 +5,8 @@ tags:
     - May
     - gi 
     - nogi 
-description: Grappling Industries OMAHA
+description: |
+  Grappling Industries OMAHA
 price: $90
 location: |
   Omaha

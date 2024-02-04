@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: FUJI BJJ presents the Wilmington Spring Championship
+description: |
+  FUJI BJJ presents the Wilmington Spring Championship
 price: $85
 location: |
   Wilmington

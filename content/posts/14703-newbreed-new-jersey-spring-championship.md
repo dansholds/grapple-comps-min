@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Rahway Recreation Center - 275 E Milton Ave, Rahway, NJ
+description: |
+  Rahway Recreation Center - 275 E Milton Ave, Rahway, NJ
 price: $150
 location: |
   Rahway

@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: Virginia Beach Field House - 2020 Landstown Centre Way, Virginia Beach, VA
+description: |
+  Virginia Beach Field House - 2020 Landstown Centre Way, Virginia Beach, VA
 price: $150
 location: |
   Virginia Beach

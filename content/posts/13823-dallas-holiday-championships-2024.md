@@ -5,7 +5,8 @@ tags:
     - Dec
     - gi 
     - nogi 
-description: Battleground presents the Dallas Holiday Championships Saturday December 14
+description: |
+  Battleground presents the Dallas Holiday Championships Saturday December 14
 price: $90
 location: |
   United States

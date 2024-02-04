@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: FUJI BJJ presents the Winston-Salem Spring Championship
+description: |
+  FUJI BJJ presents the Winston-Salem Spring Championship
 price: $85
 location: |
   Advance

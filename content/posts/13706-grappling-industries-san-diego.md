@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: Grappling Industries SAN DIEGO
+description: |
+  Grappling Industries SAN DIEGO
 price: $80
 location: |
   San Diego

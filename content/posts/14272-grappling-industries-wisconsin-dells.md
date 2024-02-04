@@ -5,7 +5,8 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: Grappling Industries WISCONSIN DELLS
+description: |
+  Grappling Industries WISCONSIN DELLS
 price: $90
 location: |
   Wisconsin Dells

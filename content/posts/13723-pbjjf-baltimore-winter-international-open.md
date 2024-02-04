@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: PBJJF BALTIMORE WINTER INTERNATIONAL OPEN FEB 24,2024
+description: |
+  PBJJF BALTIMORE WINTER INTERNATIONAL OPEN FEB 24,2024
 price: $129
 location: |
   Arnold

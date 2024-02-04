@@ -5,7 +5,8 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: Grappling X 6/23/2024 California State Jiu Jitsu Championships Temecula, CA (Gi and No-Gi Jiu-Jitsu Divisions at this event)
+description: |
+  Grappling X 6/23/2024 California State Jiu Jitsu Championships Temecula, CA (Gi and No-Gi Jiu-Jitsu Divisions at this event)
 price: $79
 location: |
   Temecula

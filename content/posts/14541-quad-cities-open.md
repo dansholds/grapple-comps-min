@@ -5,7 +5,8 @@ tags:
     - Oct
     - gi 
     - nogi 
-description: FUJI BJJ presents the Quad Cities Open
+description: |
+  FUJI BJJ presents the Quad Cities Open
 price: $85
 location: |
   Bettendorf

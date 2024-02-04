@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: The Finishers Open 15 is a single elimination submission only, tournament open to the public
+description: |
+  The Finishers Open 15 is a single elimination submission only, tournament open to the public
 price: $85
 location: |
   Fort Lauderdale

@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: Saturday April 6th! The Combat Sports Report is hosting 2 different 16 man tournaments
+description: |
+  Saturday April 6th! The Combat Sports Report is hosting 2 different 16 man tournaments
 price: $200
 location: |
   Tempe

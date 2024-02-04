@@ -5,7 +5,8 @@ tags:
     - Nov
     - gi 
     - nogi 
-description: Tap Cancer Out 2024 Long Island BJJ Open
+description: |
+  Tap Cancer Out 2024 Long Island BJJ Open
 price: $1000
 location: |
   Long Island

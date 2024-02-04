@@ -5,7 +5,8 @@ tags:
     - Sep
     - gi 
     - nogi 
-description: Battleground presents the Midland Fall Championships Saturday September 14
+description: |
+  Battleground presents the Midland Fall Championships Saturday September 14
 price: $90
 location: |
   United States

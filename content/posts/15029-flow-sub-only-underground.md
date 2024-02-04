@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: Flow Sub Only- Underground
+description: |
+  Flow Sub Only- Underground
 price: $100
 location: |
   Rockland

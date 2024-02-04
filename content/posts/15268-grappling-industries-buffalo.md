@@ -5,7 +5,8 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: Grappling Industries BUFFALO
+description: |
+  Grappling Industries BUFFALO
 price: $90
 location: |
   Buffalo

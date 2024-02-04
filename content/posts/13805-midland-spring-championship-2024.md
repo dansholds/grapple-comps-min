@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: Battleground presents the Midland Spring Championships Saturday April13
+description: |
+  Battleground presents the Midland Spring Championships Saturday April13
 price: $80
 location: |
   Midland

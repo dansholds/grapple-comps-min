@@ -5,7 +5,8 @@ tags:
     - Aug
     - gi 
     - nogi 
-description: To provide a combat experience that helps fighters become better versions of themselves
+description: |
+  To provide a combat experience that helps fighters become better versions of themselves
 price: $105
 location: |
   Concord

@@ -5,7 +5,8 @@ tags:
     - May
     - gi 
     - nogi 
-description: Tap Cancer Out 2024 Charlotte BJJ Open
+description: |
+  Tap Cancer Out 2024 Charlotte BJJ Open
 price: $1000
 location: |
   Charlotte

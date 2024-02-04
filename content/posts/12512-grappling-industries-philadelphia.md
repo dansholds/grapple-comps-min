@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: Grappling Industries PHILADELPHIA
+description: |
+  Grappling Industries PHILADELPHIA
 price: $90
 location: |
   Philadelphia

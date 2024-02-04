@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: FUJI BJJ presents the Springfield, MO Spring Open
+description: |
+  FUJI BJJ presents the Springfield, MO Spring Open
 price: $85
 location: |
   Springfield

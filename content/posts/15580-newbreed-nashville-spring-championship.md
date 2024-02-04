@@ -5,7 +5,8 @@ tags:
     - May
     - gi 
     - nogi 
-description: MTSU Recreation Center - 1848 Blue Raider Dr, Murfreesboro, TN
+description: |
+  MTSU Recreation Center - 1848 Blue Raider Dr, Murfreesboro, TN
 price: $150
 location: |
   Murfreesboro

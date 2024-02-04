@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: Grappling Industries MONTANA
+description: |
+  Grappling Industries MONTANA
 price: $90
 location: |
   Helena

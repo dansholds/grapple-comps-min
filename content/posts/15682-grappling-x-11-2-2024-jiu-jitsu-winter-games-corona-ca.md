@@ -5,7 +5,8 @@ tags:
     - Nov
     - gi 
     - nogi 
-description: Grappling X 11/2/2024 Jiu Jitsu Winter Games Corona, CA (Gi and No-Gi Jiu-Jitsu Divisions at this event)
+description: |
+  Grappling X 11/2/2024 Jiu Jitsu Winter Games Corona, CA (Gi and No-Gi Jiu-Jitsu Divisions at this event)
 price: $79
 location: |
   corona

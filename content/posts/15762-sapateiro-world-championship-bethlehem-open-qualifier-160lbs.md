@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: This is a open registration bracket for a spot in the 160lb Sapateiro World Championship
+description: |
+  This is a open registration bracket for a spot in the 160lb Sapateiro World Championship
 price: $100
 location: |
   Bethlehem

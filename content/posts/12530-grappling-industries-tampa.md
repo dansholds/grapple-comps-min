@@ -5,7 +5,8 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: Grappling Industries TAMPA
+description: |
+  Grappling Industries TAMPA
 price: $90
 location: |
   Tampa

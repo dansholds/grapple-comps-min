@@ -5,7 +5,8 @@ tags:
     - Jun
     - gi 
     - nogi 
-description: FUJI BJJ presents the Virginia State Championship
+description: |
+  FUJI BJJ presents the Virginia State Championship
 price: $85
 location: |
   Richmond

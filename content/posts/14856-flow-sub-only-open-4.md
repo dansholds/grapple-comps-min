@@ -5,7 +5,8 @@ tags:
     - May
     - gi 
     - nogi 
-description: Flow Sub-Only Open 4
+description: |
+  Flow Sub-Only Open 4
 price: $75
 location: |
   Rockland

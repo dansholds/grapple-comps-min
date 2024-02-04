@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: ADCC US Open - Las Vegas, NV
+description: |
+  ADCC US Open - Las Vegas, NV
 price: $125
 location: |
   Las Vegas

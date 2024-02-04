@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: JitzKing Orlando Open 2024
+description: |
+  JitzKing Orlando Open 2024
 price: $100
 location: |
   Orlando

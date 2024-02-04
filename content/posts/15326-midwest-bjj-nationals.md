@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: The Midwest BJJ Nationals is excited to host our next event at South Oldham High School on April 20th 2024
+description: |
+  The Midwest BJJ Nationals is excited to host our next event at South Oldham High School on April 20th 2024
 price: $30
 location: |
   Crestwood

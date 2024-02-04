@@ -5,7 +5,8 @@ tags:
     - Oct
     - gi 
     - nogi 
-description: Grappling Industries SAN ANTONIO
+description: |
+  Grappling Industries SAN ANTONIO
 price: $90
 location: |
   San Antonio

@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: At American Grappling Association, we celebrate the diverse art and techniques of Brazilian Jiu-Jitsu by hosting both Gi and No-Gi tournaments
+description: |
+  At American Grappling Association, we celebrate the diverse art and techniques of Brazilian Jiu-Jitsu by hosting both Gi and No-Gi tournaments
 price: $55
 location: |
   Oak Lawn

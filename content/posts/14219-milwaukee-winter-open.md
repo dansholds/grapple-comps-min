@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: FUJI BJJ presents the Milwaukee Winter Open
+description: |
+  FUJI BJJ presents the Milwaukee Winter Open
 price: $100
 location: |
   Milwaukee

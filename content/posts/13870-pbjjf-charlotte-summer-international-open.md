@@ -5,7 +5,8 @@ tags:
     - Aug
     - gi 
     - nogi 
-description: PBJJF CHARLOTTE SUMMER INTERNATIONAL OPEN AUG 10, 2024
+description: |
+  PBJJF CHARLOTTE SUMMER INTERNATIONAL OPEN AUG 10, 2024
 price: $99
 location: |
   United States

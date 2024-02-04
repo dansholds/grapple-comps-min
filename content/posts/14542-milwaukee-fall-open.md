@@ -5,7 +5,8 @@ tags:
     - Oct
     - gi 
     - nogi 
-description: FUJI BJJ presents the Milwaukee Fall Open
+description: |
+  FUJI BJJ presents the Milwaukee Fall Open
 price: $85
 location: |
   Milwaukee

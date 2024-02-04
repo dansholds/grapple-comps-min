@@ -5,7 +5,8 @@ tags:
     - May
     - gi 
     - nogi 
-description: FUJI BJJ presents the Paducah Spring Championship
+description: |
+  FUJI BJJ presents the Paducah Spring Championship
 price: $85
 location: |
   Paducah

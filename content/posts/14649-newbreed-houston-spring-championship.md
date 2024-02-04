@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: The Zone - 10371 Stella Link Rd, Houston, TX
+description: |
+  The Zone - 10371 Stella Link Rd, Houston, TX
 price: $150
 location: |
   Houston

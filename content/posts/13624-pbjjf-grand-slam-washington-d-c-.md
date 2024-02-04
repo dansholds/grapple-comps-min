@@ -5,7 +5,8 @@ tags:
     - Nov
     - gi 
     - nogi 
-description: PBJJF Grand Slam Washington D
+description: |
+  PBJJF Grand Slam Washington D
 price: $99
 location: |
   United States

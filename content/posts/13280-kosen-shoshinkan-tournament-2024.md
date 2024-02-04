@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: Shoshinkan Martial Arts is welcoming Judo, BJJ and grappling techniques Athletes from all over the United States for its Annual Kosen Tournament
+description: |
+  Shoshinkan Martial Arts is welcoming Judo, BJJ and grappling techniques Athletes from all over the United States for its Annual Kosen Tournament
 price: $75
 location: |
   Las Vegas

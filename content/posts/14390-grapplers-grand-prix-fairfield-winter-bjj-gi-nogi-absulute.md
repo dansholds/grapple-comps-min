@@ -5,7 +5,8 @@ tags:
     - Dec
     - gi 
     - nogi 
-description: Welcome to Grapplers Grand Prix
+description: |
+  Welcome to Grapplers Grand Prix
 price: $80
 location: |
   Fairfield

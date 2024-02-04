@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: FUJI BJJ presents the Corvette Classic
+description: |
+  FUJI BJJ presents the Corvette Classic
 price: $115
 location: |
   Bowling Green

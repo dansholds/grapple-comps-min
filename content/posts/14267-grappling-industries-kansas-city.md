@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: Grappling Industries KANSAS CITY
+description: |
+  Grappling Industries KANSAS CITY
 price: $120
 location: |
   Kansas City

@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Grappling Industries VIRGINIA BEACH
+description: |
+  Grappling Industries VIRGINIA BEACH
 price: $90
 location: |
   Virginia Beach

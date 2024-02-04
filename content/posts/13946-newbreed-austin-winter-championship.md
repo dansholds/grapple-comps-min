@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: Premier Athletic Complex - 8220 183A, Leander, TX
+description: |
+  Premier Athletic Complex - 8220 183A, Leander, TX
 price: $150
 location: |
   Austin

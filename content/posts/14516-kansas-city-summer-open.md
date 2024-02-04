@@ -5,7 +5,8 @@ tags:
     - Jul
     - gi 
     - nogi 
-description: FUJI BJJ presents the Kansas City Summer Open
+description: |
+  FUJI BJJ presents the Kansas City Summer Open
 price: $85
 location: |
   Kansas City

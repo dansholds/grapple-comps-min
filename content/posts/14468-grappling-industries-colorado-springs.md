@@ -5,7 +5,8 @@ tags:
     - May
     - gi 
     - nogi 
-description: Grappling Industries COLORADO SPRINGS
+description: |
+  Grappling Industries COLORADO SPRINGS
 price: $90
 location: |
   Colorado Springs

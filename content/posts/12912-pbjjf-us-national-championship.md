@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: US NATIONAL CHAMPIONSHIP GI AND NOGI APRIL 06, 2024
+description: |
+  US NATIONAL CHAMPIONSHIP GI AND NOGI APRIL 06, 2024
 price: $109
 location: |
   Raleigh

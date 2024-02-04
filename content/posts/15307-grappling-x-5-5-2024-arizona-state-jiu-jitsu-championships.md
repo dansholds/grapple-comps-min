@@ -5,7 +5,8 @@ tags:
     - May
     - gi 
     - nogi 
-description: Grappling X 5/5/2024 Arizona State Jiu Jitsu Championships Gilbert, AZ (Gi and No-Gi Jiu-Jitsu Divisions at this event)
+description: |
+  Grappling X 5/5/2024 Arizona State Jiu Jitsu Championships Gilbert, AZ (Gi and No-Gi Jiu-Jitsu Divisions at this event)
 price: $69
 location: |
   Gilbert

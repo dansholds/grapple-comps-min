@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: SUNDAY, April 21, 2023
+description: |
+  SUNDAY, April 21, 2023
 price: $110
 location: |
   Honolulu

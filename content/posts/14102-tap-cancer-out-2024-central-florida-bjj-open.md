@@ -5,7 +5,8 @@ tags:
     - Sep
     - gi 
     - nogi 
-description: Tap Cancer Out 2024 Central Florida BJJ Open
+description: |
+  Tap Cancer Out 2024 Central Florida BJJ Open
 price: $1000
 location: |
   Winter Haven

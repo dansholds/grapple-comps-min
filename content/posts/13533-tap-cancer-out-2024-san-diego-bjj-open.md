@@ -5,7 +5,8 @@ tags:
     - Feb
     - gi 
     - nogi 
-description: Tap Cancer Out 2024 San Diego BJJ Open
+description: |
+  Tap Cancer Out 2024 San Diego BJJ Open
 price: $1000
 location: |
   San Diego

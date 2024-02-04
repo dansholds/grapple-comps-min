@@ -5,7 +5,8 @@ tags:
     - Jul
     - gi 
     - nogi 
-description: PHILADELPHIA SUMMER INTERNATIONAL OPEN JULY 27TH, 2024
+description: |
+  PHILADELPHIA SUMMER INTERNATIONAL OPEN JULY 27TH, 2024
 price: $99
 location: |
   Philadelphia

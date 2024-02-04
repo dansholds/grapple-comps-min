@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: RGV Spring Open 2024
+description: |
+  RGV Spring Open 2024
 price: $40
 location: |
   Edinburg

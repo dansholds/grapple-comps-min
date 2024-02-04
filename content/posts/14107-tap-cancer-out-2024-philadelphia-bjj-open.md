@@ -5,7 +5,8 @@ tags:
     - Nov
     - gi 
     - nogi 
-description: Tap Cancer Out 2024 Philadelphia BJJ Open
+description: |
+  Tap Cancer Out 2024 Philadelphia BJJ Open
 price: $1000
 location: |
   Hatfield

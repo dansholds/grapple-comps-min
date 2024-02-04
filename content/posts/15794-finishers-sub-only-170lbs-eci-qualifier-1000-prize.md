@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: Finishers Presents the Emerald City 170lbs Qualifier
+description: |
+  Finishers Presents the Emerald City 170lbs Qualifier
 price: $60
 location: |
   Bethlehem

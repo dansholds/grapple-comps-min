@@ -5,7 +5,8 @@ tags:
     - Apr
     - gi 
     - nogi 
-description: PBJJF BOSTON SPRING INTERNATIONAL OPEN APRIL 27, 2024
+description: |
+  PBJJF BOSTON SPRING INTERNATIONAL OPEN APRIL 27, 2024
 price: $99
 location: |
   Haverhill

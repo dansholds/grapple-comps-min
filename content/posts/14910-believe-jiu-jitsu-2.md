@@ -5,7 +5,8 @@ tags:
     - Mar
     - gi 
     - nogi 
-description: To win you must BELIEVE it in your heart before anyone else does! Welcome to Believe Jiu-Jitsu!
+description: |
+  To win you must BELIEVE it in your heart before anyone else does! Welcome to Believe Jiu-Jitsu!
 price: $75
 location: |
   Chicago
