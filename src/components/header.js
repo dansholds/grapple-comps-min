@@ -12,6 +12,11 @@ const HEADER_NAV_ITEM = [
     isExternal: false,
   },
   {
+    label: "US",
+    url: "https://us.grapplecomps.com",
+    isExternal: true,
+  },
+  {
     label: "About",
     url: "/about",
     isExternal: false,
