@@ -1,9 +1,3 @@
-https://smoothcomp.com/en/event/14887
-https://smoothcomp.com/en/event/15138
-https://smoothcomp.com/en/event/12224
-https://smoothcomp.com/en/event/13331
-https://bjj247.smoothcomp.com/en/event/14324
-https://empiregrappling.smoothcomp.com/en/event/14416
 https://smoothcomp.com/en/event/13378
 https://smoothcomp.com/en/event/13515
 https://bjj247.smoothcomp.com/en/event/14317
@@ -14,6 +8,7 @@ https://smoothcomp.com/en/event/14645
 https://smoothcomp.com/en/event/15089
 https://smoothcomp.com/en/event/16208
 https://smoothcomp.com/en/event/14341
+https://smoothcomp.com/en/event/16492
 https://grapplingindustries.smoothcomp.com/en/event/13235
 https://smoothcomp.com/en/event/14943
 https://smoothcomp.com/en/event/12496
@@ -29,6 +24,7 @@ https://smoothcomp.com/en/event/15671
 https://smoothcomp.com/en/event/15912
 https://prosportgrappling.smoothcomp.com/en/event/15468
 https://smoothcomp.com/en/event/15956
+https://smoothcomp.com/en/event/16163
 https://smoothcomp.com/en/event/14779
 https://prosportgrappling.smoothcomp.com/en/event/15470
 https://smoothcomp.com/en/event/15087
@@ -54,8 +50,11 @@ https://grapplingindustries.smoothcomp.com/en/event/12875
 https://grapplingindustries.smoothcomp.com/en/event/14478
 https://prosportgrappling.smoothcomp.com/en/event/15873
 https://grapplingindustries.smoothcomp.com/en/event/14292
+https://empiregrappling.smoothcomp.com/en/event/15445
+https://smoothcomp.com/en/event/14487
 https://smoothcomp.com/en/event/15520
 https://smoothcomp.com/en/event/14945
+https://smoothcomp.com/en/event/10308
 https://smoothcomp.com/en/event/15573
 https://smoothcomp.com/en/event/14947
 https://grapplingindustries.smoothcomp.com/en/event/16267
@@ -67,8 +66,7 @@ https://smoothcomp.com/en/event/15544
 https://grapplingindustries.smoothcomp.com/en/event/14201
 https://smoothcomp.com/en/event/15953
 https://smoothcomp.com/en/event/14982
-https://smoothcomp.com/en/event/15668
+https://smoothcomp.com/en/event/16472
 https://smoothcomp.com/en/event/15408
-https://smoothcomp.com/en/event/14487
 https://smoothcomp.com/en/event/15515
 https://smoothcomp.com/en/event/15516
