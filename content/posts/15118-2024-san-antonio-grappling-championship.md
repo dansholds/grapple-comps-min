@@ -1,13 +1,13 @@
 ---
 title: 2024 San Antonio Grappling Championship
-date: 2024-03-09
+date: 2024-05-04
 tags:
-    - Mar
+    - May
     - gi 
     - nogi 
 description: |
   2024 San Antonio Grappling Championship
-price: $50
+price: $60
 location: |
   San Antonio
 ---
@@ -30,6 +30,12 @@ SAN ANTONIO, TX 78218
 .
 
 
+***            NEW DATE- MAY 4, 2024           ***
+
+
+.
+
+
 THIS TOURNAMENT IS DOUBLE ELIMINATION AND PRE-REGISTRATION ONLY
 
 
@@ -42,28 +48,10 @@ OVERALL TEAM AWARDS FOR 1ST, 2ND, AND 3RD PLACE TEAMS
 BEAUTIFUL CUSTOM MEDALS
 
 
-.
-
-
-REGULAR REGISTRATION -> NOW thru FEB 26th
-
-
-1st Division $50  Two Divisions $89
-
-
-.
-
-
-LATE REGISTRATION ENDS -> WEDNESDAY, MARCH 5th
+REGISTRATION ENDS -> TUESDAY, APRIL 30TH
 
 
 1st Division $60 Two Divisions $109
-
-
-.
-
-
-FREE T-SHIRT W/TWO DIVISIONS NOW THRU FEBRUARY 29th
 
 
 WEIGH-INS-
@@ -72,7 +60,7 @@ WEIGH-INS-
 No Early or Satellite Weigh-ins on Friday. All competitors must weigh-in on Saturday morning at the tournament site. There is a two pound weight allowance. You must make weight or be subject to disqualification. Weigh-ins are done without the Gi.
 
 
-DOORS OPEN @ 8-00 AM SATURDAY, MARCH 9th
+DOORS OPEN @ 8-00 AM SATURDAY, MAY 4TH
 
 
 Youth weigh-ins @ 8-00  am
@@ -84,7 +72,10 @@ Adult weigh-ins @ 10-00 am
 .
 
 
-YOU MAY EDIT YOUR REGISTRATION BY LOGGING IN TO YOUR SMOOTHCOMP ACCOUNT UNTIL SUNDAY, MARCH 3rd.
+YOU MAY CANCEL YOUR REGISTRATION BY LOGGING IN TO YOUR SMOOTHCOMP ACCOUNT UNTIL 11-59 PM MONDAY, APRIL 1ST.
+
+
+YOU MAY EDIT YOUR REGISTRATION BY LOGGING IN TO YOUR SMOOTHCOMP ACCOUNT UNTIL WEDNESDAY, MAY 1ST.
 
 
 You may move up one weight class. Youth competitors may move up one skill level. Youth competitors may move up one age group.
@@ -120,4 +111,4 @@ DIVISIONS, RULES, AND GUIDELINES-  HTTPS-//IBJJF.COM/
 .
 
 
-THE LAST DAY TO CANCEL YOUR REGISTRATION FOR A FULL REFUND IS MONDAY, FEBRUARY 12th.   THE LAST DAY TO CANCEL FOR A CREDIT IS SATURDAY, FEBRUARY 17th.
+THE LAST DAY TO CANCEL YOUR REGISTRATION FOR A FULL REFUND IS MONDAY, APRIL 1ST.
