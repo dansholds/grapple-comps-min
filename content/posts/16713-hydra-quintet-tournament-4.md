@@ -1,21 +1,26 @@
 ---
-title: Hydra Quintet Tournament 3
-date: 2024-03-23
+title: Hydra- Quintet Tournament 4
+date: 2024-07-13
 tags:
-    - Mar
+    - Jul
+    - gi 
     - nogi 
-description: We are pleased to invite you to our team format submision only tournament!
+description: |
+  We are pleased to invite you to our team format submision only tournament! Compete in a classic quintet match with your own squad of grapplers or gather a team of men and women in our first ever Quintet Rivals
 price: £150
-location: Worthing
+location: |
+  Worthing
+  
+  United Kingdom
 ---
 ## Sign Up
-https://smoothcomp.com/en/event/15089
+https://smoothcomp.com/en/event/16713
 
 ## Location
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12345.6789!2d-0.4115110!3d50.8261190!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z50.8261190!5e0!3m2!1sen!2sus!4v1234567890" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12345.6789!2d-0.4068346!3d50.8289407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z50.8289407!5e0!3m2!1sen!2sus!4v1234567890" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ## Description
-Quintet Classic Rules:
+Quintet Classic Rules-
 
 
 
@@ -61,7 +66,7 @@ If EBI overtime ends in a draw, the team with the least amount of stalling calls
 Further information about the rules and guidelines can be found in the next page.
 
 
-Quintet Rivals Rules:
+Quintet Rivals Rules-
 
 
 We're excited to announce our new mixed gender team battle format pitting each competitor against a matching rival. Here is the team composition you must have for the team.
