@@ -1,13 +1,13 @@
 ---
 title: Ascension Grappling Championships (AGC) 5 - Connecticut
-date: 2024-04-06
+date: 2024-05-11
 tags:
-    - Apr
+    - May
     - gi 
     - nogi 
 description: |
   A new and fresh approach to organized jiu jitsu competitions designed around the athlete and spectator experience by providing an organized, clean, timely, and entertaining event
-price: $80
+price: $100
 location: |
   Stamford
 ---
@@ -21,7 +21,7 @@ https://smoothcomp.com/en/event/10923
 Ascension Grappling Championships 5
 
 
-September 2nd, 2023
+May 11th, 2024
 
 
 Chelsea Piers, One Blachley Road, Stamford, CT, 06902
@@ -60,40 +60,40 @@ REGISTRATION-
 Early Bird-
 
 
-$80 - 1 Division until February 21st, 2024
+$80 - 1 Division until March 27th, 2024
 
 
-$105 - 2 Divisions until February 21st, 2024
+$105 - 2 Divisions until March 27th, 2024
 
 
 Normal Registration
 
 
-$100 - 1 Division until March 25th, 2024
+$100 - 1 Division until April 29th, 2024
 
 
-$125 - 2 Divisions until March 25th, 2024
+$125 - 2 Divisions until April 29th, 2024
 
 
 Late Registration
 
 
-$120 - 1 Division until April 2nd, 2024
+$120 - 1 Division until May 8th, 2024
 
 
-$145 - 2 Divisions until April 2nd, 2024
+$145 - 2 Divisions until May 8th, 2024
 
 
 Absolute
 
 
-+$25 - Absolute until April 2nd, 2024
++$25 - Absolute until May 8th, 2024
 
 
 Athlete Correction Deadline
 
 
-April 3rd, 2024, 5pm
+May 8th, 2024, 5pm
 
 
 Spectator

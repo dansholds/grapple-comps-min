@@ -1,13 +1,13 @@
 ---
 title: Team USA Pankration Texas Regionals
-date: 2024-04-20
+date: 2024-05-04
 tags:
-    - Apr
+    - May
     - gi 
     - nogi 
 description: |
   Team USA Pankration Texas Regionals
-price: $80
+price: $100
 location: |
   Fort Worth
 ---
@@ -21,10 +21,7 @@ https://smoothcomp.com/en/event/15934
 This is your chance to earn a place on Team USA and Compete in the 2024 World Games in Romania,
 
 
-We will be competing in three divisions.
-
-
-compete in one or compete in all
+We will be evaluating two divisions.
 
 
 ~ Grappling (takedowns and submission only)
@@ -33,10 +30,7 @@ compete in one or compete in all
 ~ Continuous Sparing (no head contact)
 
 
-~ Pankration (stand up and ground, no head contact)
-
-
-Two matches guaranteed
+Be evaluated by the President and coaching staff for your chance to represent team USA 
 
 
 1 division $60 before April 6th, $80 after 
