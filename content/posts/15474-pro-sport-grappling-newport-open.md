@@ -1,25 +1,28 @@
 ---
-title: Pro Sport Grappling - Reading Open
-date: 2024-04-28
+title: Pro Sport Grappling - Newport Open
+date: 2024-06-23
 tags:
-    - Apr
+    - Jun
     - gi 
     - nogi 
-description: Reading Open Gi & NoGi BJJ Championships
-price: £45
-location: Reading
+description: |
+  Newport Open Gi &amp; NoGi BJJ Championships
+price: £55
+location: |
+  Cwnbran
+  
+  United Kingdom
 ---
 ## Sign Up
-https://prosportgrappling.smoothcomp.com/en/event/15470
+https://prosportgrappling.smoothcomp.com/en/event/15474
 
 ## Location
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12345.6789!2d-0.9839530!3d51.4642702!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z51.4642702!5e0!3m2!1sen!2sus!4v1234567890" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12345.6789!2d-3.0417626!3d51.6391018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z51.6391018!5e0!3m2!1sen!2sus!4v1234567890" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ## Description
-ENTRY IS NOW OPEN TIME - Doors open 9.00am with first match at 10.00amDATE - Sunday April 28th 2024PLACE - Rivermead Leisure Centre, Richfield Ave, Reading RG1 8EQ FIGHT MORE - PAY LESSSame great price but double the matches! Sounds good? As Bjj Black Belts we,
+ENTRY IS NOW OPEN TIME - Doors open 9.00am with first match at 10.00amDATE - Sunday June 23rd 2024PLACE - Cwmbran Stadium Sports Complex, Henllys Way, Cwmbran NP44 3YS FIGHT MORE - PAY LESSSame great price but double the matches! Sounds good? As Bjj Black Belts we,
 the owners of Pro Sport Grappling know how important mat time is and how
-frustrating it can be when you only get one match at an event. That’s why for
-2024 we aim to give all competitors a minimum of 2 matches per division, even
+frustrating it can be when you only get one match at an event. That’s why for this event we aim to give all competitors a minimum of 2 matches per division, even
 if you lose your first match! So, for example if you enter both Gi and NoGi
 divisions we aim to give you at least 4 matches*. We also discount the
 additional division so it’s even better value for money.STRAIGHT FINALS - best of 3 super-fightsTHREE IN A DIVISION  -  IBJJF Round Robin**FOUR OR MORE IN A DIVISION - Single elimination with
@@ -97,19 +100,19 @@ ________________________________________________________________________________
 
 REGISTRATION Registration fees will be offered at a discounted rate, then a normal rate,
 then a late entry rate. Discounts are offered if entering multiple categories.
-Please enter early for the best price.Registration open until 24/04/2024 (or when capacity is reached). Please
+Please enter early for the best price.Registration open until 19/05/2024 (or when capacity is reached). Please
 read our Refund/ Credit Policy page for details on cancellation.
 
 
 You can make changes to your registration via your Smoothcomp account until
-midnight on 24th April 2024. Event organisers may make changes to your
+midnight on 19th May 2024. Event organisers may make changes to your
 division but it is the athlete's responsibility to move divisions if they
 wish.  Instructions on how to make changes here
-https://support.smoothcomp.com/article/89-how-to-change-weightclass-or-cancelREFUNDS Please see our Refund/Credit policy page for
+https-//support.smoothcomp.com/article/89-how-to-change-weightclass-or-cancelREFUNDS Please see our Refund/Credit policy page for
 details Refund/Credit policyWEIGH INS  Weigh ins are around half an hour before the start of your division. We run
 a Smart Registration and Smart Weigh-In system which uses your Smoothcomp ID
 barcode. Please have this ready on arrival at the venue. This can be found on
-your Smoothcomp account section. There is also a video here on how to obtain this.https://vimeo.com/user169054688/prosportsmartweigh-inEVENT RULES-          Pro MMA fighters,
+your Smoothcomp account section. There is also a video here on how to obtain this.https-//vimeo.com/user169054688/prosportsmartweigh-inEVENT RULES-          Pro MMA fighters,
 competitive wrestlers and Judo Black belts must fight blue or above or face DQ.-          NoGi Competitors
 must wear rash guard and appropriate shorts/spats-          Please make sure you
 register in the correct weight division as failure to make weight will result
