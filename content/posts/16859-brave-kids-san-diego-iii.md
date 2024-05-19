@@ -1,13 +1,13 @@
 ---
 title: Brave Kids San Diego III
-date: 2024-05-18
+date: 2024-07-27
 tags:
-    - May
+    - Jul
     - gi 
     - nogi 
 description: |
   Top Level Kids BJJ Tournaments!
-price: $139
+price: $999
 location: |
   San Diego
 ---

@@ -1,29 +1,33 @@
 ---
-title: PBJJF New Jersey Spring International Open
-date: 2024-05-19
+title: PBJJF North American Jiu-Jitsu Championship
+date: 2024-12-07
 tags:
-    - May
+    - Dec
     - gi 
     - nogi 
 description: |
-  PBJJF NEW JERSEY SPRING INTERNATIONAL OPEN MAY 19, 2024
-price: $109
+  PBJJF NORTH AMERICAN JIU-JITSU CHAMPIONSHIP December 7, 2024
+price: $99
 location: |
-  Morristown
-  
   United States
 ---
 ## Sign Up
-https://pbjjf.smoothcomp.com/en/event/13742
+https://pbjjf.smoothcomp.com/en/event/17294
 
 ## Location
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12345.6789!2d-74.4757608!3d40.8153190!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z40.8153190!5e0!3m2!1sen!2sus!4v1234567890" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12345.6789!2d-71.0522839!3d42.3559813!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z42.3559813!5e0!3m2!1sen!2sus!4v1234567890" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ## Description
+Location- NECC Community College - 
+
+
+NECC HAVERHILL CAMPUS - Sports & Fitness Center, Northern Essex Community College's Athletic Track, College Ave, Haverhill, MA 01830
+
+
+.
+
+
 Doors open at 8-00amEvent starts at 9-00am
-
-
-Location- Mennen Sport Arena - 161 E Hanover Ave, Morristown, NJ 07960
 
 
 FORMAT- Professional Brazilian Jiu Jitsu Federation 
@@ -50,7 +54,7 @@ Early Registration - $99
 Normal Registration – $109
 
 
-Per Absolute Division – $25
+Per Absolute Division – $20
 
 
 Late Registration – $129

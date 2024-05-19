@@ -1,8 +1,8 @@
 ---
 title: ROLLSTAR Rumble No. 2
-date: 2024-05-04
+date: 2024-06-22
 tags:
-    - May
+    - Jun
     - gi 
     - nogi 
 description: |
@@ -28,6 +28,9 @@ Kids Division- Starts 9-00am
 
 Adult Division- Starts 3-30pm
 
+
+
+NEW DATE- Saturday, June 22
 
 
 Important

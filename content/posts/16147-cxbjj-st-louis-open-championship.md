@@ -1,13 +1,13 @@
 ---
 title: CXBJJ St Louis Open Championship
-date: 2024-05-11
+date: 2024-07-13
 tags:
-    - May
+    - Jul
     - gi 
     - nogi 
 description: |
   Welcome to CXBJJ Saint Louis Open Championship, we look forward to seeing you compete and achieve greatness through our CXBJJ experience
-price: $65
+price: $75
 location: |
   St Louis
   
@@ -23,10 +23,10 @@ https://smoothcomp.com/en/event/16147
 CXBJJ Saint Louis Open Championship 2024
 
 
-Tournament will be held at the Seckman High School on May 11, 2024.
+Tournament will be held at the Seckman High School on June 29 2024.
 
 
-Adult Weigh-ins will start at 0830 and end at 0930, Gi and No-Gi (weigh-in with the uniform) Saturday May 11.
+Adult Weigh-ins will start at 0830 and end at 0930, Gi and No-Gi (weigh-in with the uniform) Saturday June 29.
 
 
 Adult Competition will start with the Gi followed by NoGi from 0930-1230.

@@ -1,21 +1,21 @@
 ---
 title: Brave Kids Arizona
-date: 2024-05-18
+date: 2024-07-13
 tags:
-    - May
+    - Jul
     - gi 
     - nogi 
 description: |
   Top Level Kids BJJ Tournaments!
-price: $79
+price: $999
 location: |
-  Chandler
+  Gilbert
 ---
 ## Sign Up
 https://ibjjff.smoothcomp.com/en/event/15500
 
 ## Location
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12345.6789!2d-111.8450380!3d33.3344837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z33.3344837!5e0!3m2!1sen!2sus!4v1234567890" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12345.6789!2d-111.7950027!3d33.3453727!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z33.3453727!5e0!3m2!1sen!2sus!4v1234567890" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ## Description
 Our Brave Mission - Top Level Kids BJJ Tournaments!
